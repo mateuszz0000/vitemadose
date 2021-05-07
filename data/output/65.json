@@ -1,0 +1,131 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.962845+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "65",
+      "nom": "Centre de vaccination COVID de Tarbes - EXPO",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tarbes/centre-de-vaccination-covid-de-tarbes-expo",
+      "location": {
+        "longitude": 0.0859007,
+        "latitude": 43.2194269,
+        "city": "Tarbes"
+      },
+      "metadata": {
+        "address": "Boulevard du Pr\u00e9sident Kennedy, 65000 Tarbes",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243493[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243493"
+    },
+    {
+      "departement": "65",
+      "nom": "Centre de vaccination Covid-19 de Bagneres de Bigorre - Halle aux grains",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bagneres-de-bigorre/centre-de-vaccination-covid-19-de-bagneres-de-bigorre",
+      "location": {
+        "longitude": 0.154689,
+        "latitude": 43.0673839,
+        "city": "Bagn\u00e8res-de-Bigorre"
+      },
+      "metadata": {
+        "address": "Place du Foirail, 65200 Bagn\u00e8res-de-Bigorre",
+        "phone_number": "+33679847383",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243044[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243044"
+    },
+    {
+      "departement": "65",
+      "nom": "Centre de vaccination Covid-19 Lourdes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lourdes/centre-de-vaccination-covid-19-lourdes",
+      "location": {
+        "longitude": -0.0425452,
+        "latitude": 43.1020954,
+        "city": "Lourdes"
+      },
+      "metadata": {
+        "address": "19 Avenue Alexandre Marqui, 65100 Lourdes",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243327[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243327"
+    },
+    {
+      "departement": "65",
+      "nom": "Centre de Vaccination Tarbes Ayguerote",
+      "url": "https://partners.doctolib.fr/hopital-public/tarbes/centre-de-vaccination-tarbes-ayguerote",
+      "location": {
+        "longitude": 0.0668303,
+        "latitude": 43.2343334,
+        "city": "Tarbes"
+      },
+      "metadata": {
+        "address": "2 Rue de l'Ayguerote, 65000 Tarbes",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-16:30",
+          "mardi": "09:00-12:00, 13:30-16:30",
+          "mercredi": "09:00-12:00, 13:30-16:30",
+          "jeudi": "09:00-12:00, 13:30-16:30",
+          "vendredi": "09:00-12:00, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242325[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242325"
+    }
+  ]
+}

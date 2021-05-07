@@ -1,0 +1,511 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.948434+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid-19 - Vaccinodrome Saint-Etienne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-etienne/centre-de-vaccination-covid-19-vaccinodrome-saint-etienne",
+      "location": {
+        "longitude": 4.3932646,
+        "latitude": 45.4517429,
+        "city": "Saint-\u00c9tienne"
+      },
+      "metadata": {
+        "address": "31 Rue Raymond Sommet, 42000 Saint-\u00c9tienne",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
+        }
+      },
+      "prochain_rdv": "2021-04-18T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2362,
+      "internal_id": "265342[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d265342"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination de CMSI 42",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-etienne/centre-de-vaccination-de-cmsi-42",
+      "location": {
+        "longitude": 4.3942979,
+        "latitude": 45.4144112,
+        "city": "Saint-\u00c9tienne"
+      },
+      "metadata": {
+        "address": "3 Rue le Verrier, 42100 Saint-\u00c9tienne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T19:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 9,
+      "internal_id": "262833[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d262833"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid 19 - CHU Saint Etienne",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-priest-en-jarez/centre-de-vaccination-covid-19-chu-saint-etienne",
+      "location": {
+        "longitude": 4.3678168,
+        "latitude": 45.4760329,
+        "city": "Saint-Priest-en-Jarez"
+      },
+      "metadata": {
+        "address": "Avenue Albert Raimond, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T17:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 239,
+      "internal_id": "249030[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d249030"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination COVID-19 de la Clinique du Parc de St-Priest-en-Jarez",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest-en-jarez/centre-de-vaccination-covid-19-de-la-clinique-du-parc-de-st-priest-en-jarez",
+      "location": {
+        "longitude": 4.367988,
+        "latitude": 45.4777796,
+        "city": "Saint-Priest-en-Jarez"
+      },
+      "metadata": {
+        "address": "9 Rue de la Piot, 42270 Saint-Priest-en-Jarez",
+        "phone_number": "+33477922275",
+        "business_hours": {
+          "lundi": "10:00-12:00, 14:00-16:00",
+          "mardi": "10:00-12:00, 14:00-16:00",
+          "mercredi": "10:00-12:00, 14:00-16:00",
+          "jeudi": "10:00-12:00, 14:00-16:00",
+          "vendredi": "10:00-12:00, 14:00-16:00",
+          "samedi": "10:00-12:00, 14:00-16:00",
+          "dimanche": "10:00-12:00, 14:00-16:00"
+        }
+      },
+      "prochain_rdv": "2021-05-01T12:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 93,
+      "internal_id": "263932[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d263932"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination externe Covid - H\u00f4pital Priv\u00e9 de la Loire",
+      "url": "https://partners.doctolib.fr/clinique-privee/saint-etienne/centre-de-vaccination-covid-hopital-prive-de-la-loire-saint-etienne",
+      "location": {
+        "longitude": 4.4181296,
+        "latitude": 45.4280185,
+        "city": "Saint-\u00c9tienne"
+      },
+      "metadata": {
+        "address": "39 Boulevard de la Palle, 42100 Saint-\u00c9tienne",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "11:00-21:00",
+          "mardi": "11:00-21:00",
+          "mercredi": "11:00-21:00",
+          "jeudi": "11:00-21:00",
+          "vendredi": "11:00-21:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-04T18:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 209,
+      "internal_id": "242225[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242225"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de Vaccination Covid-19 - Le Scarab\u00e9e",
+      "url": "https://partners.doctolib.fr/centre-de-sante/riorges/centre-de-vaccination-covid-19-le-scarabee",
+      "location": {
+        "longitude": 4.0401582,
+        "latitude": 46.0308919,
+        "city": "Riorges"
+      },
+      "metadata": {
+        "address": "Rue du Marclet, 42153 Riorges",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-14T14:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 170,
+      "internal_id": "265885[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d265885"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid - CH Roanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/roanne/centre-de-vaccination-covid-ch-roanne",
+      "location": {
+        "longitude": 4.0782828,
+        "latitude": 46.0427701,
+        "city": "Roanne"
+      },
+      "metadata": {
+        "address": "28 Rue de Charlieu, 42300 Roanne",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "08:00-21:00",
+          "mardi": "08:00-21:00",
+          "mercredi": "08:00-21:00",
+          "jeudi": "08:00-21:00",
+          "vendredi": "08:00-21:00",
+          "samedi": "08:00-21:00",
+          "dimanche": "08:00-21:00"
+        }
+      },
+      "prochain_rdv": "2021-05-18T11:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 51,
+      "internal_id": "260850[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d260850"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination du CH de Firminy",
+      "url": "https://www.maiia.com/centre-de-vaccination/42700-firminy/centre-de-vaccination-anti-covid-19-hopital-le-corbusier-firminy",
+      "location": {
+        "longitude": 4.28891,
+        "latitude": 45.3875,
+        "city": "Firminy"
+      },
+      "metadata": {
+        "address": "2 Rue Robert Plotton RDC B\u00e2timent L, 42700 Firminy",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "09:00-16:00",
+          "mardi": "09:00-16:00",
+          "mercredi": "09:00-16:00",
+          "jeudi": "09:00-16:00",
+          "vendredi": "09:00-16:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "821"
+    },
+    {
+      "departement": "42",
+      "nom": "CH du Gier Antenne rive de gier",
+      "url": "https://www.maiia.com/?gclid=eaiaiqobchmi-4brxbmu7wivqbdtch1vogfzeaayasaaegleufd_bwe",
+      "location": {
+        "longitude": 4.61922,
+        "latitude": 45.5274,
+        "city": "Rive-de-Gier"
+      },
+      "metadata": {
+        "address": "19 Rue L\u00e9on Marrel, 42800 Rive-de-Gier",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1668"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination COVID - Ville de Montbrison",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montbrison/centre-de-vaccination-covid-ville-de-montbrison",
+      "location": {
+        "longitude": 4.0598442,
+        "latitude": 45.6074771,
+        "city": "Montbrison"
+      },
+      "metadata": {
+        "address": "Avenue d'Allard, 42600 Montbrison",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244292[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244292"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid-19 - Andr\u00e9zieux-Bouth\u00e9on",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/andrezieux-boutheon/centre-de-vaccination-covid-19-andrezieux-boutheon",
+      "location": {
+        "longitude": 4.2696099281311,
+        "latitude": 45.5345230102539,
+        "city": "Andr\u00e9zieux-Bouth\u00e9on"
+      },
+      "metadata": {
+        "address": "14 Rue Limousin, 42160 Andr\u00e9zieux-Bouth\u00e9on",
+        "business_hours": {
+          "lundi": "09:00-16:00",
+          "mardi": "09:00-16:00",
+          "mercredi": "09:00-16:00",
+          "jeudi": "09:00-16:00",
+          "vendredi": "09:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243348[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243348"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre Hyg\u00e9e \u2013 Vaccination Moderna",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-priest-en-jarez/centre-hygee-vaccination-moderna",
+      "location": {
+        "longitude": 4.3604699,
+        "latitude": 45.4798076,
+        "city": "Saint-Priest-en-Jarez"
+      },
+      "metadata": {
+        "address": "1 Chemin de la Marandi\u00e8re, 42270 Saint-Priest-en-Jarez",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "09:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251571[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d251571"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid-19 - Maison de sant\u00e9 du pays d'urf\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-just-en-chevalet/centre-de-vaccination-covid-19-maison-de-sante-du-pays-d-urfe",
+      "location": {
+        "longitude": 3.8486595,
+        "latitude": 45.9147503,
+        "city": "Saint-Just-en-Chevalet"
+      },
+      "metadata": {
+        "address": "55 Rue Ren\u00e9 Cassin, 42430 Saint-Just-en-Chevalet",
+        "business_hours": {
+          "lundi": "08:00-11:30, 13:30-16:30",
+          "mardi": "08:00-11:30, 13:30-16:30",
+          "mercredi": null,
+          "jeudi": "08:00-11:30, 13:30-16:30",
+          "vendredi": "08:00-11:30, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257089[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d257089"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination COVID-19 - Centre intercommunal de Feurs",
+      "url": "https://partners.doctolib.fr/centre-de-sante/feurs/centre-de-vaccination-covid-ch-du-forez-site-de-feurs",
+      "location": {
+        "longitude": 4.224907,
+        "latitude": 45.7445264,
+        "city": "Feurs"
+      },
+      "metadata": {
+        "address": "Place de la Boaterie, 42110 Feurs",
+        "phone_number": "+33970771710",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241654[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241654"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination Covid-19 - MSP d'Ambierle",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/ambierle/centre-de-vaccination-covid-19-msp-d-ambierle",
+      "location": {
+        "longitude": 3.89451,
+        "latitude": 46.10465,
+        "city": "Ambierle"
+      },
+      "metadata": {
+        "address": "60 Rue de Faimes, 42820 Ambierle",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258549[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258549"
+    },
+    {
+      "departement": "42",
+      "nom": "Centre de vaccination COVID-19 - Clinique du Renaison",
+      "url": "https://partners.doctolib.fr/centre-de-sante/roanne/centre-de-vaccination-covid-19-clinique-du-renaison",
+      "location": {
+        "longitude": 4.0519322,
+        "latitude": 46.0337336,
+        "city": "Roanne"
+      },
+      "metadata": {
+        "address": "1 Rue Henri Desroches, 42153 Roanne",
+        "phone_number": "+33477448899",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264489[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264489"
+    }
+  ]
+}

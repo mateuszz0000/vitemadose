@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.973902+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination CPTS du Bressuirais - Bressuire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177494",
+      "location": {
+        "longitude": -0.4749539,
+        "latitude": 46.8491711,
+        "city": "Bressuire"
+      },
+      "metadata": {
+        "address": "Espace Bocapole, 79300 Bressuire",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "09:00-12:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[177494]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258619"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination CPTS du Bressuirais - Moncoutant-sur-S\u00e8vre",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre",
+      "location": null,
+      "metadata": {
+        "address": "La Morini\u00e8re, 79320 Moncoutant-sur-S\u00e8vre",
+        "phone_number": "+33586303286",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[176955]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258619"
+    },
+    {
+      "departement": "79",
+      "nom": "Vaccination Nord Deux S\u00e8vres - Parthenay",
+      "url": "https://partners.doctolib.fr/hopital-public/bressuire/vaccination-nord-deux-sevres?pid=practice-164768",
+      "location": {
+        "longitude": -0.221526,
+        "latitude": 46.6524957,
+        "city": "Parthenay"
+      },
+      "metadata": {
+        "address": "13 Route de Brossard, 79200 Parthenay",
+        "phone_number": "+33549682970",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:30",
+          "mardi": "09:00-12:00, 13:30-17:30",
+          "mercredi": "09:00-12:00, 13:30-17:30",
+          "jeudi": "09:00-12:00, 13:30-17:30",
+          "vendredi": "09:00-12:00, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243278[164768]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243278"
+    },
+    {
+      "departement": "79",
+      "nom": "Vaccination Nord Deux S\u00e8vres - Faye-l'Abbesse",
+      "url": "https://partners.doctolib.fr/hopital-public/bressuire/vaccination-nord-deux-sevres?pid=practice-164824",
+      "location": {
+        "longitude": -0.387598773016202,
+        "latitude": 46.8331334461397,
+        "city": "Faye-l'Abbesse"
+      },
+      "metadata": {
+        "address": "4 rue du Docteur Michel Binet, 79350 Faye-l'Abbesse",
+        "phone_number": "+33549683022",
+        "business_hours": {
+          "lundi": "09:00-12:30, 13:30-17:00",
+          "mardi": "09:00-12:30, 13:30-17:00",
+          "mercredi": "09:00-12:30, 13:30-17:00",
+          "jeudi": "09:00-12:30, 13:30-17:00",
+          "vendredi": "09:00-12:30, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243278[164824]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243278"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination CPTS du Bressuirais - Cerizay",
+      "url": "https://partners.doctolib.fr/centre-de-sante/moncoutant-sur-sevre/centre-de-vaccination-de-moncoutant-sur-sevre?pid=practice-177609",
+      "location": {
+        "longitude": -0.6717545,
+        "latitude": 46.8211589,
+        "city": "Cerizay"
+      },
+      "metadata": {
+        "address": "Place du Saint-P\u00e8re, 79140 Cerizay",
+        "phone_number": "+33755601381",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "09:00-12:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258619[177609]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258619"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination COVID-19 - Saint-Maixent-l'Ecole",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-maixent-l-ecole/centre-de-vaccination-covid-19-saint-maixent-l-ecole-saint-maixent-l-ecole",
+      "location": {
+        "longitude": -0.203301,
+        "latitude": 46.413781,
+        "city": "Saint-Maixent-l'\u00c9cole"
+      },
+      "metadata": {
+        "address": "Place Denfert Rochereau, 79400 Saint-Maixent-l'\u00c9cole",
+        "phone_number": "+33549169977",
+        "business_hours": {
+          "lundi": "09:00-12:30, 13:00-17:00",
+          "mardi": "09:00-12:30, 13:00-17:00",
+          "mercredi": "09:00-12:30, 13:00-17:00",
+          "jeudi": "09:00-12:30, 13:00-17:00",
+          "vendredi": "09:00-12:30, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "250092[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d250092"
+    },
+    {
+      "departement": "79",
+      "nom": "Vaccination Covid-19 Inkermann",
+      "url": "https://partners.doctolib.fr/centre-de-sante/niort/vaccination-covid-19-inkermann",
+      "location": {
+        "longitude": -0.452272600000015,
+        "latitude": 46.3153293,
+        "city": "Niort"
+      },
+      "metadata": {
+        "address": "84 Route d'Aiffres, 79000 Niort",
+        "phone_number": "+33627620475",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:30",
+          "mardi": "08:30-12:30, 13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241066[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241066"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination COVID-19 - Mellois en Poitou",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/melle/centre-de-vaccination-covid-19-mellois-en-poitou",
+      "location": {
+        "longitude": -0.142789593157615,
+        "latitude": 46.2238392532688,
+        "city": "Melle"
+      },
+      "metadata": {
+        "address": "Quartier de la Mairie, 79500 Melle",
+        "business_hours": {
+          "lundi": "10:00-12:00, 14:00-17:00",
+          "mardi": "09:30-12:30, 13:30-17:00",
+          "mercredi": "09:30-12:30",
+          "jeudi": "09:30-12:30, 13:30-17:00",
+          "vendredi": "09:30-12:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249684[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d249684"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination - CPTS du Thouarsais et Val de Thouet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/thouars/centre-de-vaccination-cpts-du-thouarsais-et-val-de-thouet",
+      "location": {
+        "longitude": -0.1803084,
+        "latitude": 46.9727024,
+        "city": "Thouars"
+      },
+      "metadata": {
+        "address": "2 Rue Docteur Andr\u00e9 Colas, 79100 Thouars",
+        "phone_number": "+33549682996",
+        "business_hours": {
+          "lundi": "09:00-11:30, 14:00-16:30",
+          "mardi": "09:00-11:30, 14:00-16:30",
+          "mercredi": "09:00-11:30, 14:00-16:30",
+          "jeudi": "09:00-11:30, 14:00-16:30",
+          "vendredi": "09:00-11:30, 14:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255034[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255034"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de vaccination Covid-19 - Niort",
+      "url": "https://partners.doctolib.fr/centre-de-sante/niort/centre-de-vaccination-covid-niortais",
+      "location": {
+        "longitude": -0.4897343,
+        "latitude": 46.3303923,
+        "city": "Niort"
+      },
+      "metadata": {
+        "address": "6 Rue Archim\u00e8de, 79000 Niort",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259043[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259043"
+    },
+    {
+      "departement": "79",
+      "nom": "Centre de Vaccination CH Maul\u00e9on",
+      "url": "https://partners.doctolib.fr/hopital-public/mauleon/centre-de-vaccination-ch-mauleon",
+      "location": {
+        "longitude": -0.7457871,
+        "latitude": 46.9223586,
+        "city": "Maul\u00e9on"
+      },
+      "metadata": {
+        "address": "6 Rue du Chemin Vert, 79700 Maul\u00e9on",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-16:30",
+          "mardi": "08:30-12:30, 13:30-16:30",
+          "mercredi": "08:30-12:30, 13:30-16:30",
+          "jeudi": "08:30-12:30, 13:30-16:30",
+          "vendredi": "08:30-12:30, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243282[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243282"
+    }
+  ]
+}

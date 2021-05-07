@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.948059+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "41",
+      "nom": "Pharmacie Veux",
+      "url": "https://app.ordoclic.fr/app/pharmacie/-pharmacie-veux-le-controis-en-sologne",
+      "location": {
+        "longitude": 1.4363524,
+        "latitude": 47.4294989,
+        "city": "le-controis-en-sologne"
+      },
+      "metadata": {
+        "address": "69 Route de Cheverny (Contres), 41700 Le Controis-en-Sologne",
+        "phone_number": "+33254795024",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1cf1add5"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination Covid-19 de Saint-Georges-sur-Cher",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-georges-sur-cher/centre-de-vaccination-covid-19-de-saint-georges-sur-cher",
+      "location": {
+        "longitude": 1.13989565770163,
+        "latitude": 47.328351278513,
+        "city": "Saint-Georges-sur-Cher"
+      },
+      "metadata": {
+        "address": "371 Place du G\u00e9n\u00e9ral de Gaulle, 41400 Saint-Georges-sur-Cher",
+        "phone_number": "+33633548603",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244528[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244528"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination COVID-19 - Jeu de Paume",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/blois/centre-de-vaccination-espace-jorge-semprun",
+      "location": {
+        "longitude": 1.3275355,
+        "latitude": 47.6014623,
+        "city": "Blois"
+      },
+      "metadata": {
+        "address": "64 Avenue de Ch\u00e2teaudun, 41000 Blois",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242545[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242545"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination covid-19 de Contres",
+      "url": "https://partners.doctolib.fr/centre-de-sante/contres/centre-de-vaccination-covid-19-de-contres",
+      "location": {
+        "longitude": 1.4257002,
+        "latitude": 47.4182206,
+        "city": "Le Controis-en-Sologne"
+      },
+      "metadata": {
+        "address": "8 Rue de la Gare, 41700 Le Controis-en-Sologne",
+        "phone_number": "+33633548603",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": null,
+          "mercredi": "14:00-17:00",
+          "jeudi": null,
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244521[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244521"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination Covid-19 - Mer (Espace Culturel)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/mer/centre-de-vaccination-covid-19-mer-espace-culturel",
+      "location": {
+        "longitude": 1.5183605,
+        "latitude": 47.7052893,
+        "city": "Mer"
+      },
+      "metadata": {
+        "address": "28 Route d'Orl\u00e9ans, 41500 Mer",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265672[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265672"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination de l'Institut M\u00e9dical de Sologne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lamotte-beuvron/centre-de-vaccination-sologne",
+      "location": {
+        "longitude": 2.027885,
+        "latitude": 47.5901141,
+        "city": "Lamotte-Beuvron"
+      },
+      "metadata": {
+        "address": "1 Rue C\u00e9cile Boucher, 41600 Lamotte-Beuvron",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245522[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245522"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination Covid-19 - Vend\u00f4me",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vendome/centre-de-vaccination-covid-19-vendome",
+      "location": {
+        "longitude": 1.0727814,
+        "latitude": 47.7921223,
+        "city": "Vend\u00f4me"
+      },
+      "metadata": {
+        "address": "8 Rue C\u00e9sar de Vend\u00f4me, 41100 Vend\u00f4me",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": "09:00-13:00, 14:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242990[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242990"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination Covid-19 - La Gare des collines",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mondoubleau/centre-de-vaccination-covid-la-gare-des-collines",
+      "location": {
+        "longitude": 0.8947441,
+        "latitude": 47.9846766,
+        "city": "Mondoubleau"
+      },
+      "metadata": {
+        "address": "3 Avenue de la Gare, 41170 Mondoubleau",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "09:00-13:00, 14:00-17:30",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247241[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d247241"
+    },
+    {
+      "departement": "41",
+      "nom": "Centre de vaccination Covid-19 de l'H\u00f4pital de Saint Aignan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-aignan/centre-de-vaccination-covid-19-de-l-hopital-de-st-aignan",
+      "location": {
+        "longitude": 1.3463935,
+        "latitude": 47.2612928,
+        "city": "Saint Aignan"
+      },
+      "metadata": {
+        "address": "1301 Rue de la For\u00eat, 41110 Saint Aignan",
+        "phone_number": "+33633548603",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244523[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244523"
+    },
+    {
+      "departement": "41",
+      "nom": "Vaccination COVID -  La fabrique Normant",
+      "url": "https://partners.doctolib.fr/centre-de-sante/romorantin-lanthenay/vaccination-covid-ch-romorantin-lanthenay",
+      "location": {
+        "longitude": 1.751442,
+        "latitude": 47.3555015,
+        "city": "Romorantin-Lanthenay"
+      },
+      "metadata": {
+        "address": "Avenue Saint-Exup\u00e9ry, 41200 Romorantin-Lanthenay",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:30",
+          "mardi": "09:00-12:30, 14:00-17:30",
+          "mercredi": "09:00-12:30, 14:00-17:30",
+          "jeudi": "09:00-12:30, 14:00-17:30",
+          "vendredi": "09:00-12:30, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243030[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243030"
+    }
+  ]
+}

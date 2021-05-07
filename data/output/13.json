@@ -1,0 +1,1574 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.930300+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "13",
+      "nom": "CCI ARLES/CPTS PAYS D'ARLES",
+      "url": "https://www.maiia.com/centre-de-vaccination/13200-arles/centre-de-vaccination-cci-arles",
+      "location": {
+        "longitude": 4.61833,
+        "latitude": 43.6714,
+        "city": "Arles"
+      },
+      "metadata": {
+        "address": " Avenue de la 1\u00e8re Division France Libre, 13200 Arles",
+        "phone_number": "+33465494310",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "9h - 17h",
+          "jeudi": "9h - 17h",
+          "vendredi": "9h - 17h",
+          "samedi": "9h - 17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T09:40:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 99,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "566"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Des 5 Avenues",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-5-avenues-marseille",
+      "location": {
+        "longitude": 5.3973302,
+        "latitude": 43.3029135,
+        "city": "marseille"
+      },
+      "metadata": {
+        "address": "6 Avenue des Chartreux, 13004 Marseille",
+        "phone_number": "+33491497777",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-20T10:00:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 33,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "72665b64"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Des Allees",
+      "url": "https://app.ordoclic.fr/app/pharmacie/-pharmacie-des-allees--chateaurenard",
+      "location": {
+        "longitude": 4.858182999999999,
+        "latitude": 43.8834182,
+        "city": "chateaurenard"
+      },
+      "metadata": {
+        "address": "32 Avenue Marx Dormoy, 13160 Ch\u00e2teaurenard",
+        "phone_number": "+33490944341",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-20T10:30:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 9,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "6402aea8"
+    },
+    {
+      "departement": "13",
+      "nom": "Herboristerie Petit",
+      "url": "https://app.ordoclic.fr/app/pharmacie/herboristerie-petit-marseille",
+      "location": {
+        "longitude": 5.3866736,
+        "latitude": 43.3002622,
+        "city": "marseille"
+      },
+      "metadata": {
+        "address": "24 Cours Joseph Thierry, 13001 Marseille",
+        "phone_number": "+33491623303",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-20T17:35:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 2,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "41b5a8e4"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - Mazenod 13002",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-mazenod",
+      "location": {
+        "longitude": 5.3653785,
+        "latitude": 43.3009854,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "2 Rue Mazenod, 13002 Marseille",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-21T09:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "243169[165126]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243169"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre m\u00e9dical d'urgence URGENCEMED ESTAQUE",
+      "url": "https://partners.doctolib.fr/cabinet-medical/marseille/centre-medical-d-urgence-urgencemed-estaque",
+      "location": {
+        "longitude": 5.3152791,
+        "latitude": 43.361152,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "108 Boulevard Roger Chieusse, 13016 Marseille",
+        "phone_number": "+33486011840",
+        "business_hours": {
+          "lundi": "09:00-23:00",
+          "mardi": "09:00-23:00",
+          "mercredi": "09:00-23:00",
+          "jeudi": "09:00-23:00",
+          "vendredi": "09:00-23:00",
+          "samedi": "09:00-23:00",
+          "dimanche": "09:00-23:00"
+        }
+      },
+      "prochain_rdv": "2021-04-21T20:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 65,
+      "internal_id": "195306[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d195306"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Des Iris",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-iris-lancon-provence",
+      "location": {
+        "longitude": 5.1248605,
+        "latitude": 43.5902136,
+        "city": "lancon-provence"
+      },
+      "metadata": {
+        "address": "6 place de la republique, 13680 lancon provence",
+        "phone_number": "+33490427607",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-22T10:30:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 3,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "a7c109b2"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Oza",
+      "url": "https://partners.doctolib.fr/pharmacie/marseille/pharmacie-oza",
+      "location": {
+        "longitude": 5.407516,
+        "latitude": 43.3230058,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "58 Avenue Corot, 13013 Marseille",
+        "phone_number": "+33491664278",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:30-19:30",
+          "mardi": "08:30-12:30, 14:30-19:30",
+          "mercredi": "08:30-12:30, 14:30-19:30",
+          "jeudi": "08:30-12:30, 14:30-19:30",
+          "vendredi": "08:30-12:30, 14:30-19:30",
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T16:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 48,
+      "internal_id": "266073[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d266073"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre m\u00e9dical d'urgence URGENCEMED Saint-Just",
+      "url": "https://partners.doctolib.fr/cabinet-medical/marseille/centre-medical-d-urgence-urgencemed-saint-just",
+      "location": {
+        "longitude": 5.4067826,
+        "latitude": 43.3160222,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "27 Boulevard Lambert, 13013 Marseille",
+        "phone_number": "+33486011791",
+        "business_hours": {
+          "lundi": "09:00-23:00",
+          "mardi": "09:00-23:00",
+          "mercredi": "09:00-23:00",
+          "jeudi": "09:00-23:00",
+          "vendredi": "09:00-23:00",
+          "samedi": "09:00-23:00",
+          "dimanche": "09:00-23:00"
+        }
+      },
+      "prochain_rdv": "2021-04-24T21:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 47,
+      "internal_id": "195462[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d195462"
+    },
+    {
+      "departement": "13",
+      "nom": "Vaccination Covid-19 - Le Podium Istres",
+      "url": "https://partners.doctolib.fr/centre-de-sante/istres/centre-de-vaccination-le-podium",
+      "location": {
+        "longitude": 4.9676029,
+        "latitude": 43.507916,
+        "city": "Istres"
+      },
+      "metadata": {
+        "address": "Chemin de Capeau, 13800 Istres",
+        "phone_number": "+33413295252",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:00",
+          "mardi": "08:30-12:30, 13:30-17:00",
+          "mercredi": "08:30-12:30, 13:30-17:00",
+          "jeudi": "08:30-12:30, 13:30-17:00",
+          "vendredi": "08:30-12:30, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-26T08:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 98,
+      "internal_id": "243700[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243700"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre d'examens de sant\u00e9 de la CPAM des Bouches-du-Rh\u00f4ne - CESAM 13",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-d-examens-de-sante-de-la-cpam-des-bouches-du-rhone-cesam-13",
+      "location": {
+        "longitude": 5.4268006,
+        "latitude": 43.3307145,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "72 Traverse des Bonnets, 13013 Marseille",
+        "business_hours": {
+          "lundi": "07:45-12:30, 13:45-15:15",
+          "mardi": "07:45-12:30, 13:45-15:15",
+          "mercredi": "07:45-12:30, 13:45-15:15",
+          "jeudi": "07:45-12:30, 13:45-15:15",
+          "vendredi": "07:45-12:30, 13:45-15:15",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-26T08:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 176,
+      "internal_id": "184049[]",
+      "vaccine_type": [
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d184049"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre m\u00e9dical d'urgence URGENCEMED Castellane",
+      "url": "https://partners.doctolib.fr/cabinet-medical/marseille/centre-medical-d-urgence-urgencemed-castellane",
+      "location": {
+        "longitude": 5.3842834,
+        "latitude": 43.2885123,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "144 Cours Lieutaud, 13006 Marseille",
+        "phone_number": "+33486011792",
+        "business_hours": {
+          "lundi": "09:00-22:00",
+          "mardi": "09:00-22:00",
+          "mercredi": "09:00-22:00",
+          "jeudi": "09:00-22:00",
+          "vendredi": "09:00-22:00",
+          "samedi": "09:00-22:00",
+          "dimanche": "09:00-22:00"
+        }
+      },
+      "prochain_rdv": "2021-04-29T20:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 51,
+      "internal_id": "254917[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d254917"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID-19 - H\u00f4pital d'instruction des arm\u00e9es Laveran",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/centre-de-vaccination-covid-19-hopital-d-instruction-des-armees-laveran",
+      "location": {
+        "longitude": 5.4138372,
+        "latitude": 43.3271347,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "34 Boulevard Lav\u00e9ran, 13013 Marseille",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-04T13:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 268,
+      "internal_id": "264490[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d264490"
+    },
+    {
+      "departement": "13",
+      "nom": "Ville de Marseille",
+      "url": "https://www.maiia.com/centre-de-vaccination/13005-marseille/centre-de-vaccination---rue-louis-astruc---ville-de-marseille",
+      "location": {
+        "longitude": 5.39587,
+        "latitude": 43.2942,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "23 Rue Louis Astruc, 13005 Marseille",
+        "phone_number": "+333013",
+        "business_hours": {
+          "lundi": "\u00a08 h 30 / 17 H 30",
+          "mardi": "\u00a08 h 30 / 17 H 30",
+          "mercredi": "\u00a08 h 30 / 17 H 30",
+          "jeudi": "\u00a08 h 30 / 17 H 30",
+          "vendredi": "\u00a08 h 30 / 17 H 30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-18T13:50:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 14,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "807"
+    },
+    {
+      "departement": "13",
+      "nom": "Stade Orange V\u00e9lodrome",
+      "url": "https://www.maiia.com/centre-de-vaccination/13008-marseille/centre-de-vaccination-covid---stade-velodrome---ville-de-marseille",
+      "location": {
+        "longitude": 5.39279,
+        "latitude": 43.27,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": " Entr\u00e9e Parvis Ganay Porte 9 - All\u00e9e Ray Grassi, 13008 Marseille",
+        "business_hours": {
+          "lundi": "9h - 17h",
+          "mardi": "9h - 17h",
+          "mercredi": "9h - 17h",
+          "jeudi": "9h - 17h",
+          "vendredi": "9h - 17h",
+          "samedi": "9h - 17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-26T13:30:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 12,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2004"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de Carry-le-Rouet",
+      "url": "https://www.maiia.com/centre-de-vaccination/13620-carry-le-rouet/centre-de-vaccination---centre-de-carry-le-rouet",
+      "location": {
+        "longitude": 5.17671,
+        "latitude": 43.3343,
+        "city": "Carry-le-Rouet"
+      },
+      "metadata": {
+        "address": " Salle communale Le Grand Bleu - Avenue Blanche Calvet, 13620 Carry-le-Rouet",
+        "phone_number": "+33805293600",
+        "business_hours": {
+          "lundi": "09h00-13h00 / 14h00-18h00 ",
+          "mardi": "09h00-13h00 / 14h00-18h00 ",
+          "mercredi": "09h00-13h00 / 14h00-18h00 ",
+          "jeudi": "09h00-13h00 / 14h00-18h00 ",
+          "vendredi": "09h00-13h00 / 14h00-18h00 ",
+          "samedi": "09h00-13h00 / 14h00-18h00 ",
+          "dimanche": "09h00-13h00 / 14h00-18h00 "
+        }
+      },
+      "prochain_rdv": "2021-05-31T14:25:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 5,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2173"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "13",
+      "nom": "Pharmacie De L'Europe Fuveau",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-l'europe-fuveau-fuveau",
+      "location": {
+        "longitude": 5.5614408,
+        "latitude": 43.4538963,
+        "city": "fuveau"
+      },
+      "metadata": {
+        "address": "395 Route Departementale 96, 13710 Fuveau",
+        "phone_number": "+33442681891",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "219c4eb7"
+    },
+    {
+      "departement": "13",
+      "nom": "Alain Elkaim",
+      "url": "https://app.ordoclic.fr/app/pharmacie/alain-elkaim-marseille",
+      "location": {
+        "longitude": 5.369154,
+        "latitude": 43.2904849,
+        "city": "marseille"
+      },
+      "metadata": {
+        "address": "70 BOULEVARD DE LA CORDERIE, 13007 MARSEILLE",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "794ddec7"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre vaccination Hopital Europ\u00e9en - Consultations m\u00e9dicales NEOLIS",
+      "url": "vaccinationcovidhe@hopital-europeen.fr",
+      "location": {
+        "longitude": 5.37045,
+        "latitude": 43.3095,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "106 Boulevard de Paris, 13003 Marseille",
+        "phone_number": "+33413427827",
+        "business_hours": {
+          "lundi": "9H - 17H30",
+          "mardi": "9H - 17H30",
+          "mercredi": "9H - 17H30",
+          "jeudi": "9H - 17H30",
+          "vendredi": "9H - 17H30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "107"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie La Mart\u00e9gale",
+      "url": "https://partners.doctolib.fr/pharmacie/martigues/pharmacie-la-martegale",
+      "location": {
+        "longitude": 5.0509901,
+        "latitude": 43.4026641,
+        "city": "Martigues"
+      },
+      "metadata": {
+        "address": "9 Boulevard Lucien Degut, 13500 Martigues",
+        "business_hours": {
+          "lundi": "08:30-13:00, 14:00-19:30",
+          "mardi": "08:30-13:00, 14:00-19:30",
+          "mercredi": "08:30-13:00, 14:00-19:30",
+          "jeudi": "08:30-13:00, 14:00-19:30",
+          "vendredi": "08:30-13:00, 14:00-19:30",
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "267316[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d267316"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Du Bras D'Or",
+      "url": "https://partners.doctolib.fr/pharmacie/aubagne/pharmacie-du-bras-d-or",
+      "location": {
+        "longitude": 5.5658117,
+        "latitude": 43.292931,
+        "city": "Aubagne"
+      },
+      "metadata": {
+        "address": "20 Cours Barth\u00e9l\u00e9my, 13400 Aubagne",
+        "phone_number": "+33442030909",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:30-19:30",
+          "mardi": "08:30-12:30, 14:30-19:30",
+          "mercredi": "08:30-12:30, 14:30-19:30",
+          "jeudi": "08:30-12:30, 14:30-19:30",
+          "vendredi": "08:30-12:30, 14:30-19:30",
+          "samedi": "08:30-12:30, 15:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "261458[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261458"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie de la Sauvagere",
+      "url": "https://partners.doctolib.fr/pharmacie/marseille/pharmacie-de-la-sauvagere",
+      "location": {
+        "longitude": 5.414381,
+        "latitude": 43.2734528,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "253 Boulevard Romain Rolland, 13010 Marseille",
+        "phone_number": "+33491751225",
+        "business_hours": {
+          "lundi": "08:30-19:30",
+          "mardi": "08:30-19:30",
+          "mercredi": "08:30-19:30",
+          "jeudi": "08:30-19:30",
+          "vendredi": "08:30-19:30",
+          "samedi": "08:30-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264153[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264153"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Covid-19 - Arenc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-arenc",
+      "location": {
+        "longitude": 5.3662366,
+        "latitude": 43.313344,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "4 Boulevard Euromediterran\u00e9e Quai d'Arenc, 13002 Marseille",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259093[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259093"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Metro la Rose",
+      "url": "https://partners.doctolib.fr/pharmacie/marseille/pharmacie-metro-la-rose",
+      "location": {
+        "longitude": 5.4307325,
+        "latitude": 43.3331504,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "16 Rue Albert Einstein, 13013 Marseille",
+        "phone_number": "+33491610612",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264573[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264573"
+    },
+    {
+      "departement": "13",
+      "nom": "Mme Corinne CAVELLI - ISOLIN",
+      "url": "https://partners.doctolib.fr/infirmier/auriol/corinne-cavelli",
+      "location": {
+        "longitude": 5.6346653,
+        "latitude": 43.3697841,
+        "city": "Auriol"
+      },
+      "metadata": {
+        "address": "3 Rue du Clos, 13390 Auriol",
+        "phone_number": "+33608780770",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": "09:00-13:00, 14:00-19:00",
+          "dimanche": "09:00-13:00, 14:00-19:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255480[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255480"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie des Calanques",
+      "url": "https://partners.doctolib.fr/pharmacie/ensues-la-redonne/pharmacie-des-calanques",
+      "location": {
+        "longitude": 5.2069485,
+        "latitude": 43.3565462,
+        "city": "Ensu\u00e8s-la-Redonne"
+      },
+      "metadata": {
+        "address": "1 Avenue de la Vierge, 13820 Ensu\u00e8s-la-Redonne",
+        "phone_number": "+33442459870",
+        "business_hours": {
+          "lundi": "08:30-12:45, 15:00-19:30",
+          "mardi": "08:30-12:45, 15:00-19:30",
+          "mercredi": "08:30-12:45, 15:00-19:30",
+          "jeudi": "08:30-12:45, 15:00-19:30",
+          "vendredi": "08:30-12:45, 15:00-19:30",
+          "samedi": "08:30-12:45",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264292[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264292"
+    },
+    {
+      "departement": "13",
+      "nom": "Vaccination COVID-19 - Assistance Publique - H\u00f4pitaux de Marseille - Marseille",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille",
+      "location": {
+        "longitude": 5.4002506,
+        "latitude": 43.2900669,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "25 Boulevard Jean Moulin, 13005 Marseille",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243270[164400]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243270"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Covid-19 - Clinique g\u00e9n\u00e9rale de Marignane",
+      "url": "https://partners.doctolib.fr/clinique-privee/marignane/centre-de-vaccination-covid-19-clinique-generale-de-marignane",
+      "location": {
+        "longitude": 5.2165005,
+        "latitude": 43.4029488,
+        "city": "Marignane"
+      },
+      "metadata": {
+        "address": "Avenue du G\u00e9n\u00e9ral Raoul Salan, 13700 Marignane",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243757[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243757"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination Covid19 de la Ville d'Aix en Provence",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aix-en-provence/centre-de-vaccination-covid19-de-la-ville-d-aix-en-provence",
+      "location": {
+        "longitude": 5.4661905,
+        "latitude": 43.5115076,
+        "city": "Aix-en-Provence"
+      },
+      "metadata": {
+        "address": "33 Avenue des Infirmeries, 13100 Aix-en-Provence",
+        "phone_number": "+33800820830",
+        "business_hours": {
+          "lundi": "09:00-12:30, 13:30-16:30",
+          "mardi": "09:00-12:30, 13:30-16:30",
+          "mercredi": "09:00-12:30, 13:30-16:30",
+          "jeudi": "09:00-12:30, 13:30-16:30",
+          "vendredi": "09:00-12:30, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241821[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241821"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - Saint Adrien - CEGGID",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-saint-adrien-ceggid",
+      "location": {
+        "longitude": 5.3878517,
+        "latitude": 43.2822806,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "12 Rue Saint Adrien 13008, 13006 Marseille",
+        "phone_number": "+33800730087",
+        "business_hours": {
+          "lundi": "09:00-11:30, 14:00-17:30",
+          "mardi": "12:00-16:20",
+          "mercredi": "09:00-11:30, 14:00-16:30",
+          "jeudi": "09:00-11:30, 14:00-16:30",
+          "vendredi": "09:00-13:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244252[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244252"
+    },
+    {
+      "departement": "13",
+      "nom": "Vaccination COVID-19 - Assistance Publique - H\u00f4pitaux de Marseille - Marseille",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille?pid=practice-78743",
+      "location": {
+        "longitude": 5.39604659999998,
+        "latitude": 43.2907482,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "147 Boulevard Baille, 13005 Marseille",
+        "phone_number": "+33491382964",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-16:30",
+          "mardi": "09:00-12:30, 14:00-16:30",
+          "mercredi": "09:00-12:30, 14:00-19:00",
+          "jeudi": "09:00-12:30, 14:00-19:00",
+          "vendredi": "09:00-12:30, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243270[78743]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243270"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - Mazenod 13002",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-mazenod?pid=practice-165454",
+      "location": {
+        "longitude": 5.4028708,
+        "latitude": 43.3332204,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "18 Avenue Alexandre Ansaldi, 13014 Marseille",
+        "phone_number": "+33800730087",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": null,
+          "vendredi": "14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243169[165454]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243169"
+    },
+    {
+      "departement": "13",
+      "nom": "Pharmacie Saint Louis",
+      "url": "https://partners.doctolib.fr/pharmacie/marseille/pharmacie-saint-louis",
+      "location": {
+        "longitude": 5.3591362,
+        "latitude": 43.3457498,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "89 Avenue de Saint-Louis, 13015 Marseille",
+        "phone_number": "+33491609709",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "259910[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259910"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - P\u00f4le de Sant\u00e9 Aubagne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aubagne/centre-de-vaccination-covid-pole-de-sante-aubagne",
+      "location": {
+        "longitude": 5.5661376,
+        "latitude": 43.2945875,
+        "city": "Aubagne"
+      },
+      "metadata": {
+        "address": "10 Avenue Antide Boyer, 13400 Aubagne",
+        "phone_number": "+33413313800",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": null,
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244059[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244059"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Covid-19 de Ventabren",
+      "url": "https://partners.doctolib.fr/maison-de-sante/ventabren/centre-vaccination-covid-ventabren",
+      "location": {
+        "longitude": 5.2941451,
+        "latitude": 43.5361835693004,
+        "city": "Ventabren"
+      },
+      "metadata": {
+        "address": "Chemin du Cimeti\u00e8re, 13122 Ventabren",
+        "phone_number": "+33626400649",
+        "business_hours": {
+          "lundi": "08:00-12:00, 14:00-17:00",
+          "mardi": "08:00-12:00, 14:00-17:00",
+          "mercredi": "08:00-12:00, 14:00-17:00",
+          "jeudi": "08:00-12:00, 14:00-17:00",
+          "vendredi": "08:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244852[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244852"
+    },
+    {
+      "departement": "13",
+      "nom": "Vaccination COVID-19 - Assistance Publique - H\u00f4pitaux de Marseille - Marseille",
+      "url": "https://partners.doctolib.fr/hopital-public/marseille/vaccination-covid-19-assistance-publique-hopitaux-de-marseille?pid=practice-162148",
+      "location": {
+        "longitude": 5.4077676,
+        "latitude": 43.2599697,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "Avenue Viton, 13009 Marseille",
+        "phone_number": "+33800730087",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243270[162148]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243270"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - CH Aubagne - Espace des Libert\u00e9s",
+      "url": "https://partners.doctolib.fr/hopital-public/aubagne/centre-de-vaccination-covid-ch-aubagne-espace-des-libertes",
+      "location": {
+        "longitude": 5.5624893,
+        "latitude": 43.2948421,
+        "city": "Aubagne"
+      },
+      "metadata": {
+        "address": "Avenue Antide Boyer, 13400 Aubagne",
+        "phone_number": "+33442019028",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-16:00",
+          "mardi": "09:00-13:00, 14:00-16:00",
+          "mercredi": "09:00-13:00, 14:00-16:00",
+          "jeudi": "09:00-13:00, 14:00-16:00",
+          "vendredi": "09:00-13:00, 14:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243091[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243091"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination Covid - CPTS Val Durance / S\u00e9nas",
+      "url": "https://partners.doctolib.fr/centre-de-sante/senas/centre-de-vaccination-covid-cpts-val-durance",
+      "location": {
+        "longitude": 5.076484,
+        "latitude": 43.748667,
+        "city": "S\u00e9nas"
+      },
+      "metadata": {
+        "address": "1945 Avenue du 8 Mai, 13560 S\u00e9nas",
+        "phone_number": "+33800730087",
+        "business_hours": {
+          "lundi": "08:00-12:00, 14:00-18:00",
+          "mardi": "08:00-12:00, 14:00-18:00",
+          "mercredi": "08:00-12:00, 14:00-18:00",
+          "jeudi": "08:00-12:00, 14:00-18:00",
+          "vendredi": "08:00-12:00, 14:00-18:00",
+          "samedi": "08:00-12:00, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243963[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243963"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination COVID-19 - Paul ELUARD",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-ciotat/centre-de-vaccination-covid-paul-eluard",
+      "location": {
+        "longitude": 5.5997649,
+        "latitude": 43.1835131,
+        "city": "La Ciotat"
+      },
+      "metadata": {
+        "address": "20 Avenue Jules Ferry, 13600 La Ciotat",
+        "business_hours": {
+          "lundi": "08:15-17:00",
+          "mardi": "08:15-17:00",
+          "mercredi": "08:15-17:00",
+          "jeudi": "08:15-17:00",
+          "vendredi": "08:15-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244160[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244160"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - P\u00f4le de Sant\u00e9 Arles",
+      "url": "https://partners.doctolib.fr/centre-de-sante/arles/centre-de-vaccination-covid-pole-de-sante-arles",
+      "location": {
+        "longitude": 4.6261228,
+        "latitude": 43.6740736,
+        "city": "Arles"
+      },
+      "metadata": {
+        "address": "11 Rue Romain Rolland, 13200 Arles",
+        "phone_number": "+33800730087",
+        "business_hours": {
+          "lundi": "13:45-16:45",
+          "mardi": "13:45-16:45",
+          "mercredi": "13:45-16:45",
+          "jeudi": "13:45-16:45",
+          "vendredi": "13:45-16:45",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244056[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244056"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - CH Allauch",
+      "url": "https://partners.doctolib.fr/hopital-public/allauch/centre-de-vaccination-covid-ch-allauch",
+      "location": {
+        "longitude": 5.470133,
+        "latitude": 43.336304,
+        "city": "Allauch"
+      },
+      "metadata": {
+        "address": "Chemin des Mille \u00c9cus, 13190 Allauch",
+        "phone_number": "+33422460530",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243353[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243353"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination COVID - Centre G\u00e9rontologique D\u00e9partemental de Marseille (CGD13)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marseille/centre-de-vaccination-covid-cgd13",
+      "location": {
+        "longitude": 5.4097435,
+        "latitude": 43.3113057,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "176 Avenue de Montolivet, 13012 Marseille",
+        "phone_number": "+33486578167",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:30",
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242511[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242511"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination CPTS Gymnase des Salins",
+      "url": "https://partners.doctolib.fr/hopital-public/martigues/centre-de-vaccination-cpts-chm",
+      "location": {
+        "longitude": 5.0482264,
+        "latitude": 43.4060961,
+        "city": "Martigues"
+      },
+      "metadata": {
+        "address": "Avenue Louis Sammut, 13500 Martigues",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:00",
+          "mardi": "09:00-12:00, 13:30-17:00",
+          "mercredi": "09:00-12:00, 13:30-17:00",
+          "jeudi": "09:00-12:00, 13:30-17:00",
+          "vendredi": "09:00-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242294[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242294"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination Covid-19 - Centre de secours de Basse Vall\u00e9e de l'Arc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/coudoux/centre-de-vaccination-covid-19-centre-de-secours-de-basse-vallee-de-l-arc",
+      "location": {
+        "longitude": 5.255362,
+        "latitude": 43.5520179,
+        "city": "Coudoux"
+      },
+      "metadata": {
+        "address": "Route de Velaux, 13111 Coudoux",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256205[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256205"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination Covid-19 - Ville de Vitrolles",
+      "url": "https://partners.doctolib.fr/maison-de-sante/vitrolles/vaccination-covid-19-vitrolles-espace-mandela",
+      "location": {
+        "longitude": 5.2438305,
+        "latitude": 43.4562805,
+        "city": "Vitrolles"
+      },
+      "metadata": {
+        "address": "Rue Roumanille, 13127 Vitrolles",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243317[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243317"
+    },
+    {
+      "departement": "13",
+      "nom": "CMSI Urgent Care",
+      "url": "https://partners.doctolib.fr/cabinet-medical/bouc-bel-air/cmsi-urgent-care",
+      "location": {
+        "longitude": 5.3996422,
+        "latitude": 43.4520786,
+        "city": "Bouc-Bel-Air"
+      },
+      "metadata": {
+        "address": "1596 Avenue de la Croix d'Or, 13320 Bouc-Bel-Air",
+        "phone_number": "+33975309957",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": "08:00-20:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264620[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264620"
+    },
+    {
+      "departement": "13",
+      "nom": "ALPILLIUM ST REMY DE PROVENCE/CPTS PAYS D'ARLES",
+      "url": "https://www.maiia.com/centre-de-vaccination/13210-saint-remy-de-provence/centre-de-vaccination-alpilium-saint-remy-de-provence---cpts-pays-d-arles",
+      "location": {
+        "longitude": 4.84156,
+        "latitude": 43.792,
+        "city": "Saint-R\u00e9my-de-Provence"
+      },
+      "metadata": {
+        "address": " Av du Mal de Lattre de Tassigny, 13210 Saint-R\u00e9my-de-Provence",
+        "phone_number": "+33490929988",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "8h15-16h30",
+          "jeudi": "8h15-16h30",
+          "vendredi": "8h15-16h30",
+          "samedi": "8h15-16h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1150"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de Vaccination Miramas Saint-Chamas - Salle des f\u00eates de Miramas",
+      "url": "https://www.maiia.com/centre-de-vaccination/13140-miramas/centre-de-vaccination-de-miramas-saint-chamas",
+      "location": {
+        "longitude": 5.00027,
+        "latitude": 43.5957,
+        "city": "Miramas"
+      },
+      "metadata": {
+        "address": " Rue des Lauriers, 13140 Miramas",
+        "phone_number": "+33490172677",
+        "business_hours": {
+          "lundi": "13h/17h\u00a0",
+          "mardi": "13h/17h\u00a0",
+          "mercredi": "13h/17h\u00a0",
+          "jeudi": "13h/17h\u00a0",
+          "vendredi": "13h/17h\u00a0",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "845"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de la Mairie des 15e et 16e arrondissement de Marseille",
+      "url": "https://www.maiia.com/centre-de-vaccination/13015-marseille/centre-de-vaccination---mairie-15-et-16-ville-de-marseille",
+      "location": {
+        "longitude": 5.36453,
+        "latitude": 43.3324,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "246 Rue de Lyon - Parc BILLOUX, 13015 Marseille",
+        "phone_number": "+333013",
+        "business_hours": {
+          "lundi": "9H-16H",
+          "mardi": "9H-16H",
+          "mercredi": "9H-16H",
+          "jeudi": "9H-16H",
+          "vendredi": "9H-16H",
+          "samedi": "9H-16H",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1305"
+    },
+    {
+      "departement": "13",
+      "nom": "H\u00f4tel de Ville de Marseille",
+      "url": "https://www.maiia.com/centre-de-vaccination/13002-marseille/centre-de-vaccination-covid---hotel-de-ville---ville-de-marseille",
+      "location": {
+        "longitude": 5.37007,
+        "latitude": 43.2959,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": " Quai du Port, 13002 Marseille",
+        "phone_number": "+333013",
+        "business_hours": {
+          "lundi": "9h-16h",
+          "mardi": "9h-16h",
+          "mercredi": "9h-16h",
+          "jeudi": "9h-16h",
+          "vendredi": "9h-16h",
+          "samedi": "9h-16h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1048"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de Ch\u00e2teaurenard",
+      "url": "https://www.maiia.com/centre-de-vaccination/13160-chateaurenard/centre-de-vaccination-covid---chateaurenard-de-provence",
+      "location": {
+        "longitude": 4.85779,
+        "latitude": 43.8835,
+        "city": "Ch\u00e2teaurenard"
+      },
+      "metadata": {
+        "address": "28 Place des All\u00e9es Marcel Jullian, 13160 Ch\u00e2teaurenard",
+        "phone_number": "+33611923012",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "08h30-12h30 / 13h30-17h30",
+          "mercredi": "08h30-12h30 / 13h30-17h30",
+          "jeudi": "08h30-12h30 / 13h30-17h30",
+          "vendredi": "08h30-12h30 / 13h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2170"
+    },
+    {
+      "departement": "13",
+      "nom": "Centre de vaccination de l'H\u00f4pital d'Instruction des Arm\u00e9es Laveran",
+      "url": "doctolib",
+      "location": {
+        "longitude": 5.41388,
+        "latitude": 43.3269,
+        "city": "Marseille"
+      },
+      "metadata": {
+        "address": "24 bouvelard Laveran, 13013 Marseille",
+        "business_hours": {
+          "lundi": "En attente pr\u00e9cision",
+          "mardi": "En attente pr\u00e9cision",
+          "mercredi": "En attente pr\u00e9cision",
+          "jeudi": "En attente pr\u00e9cision",
+          "vendredi": "En attente pr\u00e9cision",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2171"
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.961864+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "64",
+      "nom": "Centre d\u00e9partemental de vaccination COVID - Maison des associations de la ville de Bayonne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bayonne/centre-de-vaccination-covid-maison-des-associations-de-la-ville-de-bayonne",
+      "location": {
+        "longitude": -1.4717401,
+        "latitude": 43.4842789,
+        "city": "Bayonne"
+      },
+      "metadata": {
+        "address": "11 All\u00e9e de Glain, 64100 Bayonne",
+        "phone_number": "+33547756837",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "09:00-18:00",
+          "dimanche": "09:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-18T08:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 118,
+      "internal_id": "243219[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d243219"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre vaccination Covid-19 - Hendaye-bidassoa",
+      "url": "https://partners.doctolib.fr/centre-de-sante/hendaye/centre-vaccination-covid-19-hendaye-bidassoa",
+      "location": {
+        "longitude": -1.77067,
+        "latitude": 43.37099,
+        "city": "Hendaye"
+      },
+      "metadata": {
+        "address": "6 Rue d'\u00c9lissacilio, 64700 Hendaye",
+        "phone_number": "+33559700716",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-20T15:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 122,
+      "internal_id": "256863[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d256863"
+    },
+    {
+      "departement": "64",
+      "nom": "Pharmacie de la Bastide",
+      "url": "https://partners.doctolib.fr/pharmacie/nay/pharmacie-de-la-bastide",
+      "location": {
+        "longitude": -0.2570093,
+        "latitude": 43.1781915,
+        "city": "Nay"
+      },
+      "metadata": {
+        "address": "8 Chemin de la Montjoie, 64800 Nay",
+        "phone_number": "+33559610447",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-19:30",
+          "mardi": "08:30-12:30, 14:00-19:30",
+          "mercredi": "08:30-12:30, 14:00-19:30",
+          "jeudi": "08:30-12:30, 14:00-19:30",
+          "vendredi": "08:30-12:30, 14:00-19:30",
+          "samedi": "08:30-12:30, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-21T15:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 12,
+      "internal_id": "255119[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d255119"
+    },
+    {
+      "departement": "64",
+      "nom": "Pharmacie des All\u00e9es",
+      "url": "https://partners.doctolib.fr/pharmacie/cambo-les-bains/pharmacie-des-allees",
+      "location": {
+        "longitude": -1.3993346,
+        "latitude": 43.3604362,
+        "city": "Cambo-les-Bains"
+      },
+      "metadata": {
+        "address": "Place Duhalde, 64250 Cambo-les-Bains",
+        "phone_number": "+33559297241",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-19:30",
+          "mardi": "09:00-12:30, 14:00-19:30",
+          "mercredi": "09:00-12:30, 14:00-19:30",
+          "jeudi": "09:00-12:30, 14:00-19:30",
+          "vendredi": "09:00-12:30, 14:00-19:30",
+          "samedi": "09:00-12:30, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-23T10:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 3,
+      "internal_id": "263564[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d263564"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination COVID - CH ORTHEZ",
+      "url": "https://partners.doctolib.fr/hopital-public/orthez/centre-de-vaccination-covid-ch-orthez",
+      "location": {
+        "longitude": -0.7752249,
+        "latitude": 43.4851027,
+        "city": "Orthez"
+      },
+      "metadata": {
+        "address": "Parc Gascoin 2 Rue Gascoin, 64300 Orthez",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T14:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243138[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243138"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination COVID-19 - Saint-Pierre-d'Irube",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-pierre-d-irube/centre-de-vaccination-covid-sisa-msp-st-pierre-d-irube",
+      "location": {
+        "longitude": -1.4513759,
+        "latitude": 43.4738415,
+        "city": "Saint-Pierre-d'Irube"
+      },
+      "metadata": {
+        "address": "29 Avenue de la Basse Navarre, 64990 Saint-Pierre-d'Irube",
+        "phone_number": "+33618667588",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-29T12:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 3,
+      "internal_id": "263824[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d263824"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination COVID de Pau",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pau/centre-de-vaccination-covid-de-pau",
+      "location": {
+        "longitude": -0.3790145,
+        "latitude": 43.3038098,
+        "city": "Pau"
+      },
+      "metadata": {
+        "address": "7 Boulevard Champetier de Ribes, 64000 Pau",
+        "phone_number": "+33559111046",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-29T14:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 75,
+      "internal_id": "243113[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243113"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination Covid-19 - St Jean-Pied-de-port",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-jean-pied-de-port/centre-de-vaccination-covid-19-st-jean-pied-de-port",
+      "location": {
+        "longitude": -1.2351716,
+        "latitude": 43.1679299,
+        "city": "Saint-Jean-Pied-de-Port"
+      },
+      "metadata": {
+        "address": "Rue Sauveur Haramburu, 64220 Saint-Jean-Pied-de-Port",
+        "phone_number": "+33559379975",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:30",
+          "mardi": "09:00-12:30, 14:00-17:30",
+          "mercredi": "09:00-12:30, 14:00-17:30",
+          "jeudi": "09:00-12:30, 14:00-17:30",
+          "vendredi": "09:00-12:30, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-07T14:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 102,
+      "internal_id": "242582[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242582"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "64",
+      "nom": "Centre de sant\u00e9 des Luys-Arzacq",
+      "url": "https://www.maiia.com/centre-de-vaccination/64410-arzacq-arraziguet/centre-de-vaccination-des-luys",
+      "location": {
+        "longitude": -0.410016,
+        "latitude": 43.5375,
+        "city": "Arzacq-Arraziguet"
+      },
+      "metadata": {
+        "address": "6 Rue Georges Donney, 64410 Arzacq-Arraziguet",
+        "phone_number": "+33533097396",
+        "business_hours": {
+          "lundi": "14:00-19:00",
+          "mardi": "14:00-19:00",
+          "mercredi": "14:00-19:00",
+          "jeudi": "14:00-19:00",
+          "vendredi": "14:00-19:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1080"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Garlin",
+      "url": "https://www.maiia.com/centre-de-vaccination/64330-garlin/centre-de-vaccination---garlin",
+      "location": {
+        "longitude": -0.271422,
+        "latitude": 43.5617,
+        "city": "Garlin"
+      },
+      "metadata": {
+        "address": "3 Place de la Resistance, 64330 Garlin",
+        "phone_number": "+33656706343",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:40",
+          "vendredi": "13:00-17:00",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2358"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination Covid-19 - CH C\u00f4te Basque",
+      "url": "https://partners.doctolib.fr/hopital-public/bayonne/centre-de-vaccination-covid-19-ch-cote-basque",
+      "location": {
+        "longitude": -1.4795786,
+        "latitude": 43.4821701,
+        "city": "Bayonne"
+      },
+      "metadata": {
+        "address": "13 Avenue de l'Interne Jacques Loeb, 64100 Bayonne",
+        "phone_number": "+33559443535",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249875[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d249875"
+    },
+    {
+      "departement": "64",
+      "nom": "Pharmacie Ametzondo",
+      "url": "https://partners.doctolib.fr/pharmacie/saint-pierre-d-irube/pharmacie-ametzondo",
+      "location": {
+        "longitude": -1.4446341,
+        "latitude": 43.4810046,
+        "city": "Saint-Pierre-d'Irube"
+      },
+      "metadata": {
+        "address": "2 Avenue du Portou, 64990 Saint-Pierre-d'Irube",
+        "phone_number": "+33559591011",
+        "business_hours": {
+          "lundi": "09:00-18:30",
+          "mardi": "09:00-18:30",
+          "mercredi": "09:00-18:30",
+          "jeudi": "09:00-18:30",
+          "vendredi": "09:00-18:30",
+          "samedi": "09:00-18:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "252047[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d252047"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre Hospitalier Oloron Sainte Marie (centre de Vaccination COVID 19)",
+      "url": "https://partners.doctolib.fr/hopital-public/oloron-sainte-marie/chosm-reserve-aux-professionnels-de-sante?pid=practice-166418",
+      "location": {
+        "longitude": -0.8895563,
+        "latitude": 43.2177646,
+        "city": "Maul\u00e9on-Licharre"
+      },
+      "metadata": {
+        "address": "4 Avenue de Tr\u00e9ville, 64130 Maul\u00e9on-Licharre",
+        "phone_number": "+33559287942",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240763[166418]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240763"
+    },
+    {
+      "departement": "64",
+      "nom": "CH Pau Vaccination COVID 19",
+      "url": "https://partners.doctolib.fr/hopital-public/pau/ch-pau-vaccination",
+      "location": {
+        "longitude": -0.3489285,
+        "latitude": 43.3275333,
+        "city": "Pau"
+      },
+      "metadata": {
+        "address": "4 Boulevard Hauterive, 64000 Pau",
+        "phone_number": "+33559825378",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241674[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241674"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination COVID-19 - Cambo-Les-Bains",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/cambo-les-bains/centre-de-vaccination-covid-19-cambo-les-bains",
+      "location": {
+        "longitude": -1.3941889,
+        "latitude": 43.3619474,
+        "city": "Cambo-les-Bains"
+      },
+      "metadata": {
+        "address": "7 Avenue Jean Rumeau, 64250 Cambo-les-Bains",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-19:00",
+          "vendredi": "08:30-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242976[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242976"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Pontacq",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pontacq/centre-de-vaccination-de-pontacq",
+      "location": {
+        "longitude": -0.1144753,
+        "latitude": 43.1859761,
+        "city": "Pontacq"
+      },
+      "metadata": {
+        "address": "1 Place Huningue, 64530 Pontacq",
+        "phone_number": "+33642516816",
+        "business_hours": {
+          "lundi": "15:00-17:00",
+          "mardi": "15:00-17:00",
+          "mercredi": "10:00-12:00",
+          "jeudi": "10:00-12:00",
+          "vendredi": "10:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262404[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262404"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination COVID d'Anglet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/anglet/centre-de-vaccination-covid-d-anglet",
+      "location": {
+        "longitude": -1.5145647,
+        "latitude": 43.5032064,
+        "city": "Anglet"
+      },
+      "metadata": {
+        "address": "94 Avenue de Montbrun, 64600 Anglet",
+        "phone_number": "+33800800928",
+        "business_hours": {
+          "lundi": "08:00-12:00, 13:00-17:00",
+          "mardi": "08:00-12:00, 13:00-17:00",
+          "mercredi": "08:00-12:00, 13:00-17:00",
+          "jeudi": "08:00-12:00, 13:00-17:00",
+          "vendredi": "08:00-12:00, 13:00-17:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243109[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243109"
+    },
+    {
+      "departement": "64",
+      "nom": "Centres de vaccination de la ville de Biarritz",
+      "url": "https://partners.doctolib.fr/centre-de-sante/biarritz/centres-de-vaccination-de-la-ville-de-biarritz",
+      "location": {
+        "longitude": -1.5596911,
+        "latitude": 43.483554,
+        "city": "Biarritz"
+      },
+      "metadata": {
+        "address": "1 Avenue Edouard VII, 64200 Biarritz",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "08:00-22:00",
+          "mardi": "08:00-22:00",
+          "mercredi": "08:00-22:00",
+          "jeudi": "08:00-22:00",
+          "vendredi": "08:00-22:00",
+          "samedi": "08:00-22:00",
+          "dimanche": "08:00-22:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243347[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243347"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination COVID-19 -Saint Palais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-palais/centre-de-vaccination-covid-centre-hospitalier-de-saint-palais",
+      "location": {
+        "longitude": -1.0311458,
+        "latitude": 43.3309883,
+        "city": "Saint-Palais"
+      },
+      "metadata": {
+        "address": "34 Rue de la Bidouze, 64120 Saint-Palais",
+        "phone_number": "+33559658106",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242732[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242732"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination COVID du Pays de Bidache",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bidache/centre-de-vaccination-covid-du-pays-de-bidache",
+      "location": {
+        "longitude": -1.1416225,
+        "latitude": 43.4837611,
+        "city": "Bidache"
+      },
+      "metadata": {
+        "address": "1 Place du Fronton, 64520 Bidache",
+        "phone_number": "+33787053598",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": "09:00-12:00, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264693[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264693"
+    },
+    {
+      "departement": "64",
+      "nom": "Antenne de vaccination Covid Astra-Zeneca Saint-Jean-de-Luz - Sud Pays-Basque",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-jean-de-luz/antenne-de-vaccination-covid-astra-zeneca-saint-jean-de-luz-bassin-de-la-nivelle",
+      "location": {
+        "longitude": -1.6412631,
+        "latitude": 43.396888,
+        "city": "Saint-Jean-de-Luz"
+      },
+      "metadata": {
+        "address": "1 Chemin de Chingaletenia, 64500 Saint-Jean-de-Luz",
+        "phone_number": "+33559516199",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255538[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255538"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de Morlaas",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morlaas/centre-de-vaccination-de-morlaas",
+      "location": {
+        "longitude": -0.2639659,
+        "latitude": 43.3423444,
+        "city": "Morlaas"
+      },
+      "metadata": {
+        "address": "Place de la Hourquie, 64160 Morlaas",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263297[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263297"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination Covid-19 Monein",
+      "url": "https://partners.doctolib.fr/centre-de-sante/monein/centre-de-vaccination-covid-19-monein",
+      "location": {
+        "longitude": -0.5789217,
+        "latitude": 43.3218992,
+        "city": "Monein"
+      },
+      "metadata": {
+        "address": "3 Rue Saint-Girons, 64360 Monein",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262586[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262586"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination de B\u00e9n\u00e9jacq",
+      "url": "https://partners.doctolib.fr/centre-de-sante/benejacq/centre-de-vaccination-de-benejacq",
+      "location": {
+        "longitude": -0.213153,
+        "latitude": 43.1917754,
+        "city": "B\u00e9n\u00e9jacq"
+      },
+      "metadata": {
+        "address": "59 Rue des Pyr\u00e9n\u00e9es, 64800 B\u00e9n\u00e9jacq",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257132[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d257132"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de vaccination - VACCI VIC BILH",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lembeye/centre-de-vaccination-vacci-vic-bilh",
+      "location": {
+        "longitude": -0.1123984,
+        "latitude": 43.4495629,
+        "city": "Lembeye"
+      },
+      "metadata": {
+        "address": "37 Place du Marcadieu, 64350 Lembeye",
+        "phone_number": "+33672878578",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256797[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256797"
+    },
+    {
+      "departement": "64",
+      "nom": "Centre de Vaccination Multisport Mendeala",
+      "url": "https://partners.doctolib.fr/centre-de-sante/hasparren/centre-de-vaccination-multisport-mendeala",
+      "location": {
+        "longitude": -1.3130723,
+        "latitude": 43.3839057,
+        "city": "Hasparren"
+      },
+      "metadata": {
+        "address": "Avenue Charles de Gaulle, 64240 Hasparren",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:30",
+          "mardi": "09:00-12:30, 14:00-17:30",
+          "mercredi": "09:00-12:30, 14:00-17:30",
+          "jeudi": "09:00-12:30, 14:00-17:30",
+          "vendredi": "09:00-12:30, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265112[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265112"
+    }
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.952232+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "51",
+      "nom": "Pharmacie Croix Dampierre",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-croix-dampierre-chalons-en-champagne",
+      "location": {
+        "longitude": 4.3858888,
+        "latitude": 48.9422828,
+        "city": "chalons-en-champagne"
+      },
+      "metadata": {
+        "address": "AV DU PRESIDENT ROOSEVELT CC CROIX DAMPIERRE, 51000 CHALONS EN CHAMPAGNE",
+        "phone_number": "+33326219000",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "51142bd5"
+    },
+    {
+      "departement": "51",
+      "nom": "Pharmacie Lafayette Centrale",
+      "url": "https://partners.doctolib.fr/pharmacie/chalons-en-champagne/pharmacie-lafayette-centrale",
+      "location": {
+        "longitude": 4.3615115,
+        "latitude": 48.9561615,
+        "city": "Ch\u00e2lons-en-Champagne"
+      },
+      "metadata": {
+        "address": "8 Rue des Lombards, 51000 Ch\u00e2lons-en-Champagne",
+        "phone_number": "+33326682018",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "259136[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259136"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination Argonne - Marne",
+      "url": "https://partners.doctolib.fr/hopital-public/sainte-menehould/centre-de-vaccination-argonne-marne",
+      "location": {
+        "longitude": 4.9050416,
+        "latitude": 49.0928139,
+        "city": "Sainte-Menehould"
+      },
+      "metadata": {
+        "address": "Rue du Quartier Valmy, 51800 Sainte-Menehould",
+        "phone_number": "+33352829786",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242949[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242949"
+    },
+    {
+      "departement": "51",
+      "nom": "Pharmacie la Noue du Moulin",
+      "url": "https://partners.doctolib.fr/pharmacie/fagnieres/pharmacie-la-noue-du-moulin",
+      "location": {
+        "longitude": 4.3215052,
+        "latitude": 48.9590132,
+        "city": "Fagni\u00e8res"
+      },
+      "metadata": {
+        "address": "Route d'Epernay 51510, 51510 Fagni\u00e8res",
+        "phone_number": "+33326213934",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "251371[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d251371"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination COVID-19 - MSP Saint-Martin-sur-le-Pr\u00e9",
+      "url": "https://partners.doctolib.fr/maison-de-sante/saint-martin-sur-le-pre/centre-de-vaccination-covid-msp-saint-martin-sur-le-pre-chalons-en-champagne",
+      "location": {
+        "longitude": 4.3465363,
+        "latitude": 48.9749445,
+        "city": "Saint-Martin-sur-le-Pr\u00e9"
+      },
+      "metadata": {
+        "address": "16 Route de Louvois, 51520 Saint-Martin-sur-le-Pr\u00e9",
+        "phone_number": "+33326693816",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242552[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242552"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de Vaccination Covid de Vitry-le-Fran\u00e7ois",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vitry-le-francois/centre-de-vaccination-covid-de-vitry-le-francois",
+      "location": {
+        "longitude": 4.5812547,
+        "latitude": 48.7286839,
+        "city": "Vitry-le-Fran\u00e7ois"
+      },
+      "metadata": {
+        "address": "Esplanade de Tauberbischofsheim, 51300 Vitry-le-Fran\u00e7ois",
+        "phone_number": "+33607109453",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-17:00",
+          "mardi": "09:00-13:00, 14:00-17:00",
+          "mercredi": "09:00-13:00, 14:00-17:00",
+          "jeudi": "09:00-13:00, 14:00-17:00",
+          "vendredi": "09:00-13:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242194[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242194"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination Covid-19 d'Epernay",
+      "url": "https://partners.doctolib.fr/centre-de-sante/epernay/centre-de-vaccination-covid-19-d-epernay",
+      "location": {
+        "longitude": 3.9500721,
+        "latitude": 49.0353758,
+        "city": "\u00c9pernay"
+      },
+      "metadata": {
+        "address": "Parc des loisirs Roger-Menu, 51200 \u00c9pernay",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "266625[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266625"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination Covid-19 - CH Ch\u00e2lons-en-Champagne",
+      "url": "https://partners.doctolib.fr/hopital-public/chalons-en-champagne/centre-de-vaccination-covid-19-ch-chalons-en-champagne",
+      "location": {
+        "longitude": 4.3725322,
+        "latitude": 48.9718462,
+        "city": "Ch\u00e2lons-en-Champagne"
+      },
+      "metadata": {
+        "address": "51 Rue du Commandant Derrien, 51000 Ch\u00e2lons-en-Champagne",
+        "phone_number": "+33326693816",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "250658[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d250658"
+    },
+    {
+      "departement": "51",
+      "nom": "Centres de vaccination Covid-19 - Grand Reims - Cernay-l\u00e8s-Reims",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164806",
+      "location": {
+        "longitude": 4.1044048,
+        "latitude": 49.2639191,
+        "city": "Cernay-l\u00e8s-Reims"
+      },
+      "metadata": {
+        "address": "1 Place de la R\u00e9publique, 51420 Cernay-l\u00e8s-Reims",
+        "phone_number": "+33326777879",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": "09:00-13:00, 14:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242954[164806]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242954"
+    },
+    {
+      "departement": "51",
+      "nom": "Centre de vaccination de Suippes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/suippes/centre-de-vaccination-de-suippes",
+      "location": {
+        "longitude": 4.532647,
+        "latitude": 49.1324919,
+        "city": "Suippes"
+      },
+      "metadata": {
+        "address": "9 Rue Saint-Cloud, 51600 Suippes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257371[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d257371"
+    },
+    {
+      "departement": "51",
+      "nom": "Centres de vaccination Covid-19 - Grand Reims - Reims",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164807",
+      "location": {
+        "longitude": 4.0326392,
+        "latitude": 49.2578253,
+        "city": "Reims"
+      },
+      "metadata": {
+        "address": "4 Rue de Mars, 51100 Reims",
+        "phone_number": "+33326777879",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": "09:00-13:00, 14:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242954[164807]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242954"
+    },
+    {
+      "departement": "51",
+      "nom": "Centres de vaccination Covid-19 - Grand Reims - Reims",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims?pid=practice-164809",
+      "location": {
+        "longitude": 4.025176,
+        "latitude": 49.2426628,
+        "city": "Reims"
+      },
+      "metadata": {
+        "address": "Avenue Paul Marchandeau, 51100 Reims",
+        "phone_number": "+33326777879",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": "09:00-13:00, 14:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242954[164809]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242954"
+    },
+    {
+      "departement": "51",
+      "nom": "Centres de vaccination Covid-19 - Grand Reims - Fismes",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/reims/centres-de-vaccination-grand-reims",
+      "location": {
+        "longitude": 3.6813952,
+        "latitude": 49.3068093,
+        "city": "Fismes"
+      },
+      "metadata": {
+        "address": "28 Rue de la Huchette, 51170 Fismes",
+        "phone_number": "+33326777879",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": "09:00-13:00, 14:00-18:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242954[164789]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242954"
+    }
+  ]
+}

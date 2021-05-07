@@ -1,0 +1,100 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.979758+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "90",
+      "nom": "Centre Vaccination du Territoire de Belfort",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belfort/centre-vaccination-du-territoire-de-belfort?pid=practice-164077",
+      "location": {
+        "longitude": 6.975194,
+        "latitude": 47.539136,
+        "city": "Grandvillars"
+      },
+      "metadata": {
+        "address": "49 Rue des Grands Champs, 90600 Grandvillars",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T11:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 65,
+      "internal_id": "242098[164077]",
+      "vaccine_type": [
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d242098"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "90",
+      "nom": "Centre Vaccination du Territoire de Belfort - Belfort",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belfort/centre-vaccination-du-territoire-de-belfort",
+      "location": {
+        "longitude": 6.8485708,
+        "latitude": 47.6392458,
+        "city": "Belfort"
+      },
+      "metadata": {
+        "address": "2 Rue Paul Koepfler, 90000 Belfort",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242098[164071]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242098"
+    },
+    {
+      "departement": "90",
+      "nom": "Centre Vaccination du Territoire de Belfort - Giromagny",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/belfort/centre-vaccination-du-territoire-de-belfort?pid=practice-164391",
+      "location": {
+        "longitude": 6.831354,
+        "latitude": 47.732138,
+        "city": "Giromagny"
+      },
+      "metadata": {
+        "address": "Chemin Rural dit de la Grande Prairie, 90200 Giromagny",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "09:00-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242098[164391]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242098"
+    }
+  ]
+}

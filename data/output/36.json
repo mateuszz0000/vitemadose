@@ -1,0 +1,405 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.945375+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "36",
+      "nom": "Centre de Vaccination COVID SSR - Chateauroux - 36 - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/chateauroux/centre-de-vaccination-covid-ssr-chateauroux-36",
+      "location": {
+        "longitude": 1.7078032,
+        "latitude": 46.7940331,
+        "city": "Ch\u00e2teauroux"
+      },
+      "metadata": {
+        "address": "16 Rue Claude Nicolas Ledoux, 36000 Ch\u00e2teauroux",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "08:45-12:00, 13:30-17:00",
+          "mardi": "08:45-12:00, 13:30-17:00",
+          "mercredi": "08:45-12:00, 13:30-17:00",
+          "jeudi": "08:45-12:00, 13:30-17:00",
+          "vendredi": "08:45-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244404[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244404"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de Vaccination Saint Gaultier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-gaultier/centre-de-vaccination-saint-gaultier",
+      "location": {
+        "longitude": 1.409084,
+        "latitude": 46.6378739,
+        "city": "Saint-Gaultier"
+      },
+      "metadata": {
+        "address": "Impasse de la Plaine des Ch\u00e9zeaux, 36800 Saint-Gaultier",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "248793[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d248793"
+    },
+    {
+      "departement": "36",
+      "nom": "Centres de Vaccination Covid du Boischaut Nord - Vaccination Covid-19 - Vatan",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord?pid=practice-165107",
+      "location": {
+        "longitude": 1.8061275,
+        "latitude": 47.0666104,
+        "city": "Vatan"
+      },
+      "metadata": {
+        "address": "62 Avenue de la Lib\u00e9ration, 36150 Vatan",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": "10:00-12:00, 14:00-19:30",
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242919[165107]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242919"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de Vaccination Covid du Boischaut Sud  - Vaccination Covid-19 - La Ch\u00e2tre",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud?pid=practice-164853",
+      "location": {
+        "longitude": 1.981568,
+        "latitude": 46.578188,
+        "city": "La Ch\u00e2tre"
+      },
+      "metadata": {
+        "address": "Avenue du Parc, 36400 La Ch\u00e2tre",
+        "phone_number": "+33254061510",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242920[164853]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242920"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de vaccination d'Argenton-sur-Creuse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/argenton-sur-creuse/centre-de-vaccination-d-argenton-sur-creuse",
+      "location": {
+        "longitude": 1.523473,
+        "latitude": 46.58743,
+        "city": "Argenton-sur-Creuse"
+      },
+      "metadata": {
+        "address": "Rue de la Grenouille, 36200 Argenton-sur-Creuse",
+        "phone_number": "+33638174143",
+        "business_hours": {
+          "lundi": "14:00-19:00",
+          "mardi": "14:00-19:00",
+          "mercredi": "14:00-19:00",
+          "jeudi": "14:00-19:00",
+          "vendredi": "14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247914[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d247914"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de Vaccination Covid du Boischaut Sud  - Vaccination Covid-19 - Neuvy-Saint-S\u00e9pulchre",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/boischaut-sud/centre-de-vaccination-covid-du-boischaut-sud",
+      "location": {
+        "longitude": 1.8068826,
+        "latitude": 46.5959541,
+        "city": "Neuvy-Saint-S\u00e9pulchre"
+      },
+      "metadata": {
+        "address": "1 Place Henri de Latouche, 36230 Neuvy-Saint-S\u00e9pulchre",
+        "phone_number": "+33977920893",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242920[164854]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242920"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de Vaccination Covid-19 du Buzan\u00e7ais",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/buzancais/centre-de-vaccination-covid-19-du-buzancais",
+      "location": {
+        "longitude": 1.422241,
+        "latitude": 46.888554,
+        "city": "Buzan\u00e7ais"
+      },
+      "metadata": {
+        "address": "12 Avenue de la R\u00e9publique, 36500 Buzan\u00e7ais",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "246679[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d246679"
+    },
+    {
+      "departement": "36",
+      "nom": "Centres de Vaccination Covid du Boischaut Nord - Vaccination Covid-19 - Valen\u00e7ay",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/valencay/centres-de-vaccination-covid-du-boischaut-nord",
+      "location": {
+        "longitude": 1.5728553,
+        "latitude": 47.1622984,
+        "city": "Valen\u00e7ay"
+      },
+      "metadata": {
+        "address": "28 Rue des Princes, 36600 Valen\u00e7ay",
+        "phone_number": "+33254003233",
+        "business_hours": {
+          "lundi": "08:00-12:00",
+          "mardi": "14:00-16:00",
+          "mercredi": null,
+          "jeudi": "08:00-12:00, 14:00-17:00",
+          "vendredi": "14:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242919[164855]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242919"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de vaccination COVID de la ville de Levroux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/levroux/centre-de-vaccination-covid-de-la-ville-de-levroux",
+      "location": {
+        "longitude": 1.6101452,
+        "latitude": 46.9798288,
+        "city": "Levroux"
+      },
+      "metadata": {
+        "address": "1 Rue Gambetta, 36110 Levroux",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": "10:00-12:00",
+          "jeudi": "14:00-16:00",
+          "vendredi": "10:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243577[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243577"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de vaccination Covid-19 - Le Blanc",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-blanc/centre-vaccination-covid-19-le-blanc-et-meziere-en-brenne",
+      "location": {
+        "longitude": 1.0637609,
+        "latitude": 46.6330487,
+        "city": "Le Blanc"
+      },
+      "metadata": {
+        "address": "Place de la Lib\u00e9ration, 36300 Le Blanc",
+        "phone_number": "+33757453876",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "08:30-12:00, 13:00-17:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243329[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243329"
+    },
+    {
+      "departement": "36",
+      "nom": "Centres de Vaccination Covid-19 de Ch\u00e2teauroux",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/chateauroux/centres-vaccination-cpts-chateauroux-co",
+      "location": {
+        "longitude": 1.7078032,
+        "latitude": 46.7940331,
+        "city": "Ch\u00e2teauroux"
+      },
+      "metadata": {
+        "address": "16 Rue Claude Nicolas Ledoux, 36000 Ch\u00e2teauroux",
+        "phone_number": "+33236905190",
+        "business_hours": {
+          "lundi": "10:00-12:00, 14:00-16:00",
+          "mardi": "10:00-12:00, 14:00-16:00",
+          "mercredi": "10:00-12:00, 14:00-16:00",
+          "jeudi": "10:00-12:00, 14:00-16:00",
+          "vendredi": "10:00-12:00, 14:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242746[164846]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242746"
+    },
+    {
+      "departement": "36",
+      "nom": "Centre de vaccination de Villedieu-sur-Indre",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/villedieu-sur-indre/centre-de-vaccination-de-villedieu-sur-indre",
+      "location": {
+        "longitude": 1.5366608,
+        "latitude": 46.8463821,
+        "city": "Villedieu-sur-Indre"
+      },
+      "metadata": {
+        "address": "10 Rue Jean Jaur\u00e8s, 36320 Villedieu-sur-Indre",
+        "phone_number": "+33254265027",
+        "business_hours": {
+          "lundi": "13:30-18:00",
+          "mardi": "08:30-12:00, 13:30-18:00",
+          "mercredi": "08:30-12:30",
+          "jeudi": "08:30-12:00, 13:30-18:00",
+          "vendredi": "08:30-12:00, 13:30-18:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242590[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242590"
+    },
+    {
+      "departement": "36",
+      "nom": "Vaccination Covid-19 - Ville de Chatillon-sur-Indre - Espace Tivoli",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/chatillon-sur-indre/vaccination-covid-19-ville-de-chatillon-sur-indre-espace-tivoli",
+      "location": {
+        "longitude": 1.1676325,
+        "latitude": 46.9866104,
+        "city": "Ch\u00e2tillon-sur-Indre"
+      },
+      "metadata": {
+        "address": "Rue Jean Lur\u00e7at, 36700 Ch\u00e2tillon-sur-Indre",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "252403[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d252403"
+    }
+  ]
+}

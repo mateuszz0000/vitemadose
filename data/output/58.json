@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.955753+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination COVID de la ville de Ch\u00e2teau-Chinon(Ville) - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateau-chinon/vaccination-covid-centre-chateau-chinon",
+      "location": {
+        "longitude": 3.935053,
+        "latitude": 47.065239,
+        "city": "Ch\u00e2teau-Chinon(Ville)"
+      },
+      "metadata": {
+        "address": "Place Gudin, 58120 Ch\u00e2teau-Chinon(Ville)",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-30T17:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "243462[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243462"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination COVID de la Mairie de Cosne Cours sur Loire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cosne-cours-sur-loire/centre-de-vaccination-covid-de-cosne-cours-sur-loire",
+      "location": {
+        "longitude": 2.922969,
+        "latitude": 47.4095022,
+        "city": "Cosne-Cours-sur-Loire"
+      },
+      "metadata": {
+        "address": "6 Impasse de la Madeleine, 58200 Cosne-Cours-sur-Loire",
+        "phone_number": "+33386265064",
+        "business_hours": {
+          "lundi": "13:30-16:30",
+          "mardi": "09:00-11:45, 13:30-16:30",
+          "mercredi": "09:00-11:45, 13:30-16:30",
+          "jeudi": "09:00-11:45, 13:30-16:30",
+          "vendredi": "09:00-11:45, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243000[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243000"
+    },
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination COVID de la ville de Clamecy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clamecy/centre-de-vaccination-covid-ville-de-clamecy",
+      "location": {
+        "longitude": 3.5162054,
+        "latitude": 47.4569211,
+        "city": "Clamecy"
+      },
+      "metadata": {
+        "address": "Boulevard Misset, 58500 Clamecy",
+        "phone_number": "+33386934300",
+        "business_hours": {
+          "lundi": "13:30-17:00",
+          "mardi": "09:00-12:00, 13:30-17:00",
+          "mercredi": "09:00-12:00, 13:30-17:00",
+          "jeudi": "09:00-12:00, 13:30-17:00",
+          "vendredi": "09:00-12:00, 13:30-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243121[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243121"
+    },
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination COVID de la Mairie de Saint Pierre le Mo\u00fbtier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-pierre-le-moutier/centre-de-vaccination-covid-st-pierre-le-moutier",
+      "location": {
+        "longitude": 3.114801,
+        "latitude": 46.79769,
+        "city": "Saint-Pierre-le-Mo\u00fbtier"
+      },
+      "metadata": {
+        "address": "Impasse des Alli\u00e8res, 58240 Saint-Pierre-le-Mo\u00fbtier",
+        "phone_number": "+33386934300",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "08:30-12:30, 13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242871[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242871"
+    },
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination COVID de la ville de Decize",
+      "url": "https://partners.doctolib.fr/centre-de-sante/decize/centre-de-vaccination-covid-mairie-de-decize",
+      "location": {
+        "longitude": 3.4575752,
+        "latitude": 46.831732,
+        "city": "Decize"
+      },
+      "metadata": {
+        "address": "6 Boulevard du Dr Galvaing, 58300 Decize",
+        "phone_number": "+33386250323",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "08:30-17:00",
+          "mercredi": "08:30-17:00",
+          "jeudi": "08:30-17:00",
+          "vendredi": "08:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242611[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242611"
+    },
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination de La Charit\u00e9-Sur-Loire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-charite-sur-loire/centre-de-vaccination-de-la-charite-sur-loire",
+      "location": {
+        "longitude": 3.0206832,
+        "latitude": 47.1763568,
+        "city": "La Charit\u00e9-sur-Loire"
+      },
+      "metadata": {
+        "address": "40 Rue Sainte-Anne, 58400 La Charit\u00e9-sur-Loire",
+        "phone_number": "+33345640210",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242860[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242860"
+    },
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination COVID de Luzy (Ni\u00e8vre)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/luzy/centre-de-vaccination-covid-salle-des-fetes-de-luzy",
+      "location": {
+        "longitude": 3.9697601,
+        "latitude": 46.7899538,
+        "city": "Luzy"
+      },
+      "metadata": {
+        "address": "13 Rue des Remparts, 58170 Luzy",
+        "phone_number": "+33386304420",
+        "business_hours": {
+          "lundi": "13:30-17:15",
+          "mardi": "13:30-17:15",
+          "mercredi": "13:30-17:15",
+          "jeudi": "13:30-17:15",
+          "vendredi": "13:30-17:15",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242945[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242945"
+    },
+    {
+      "departement": "58",
+      "nom": "Centre de vaccination Covid-19 de Lormes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lormes/centre-de-vaccination-de-lormes",
+      "location": {
+        "longitude": 3.8153672,
+        "latitude": 47.2909828,
+        "city": "Lormes"
+      },
+      "metadata": {
+        "address": "8 Rue du Panorama, 58140 Lormes",
+        "phone_number": "+33386934300",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242782[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242782"
+    }
+  ]
+}

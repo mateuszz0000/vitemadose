@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.950122+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination Covid - CH BEAUGENCY - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/beaugency/centre-de-vaccination-covid-hopital-de-beaugency",
+      "location": {
+        "longitude": 1.621492,
+        "latitude": 47.7818612,
+        "city": "Beaugency"
+      },
+      "metadata": {
+        "address": "48 Avenue de Vend\u00f4me, 45190 Beaugency",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:30-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242167[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242167"
+    },
+    {
+      "departement": "45",
+      "nom": "Pharmacie du Centre",
+      "url": "https://partners.doctolib.fr/pharmacie/chateauneuf-sur-loire/pharmacie-du-centre-chateauneuf-sur-loire",
+      "location": {
+        "longitude": 2.2207901,
+        "latitude": 47.8637596,
+        "city": "Ch\u00e2teauneuf-sur-Loire"
+      },
+      "metadata": {
+        "address": "29 Grande Rue, 45110 Ch\u00e2teauneuf-sur-Loire",
+        "phone_number": "+33238584323",
+        "business_hours": {
+          "lundi": "09:00-12:15, 14:30-19:00",
+          "mardi": "09:00-12:15, 14:30-19:00",
+          "mercredi": "09:00-12:15, 14:30-19:00",
+          "jeudi": "09:00-12:15, 14:30-19:00",
+          "vendredi": "09:00-12:15, 14:30-19:00",
+          "samedi": "09:00-12:15, 14:30-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "254236[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d254236"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination Covid - CH PITHIVIERS - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/pithiviers/centre-de-vaccination-covid-de-pithiviers",
+      "location": {
+        "longitude": 2.2506419,
+        "latitude": 48.1701879,
+        "city": "Pithiviers"
+      },
+      "metadata": {
+        "address": "10 Boulevard Beauvallet, 45300 Pithiviers",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-16:30",
+          "mardi": "09:00-12:00, 13:00-16:30",
+          "mercredi": "09:00-12:00, 13:00-16:30",
+          "jeudi": "09:00-12:00, 13:00-16:30",
+          "vendredi": "09:00-12:00, 13:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242168[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242168"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination Covid-19 - Sully-sur-Loire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sully-sur-loire/centre-de-vaccination-covid-19-centre-social-kuypers-sully-sur-loire",
+      "location": {
+        "longitude": 2.3800041,
+        "latitude": 47.7700933,
+        "city": "Sully-sur-Loire"
+      },
+      "metadata": {
+        "address": "Chemin de la Salle Verte, 45600 Sully-sur-Loire",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "250044[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d250044"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination Covid - Gien",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/gien/centre-de-vaccination-de-gien",
+      "location": {
+        "longitude": 2.6233004,
+        "latitude": 47.7088214,
+        "city": "Gien"
+      },
+      "metadata": {
+        "address": "32 Rue Georges Brassens, 45500 Gien",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242669[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242669"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination Covid-19 - Salle Fernand Pellicer Orl\u00e9ans",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/orleans/centre-de-vaccination-covid-fernand-pellicer-d-orleans",
+      "location": {
+        "longitude": 1.934218,
+        "latitude": 47.83374,
+        "city": "Orl\u00e9ans"
+      },
+      "metadata": {
+        "address": "Rue Edouard Branly, 45100 Orl\u00e9ans",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:10-12:20, 13:30-16:45",
+          "mardi": "09:00-12:15, 13:30-16:45",
+          "mercredi": "09:00-12:15, 13:30-16:45",
+          "jeudi": "09:00-12:15, 13:30-16:45",
+          "vendredi": "09:00-12:15, 13:30-16:45",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243107[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243107"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination Covid-19 - CH MONTARGIS",
+      "url": "https://partners.doctolib.fr/hopital-public/montargis/centre-de-vaccination-covid-ch-de-montargis",
+      "location": {
+        "longitude": 2.771768,
+        "latitude": 48.000002,
+        "city": "Amilly"
+      },
+      "metadata": {
+        "address": "658 Rue des Bourgoins, 45200 Amilly",
+        "phone_number": "+33805121400",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "09:00-13:00, 14:00-17:00",
+          "mercredi": "09:00-13:00, 14:00-17:00",
+          "jeudi": "09:00-13:00, 14:00-17:00",
+          "vendredi": "09:00-13:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242165[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242165"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination - MONTARGIS",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montargis/centre-de-vaccination-prefecture-du-loiret",
+      "location": {
+        "longitude": 2.7387653,
+        "latitude": 48.0033355,
+        "city": "Montargis"
+      },
+      "metadata": {
+        "address": "16 Rue Carnot, 45200 Montargis",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "14:30-17:45",
+          "mardi": "09:00-12:30, 14:30-17:45",
+          "mercredi": "09:00-12:30, 14:30-17:45",
+          "jeudi": "09:00-12:30",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242769[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242769"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de Vaccination Ch\u00e2teauneuf sur Loire",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateauneuf-sur-loire/centre-de-vaccination-chateauneuf-sur-loire",
+      "location": {
+        "longitude": 2.2202439,
+        "latitude": 47.8672079,
+        "city": "Ch\u00e2teauneuf-sur-Loire"
+      },
+      "metadata": {
+        "address": "11 Avenue Albert Viger, 45110 Ch\u00e2teauneuf-sur-Loire",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249971[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d249971"
+    },
+    {
+      "departement": "45",
+      "nom": "Centre de vaccination - Fleury Les Aubrais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/fleury-les-aubrais/centre-de-vaccination-fleury-les-aubrais-fleury-les-aubrais",
+      "location": {
+        "longitude": 1.9204537,
+        "latitude": 47.9249065,
+        "city": "Fleury-les-Aubrais"
+      },
+      "metadata": {
+        "address": "57 Boulevard de Lamballe, 45400 Fleury-les-Aubrais",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "13:30-17:00",
+          "mardi": "09:00-12:30, 13:30-17:00",
+          "mercredi": "09:00-12:30, 13:30-17:00",
+          "jeudi": "09:00-12:30, 13:30-17:00",
+          "vendredi": "09:00-12:30, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243144"
+    }
+  ]
+}

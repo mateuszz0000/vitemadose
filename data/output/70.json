@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.966398+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "70",
+      "nom": "ARS de Haute-Sa\u00f4ne - Vaccination Covid-19 - H\u00e9ricourt",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone?pid=practice-164563",
+      "location": {
+        "longitude": 6.7621718,
+        "latitude": 47.5683139,
+        "city": "H\u00e9ricourt"
+      },
+      "metadata": {
+        "address": "7 Rue Martin Niem\u00f6ller, 70400 H\u00e9ricourt",
+        "phone_number": "+33384756475",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242279[164563]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242279"
+    },
+    {
+      "departement": "70",
+      "nom": "ARS de Haute-Sa\u00f4ne - Vaccination Covid-19 - Luxeuil-les-Bains",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone?pid=practice-181663",
+      "location": {
+        "longitude": 6.3766698,
+        "latitude": 47.8239562,
+        "city": "Luxeuil-les-Bains"
+      },
+      "metadata": {
+        "address": "Rue Marcel Donjon, 70300 Luxeuil-les-Bains",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242279[181663]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242279"
+    },
+    {
+      "departement": "70",
+      "nom": "ARS de Haute-Sa\u00f4ne - Vaccination Covid-19 - Lure",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone?pid=practice-164263",
+      "location": {
+        "longitude": 6.489867,
+        "latitude": 47.684256,
+        "city": "Lure"
+      },
+      "metadata": {
+        "address": "Rue du Docteur Deubel, 70200 Lure",
+        "phone_number": "+33384756475",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242279[164263]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242279"
+    },
+    {
+      "departement": "70",
+      "nom": "ARS de Haute-Sa\u00f4ne - Vaccination Covid-19 - Gray",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone?pid=practice-164265",
+      "location": {
+        "longitude": 5.5938679,
+        "latitude": 47.4483159,
+        "city": "Gray"
+      },
+      "metadata": {
+        "address": "Avenue Carnot, 70100 Gray",
+        "phone_number": "+33384756475",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242279[164265]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242279"
+    },
+    {
+      "departement": "70",
+      "nom": "ARS de Haute-Sa\u00f4ne - Vaccination Covid-19 - Vesoul",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vesoul/ars-de-haute-saone",
+      "location": {
+        "longitude": 6.1594767,
+        "latitude": 47.6215418,
+        "city": "Vesoul"
+      },
+      "metadata": {
+        "address": "Place Pierre Renet, 70000 Vesoul",
+        "phone_number": "+33384756475",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242279[164262]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242279"
+    }
+  ]
+}

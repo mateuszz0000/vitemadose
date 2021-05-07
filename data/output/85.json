@@ -1,0 +1,194 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.977632+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "85",
+      "nom": "Centre Vaccination Fontenay le Comte - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/fontenay-le-comte/centre-vaccination-fontenay-le-comte",
+      "location": {
+        "longitude": -0.7932395,
+        "latitude": 46.4619894,
+        "city": "Fontenay-le-Comte"
+      },
+      "metadata": {
+        "address": "70 Avenue de la Gare, 85200 Fontenay-le-Comte",
+        "phone_number": "+33256906412",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": "14:00-18:00, 09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T17:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 14,
+      "internal_id": "242652[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242652"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "85",
+      "nom": "Pharmacie de Commequiers",
+      "url": "https://partners.doctolib.fr/pharmacie/commequiers/pharmacie-de-commequiers",
+      "location": {
+        "longitude": -1.8376668,
+        "latitude": 46.7615069,
+        "city": "Commequiers"
+      },
+      "metadata": {
+        "address": "90 Place de l'\u00c9glise, 85220 Commequiers",
+        "business_hours": {
+          "lundi": "09:00-12:30, 15:00-19:30",
+          "mardi": "09:00-12:30, 15:00-19:30",
+          "mercredi": "09:00-12:30, 15:00-19:30",
+          "jeudi": "09:00-12:30, 15:00-19:30",
+          "vendredi": "09:00-12:30, 15:00-19:30",
+          "samedi": "09:00-12:30, 15:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "262389[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262389"
+    },
+    {
+      "departement": "85",
+      "nom": "Centre de vaccination COVID-19 de Noirmoutier",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/noirmoutier-en-l-ile/centre-de-vaccination-de-noirmoutier",
+      "location": {
+        "longitude": -2.25054546607552,
+        "latitude": 47.00058180896,
+        "city": "Noirmoutier"
+      },
+      "metadata": {
+        "address": "Place de la pr\u00e9e au duc, 85330 Noirmoutier",
+        "phone_number": "+33285292450",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-19:00",
+          "vendredi": "08:30-19:00",
+          "samedi": "08:30-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243018[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243018"
+    },
+    {
+      "departement": "85",
+      "nom": "Centre de Vaccination Covid-19- Terres de Montaigu",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montaigu-vendee/centre-de-vaccination-terres-de-montaigu",
+      "location": {
+        "longitude": -1.30692777724608,
+        "latitude": 46.9568953843905,
+        "city": " Saint-Georges-de-Montaigu"
+      },
+      "metadata": {
+        "address": "All\u00e9e des Cressonni\u00e8res, 85600  Saint-Georges-de-Montaigu",
+        "business_hours": {
+          "lundi": "09:30-13:30, 14:30-18:30",
+          "mardi": "09:30-13:30, 14:30-18:30",
+          "mercredi": "09:30-13:30, 14:30-18:30",
+          "jeudi": "09:30-13:30, 14:30-18:30",
+          "vendredi": "09:30-13:30, 14:30-18:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242806[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242806"
+    },
+    {
+      "departement": "85",
+      "nom": "Centre de vaccination Covid-19 - Lu\u00e7on",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/lucon/centre-de-vaccination-de-lucon",
+      "location": {
+        "longitude": -1.1873502,
+        "latitude": 46.4567744,
+        "city": "Lu\u00e7on"
+      },
+      "metadata": {
+        "address": "6 Chemin de la Motte des Quatre Seigneurs, 85400 Lu\u00e7on",
+        "phone_number": "+33256906412",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242607[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242607"
+    },
+    {
+      "departement": "85",
+      "nom": "Centre de Vaccination Covid-19 de la La Roche-sur-Yon",
+      "url": "https://partners.doctolib.fr/maison-de-sante/la-roche-sur-yon/centre-de-vaccination-de-la-la-roche-sur-yon",
+      "location": {
+        "longitude": -1.4048664,
+        "latitude": 46.6579376,
+        "city": "La Roche-sur-Yon"
+      },
+      "metadata": {
+        "address": "80 Rue Emile Baumann, 85000 La Roche-sur-Yon",
+        "phone_number": "+33272781110",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242738[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242738"
+    }
+  ]
+}

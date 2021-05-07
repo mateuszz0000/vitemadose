@@ -1,0 +1,673 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.983814+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "95",
+      "nom": "Centre de Vaccination Municipal COVID d'Argenteuil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/argenteuil/centre-de-vaccination-covid-ville-d-argenteuil",
+      "location": {
+        "longitude": 2.2575681,
+        "latitude": 48.9434184,
+        "city": "Argenteuil"
+      },
+      "metadata": {
+        "address": "9 Boulevard H\u00e9lo\u00efse, 95100 Argenteuil",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-17T16:45:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "260111[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d260111"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination de Sarcelles",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sarcelles/centre-de-vaccination-de-sarcelles",
+      "location": {
+        "longitude": 2.3869074,
+        "latitude": 48.9843298,
+        "city": "Sarcelles"
+      },
+      "metadata": {
+        "address": "Route des Refuzniks, 95200 Sarcelles",
+        "phone_number": "+33134457402",
+        "business_hours": {
+          "lundi": "14:00-20:00",
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "14:00-20:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": "10:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-22T14:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "240550[]",
+      "vaccine_type": [
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d240550"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccinations Covid 19 - CH Gonesse",
+      "url": "https://partners.doctolib.fr/hopital-public/gonesse/centre-de-vaccinations-covid-ch-gonesse",
+      "location": {
+        "longitude": 2.4495482,
+        "latitude": 48.9936434,
+        "city": "Gonesse"
+      },
+      "metadata": {
+        "address": "2 Boulevard du 19 Mars 1962, 95500 Gonesse",
+        "phone_number": "+33182320596",
+        "business_hours": {
+          "lundi": "09:00-16:30",
+          "mardi": "09:00-16:30",
+          "mercredi": "09:00-16:30",
+          "jeudi": "09:00-16:30",
+          "vendredi": "09:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T09:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 17,
+      "internal_id": "242589[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242589"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "95",
+      "nom": "Olivier Sanchez",
+      "url": "https://app.ordoclic.fr/app/pharmacie/olivier-sanchez-la-frette-sur-seine",
+      "location": {
+        "longitude": 2.1826285,
+        "latitude": 48.980173,
+        "city": "la-frette-sur-seine"
+      },
+      "metadata": {
+        "address": "123 TER BD DE PONTOISE, 95530 LA FRETTE SUR SEINE",
+        "phone_number": "+33134508844",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "91dc764f"
+    },
+    {
+      "departement": "95",
+      "nom": "Pharmacie De La Mairie",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-mairie-andilly",
+      "location": {
+        "longitude": 2.2988758,
+        "latitude": 49.0048594,
+        "city": "andilly"
+      },
+      "metadata": {
+        "address": "9 place louis jean finot, 95580 andilly",
+        "phone_number": "+33139592168",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "ace3c632"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise - Saint-Brice-sous-For\u00eat",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/st-brice-sous-foret-95350/vaccination-plaine-vallee-saint-brice-sous-foret?category=-1&cabinet=16609&specialty=496",
+      "location": {
+        "longitude": 2.34897,
+        "latitude": 49.0047,
+        "city": "Saint-Brice-sous-For\u00eat"
+      },
+      "metadata": {
+        "address": "5bis Rue de la For\u00eat, 95350 Saint-Brice-sous-For\u00eat",
+        "phone_number": "+33130103980",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "14h-17h",
+          "jeudi": "14h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "822"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise - Montmorency",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/montmorency-95160/vaccination-plaine-vallee-montmorency-salle-des-fetes?category=-1&cabinet=16607&specialty=496",
+      "location": {
+        "longitude": 2.32059,
+        "latitude": 48.9893,
+        "city": "Montmorency"
+      },
+      "metadata": {
+        "address": "3 Avenue Foch, 95160 Montmorency",
+        "phone_number": "+33130103980",
+        "business_hours": {
+          "lundi": "14h-17h",
+          "mardi": "14h-17h",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "14h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "824"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination territorial Centre Val d'Oise - Enghien-les-Bains",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/enghien-les-bains-95880/vaccination-plaine-vallee-enghien-les-bains?category=-1&cabinet=16606&specialty=496",
+      "location": {
+        "longitude": 2.30465,
+        "latitude": 48.9684,
+        "city": "Enghien-les-Bains"
+      },
+      "metadata": {
+        "address": "85 Rue du G\u00e9n\u00e9ral de Gaulle, 95880 Enghien-les-Bains",
+        "phone_number": "+33130103980",
+        "business_hours": {
+          "lundi": "9h-12h",
+          "mardi": "9h-12h",
+          "mercredi": "9h-12h",
+          "jeudi": "9h-12h",
+          "vendredi": "ferm\u00e9",
+          "samedi": "9h-12h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "827"
+    },
+    {
+      "departement": "95",
+      "nom": "Pharmacie de la mairie Groslay",
+      "url": "https://partners.doctolib.fr/pharmacie/groslay/pharmacie-de-la-mairie-groslay",
+      "location": {
+        "longitude": 2.3451673,
+        "latitude": 48.9869642,
+        "city": "Groslay"
+      },
+      "metadata": {
+        "address": "11 Rue du G\u00e9n\u00e9ral Leclerc, 95410 Groslay",
+        "phone_number": "+33986440646",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "09:00-13:00, 14:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264735[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264735"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination Covid-19 - Commune de Sannois",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sannois/centre-de-vaccination-covid-19-commune-de-sannois",
+      "location": {
+        "longitude": 2.2572975,
+        "latitude": 48.9718257,
+        "city": "Sannois"
+      },
+      "metadata": {
+        "address": "Boulevard Charles de Gaulle, 95110 Sannois",
+        "phone_number": "+33633749174",
+        "business_hours": {
+          "lundi": "08:30-12:00, 13:30-18:00",
+          "mardi": "08:30-12:00, 13:30-18:00",
+          "mercredi": "08:30-12:00, 13:30-18:00",
+          "jeudi": "08:30-12:00, 13:30-18:00",
+          "vendredi": "08:30-12:00, 13:30-18:00",
+          "samedi": "08:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258188[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258188"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination COVID-19 Ermont",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ermont/centre-de-vaccination-ermont",
+      "location": {
+        "longitude": 2.2664006,
+        "latitude": 48.9810765,
+        "city": "Ermont"
+      },
+      "metadata": {
+        "address": "102 Avenue Louis Armand, 95120 Ermont",
+        "phone_number": "+33970809347",
+        "business_hours": {
+          "lundi": "09:15-12:00, 14:00-17:30",
+          "mardi": "09:15-12:00, 14:00-17:30",
+          "mercredi": "09:15-12:00, 14:00-17:30",
+          "jeudi": "09:15-12:00, 14:00-17:30",
+          "vendredi": "09:15-12:00, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245413[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245413"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de Vaccination Covid - CH Victor Dupouy d\u2019Argenteuil - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/argenteuil/centre-de-vaccination-covid-ch-victor-dupouy-d-argenteuil",
+      "location": {
+        "longitude": 2.2388109,
+        "latitude": 48.9458034,
+        "city": "Argenteuil"
+      },
+      "metadata": {
+        "address": "69 Rue du Lieutenant Colonel Prudhon, 95100 Argenteuil",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:00",
+          "mardi": "09:00-12:00, 13:30-17:00",
+          "mercredi": "09:00-12:00, 13:30-17:00",
+          "jeudi": "09:00-12:00, 13:30-17:00",
+          "vendredi": "09:00-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242174[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242174"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de Vaccination Covid-19 - Ville de Goussainville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/goussainville/centre-de-vaccination-ville-de-goussainville",
+      "location": {
+        "longitude": 2.4553245,
+        "latitude": 49.0295396,
+        "city": "Goussainville"
+      },
+      "metadata": {
+        "address": "21 Avenue de Montmorency, 95190 Goussainville",
+        "phone_number": "+33139946100",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242446[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242446"
+    },
+    {
+      "departement": "95",
+      "nom": "CVT - Centre de Vaccination de Taverny - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/taverny/centre-de-vaccination-de-taverny",
+      "location": {
+        "longitude": 2.2133584,
+        "latitude": 49.017615,
+        "city": "Taverny"
+      },
+      "metadata": {
+        "address": "Rue Jeanne Planche, 95150 Taverny",
+        "phone_number": "+33185112450",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240284[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240284"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination Covid-19 de Franconville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/franconville/centre-de-vaccination-covid-19-de-franconville",
+      "location": {
+        "longitude": 2.2244077,
+        "latitude": 48.9916764,
+        "city": "Franconville"
+      },
+      "metadata": {
+        "address": "Boulevard Rhin et Danube, 95130 Franconville",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "260937[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d260937"
+    },
+    {
+      "departement": "95",
+      "nom": "Pharmacie Cit\u00e9 Sant\u00e9",
+      "url": "https://partners.doctolib.fr/pharmacie/eragny/pharmacie-cite-sante",
+      "location": {
+        "longitude": 2.0906503,
+        "latitude": 49.0132947,
+        "city": "\u00c9ragny"
+      },
+      "metadata": {
+        "address": "248 Rue de l'Ambassadeur, 95610 \u00c9ragny",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-19:00",
+          "vendredi": "08:30-19:00",
+          "samedi": "08:30-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "266543[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266543"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination COVID-19 - Centre D\u00e9partemental de Vaccination (Jouy-le-Moutier)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/jouy-le-moutier/centre-de-vaccination-covid-19-centre-departemental-de-vaccination-jouy-le-moutier",
+      "location": {
+        "longitude": 2.024756,
+        "latitude": 49.012403,
+        "city": "Jouy-le-Moutier"
+      },
+      "metadata": {
+        "address": "Rue Rossini, 95280 Jouy-le-Moutier",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264466[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264466"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination - Cergy-Pontoise - Cergy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-cergy-pontoise?pid=practice-164301",
+      "location": {
+        "longitude": 2.0684177,
+        "latitude": 49.0450556,
+        "city": "Cergy"
+      },
+      "metadata": {
+        "address": "8 Les Linandes Pourpres, 95000 Cergy",
+        "phone_number": "+33134433444",
+        "business_hours": {
+          "lundi": "13:30-17:00",
+          "mardi": "13:30-17:00",
+          "mercredi": "13:30-17:00",
+          "jeudi": "13:30-17:00",
+          "vendredi": "13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242343[164301]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242343"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination Covid-19 - Centre intercommunal de Viarmes",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/viarmes/centre-de-vaccination-covid-19-centre-intercommunal-de-viarmes",
+      "location": {
+        "longitude": 2.371305,
+        "latitude": 49.126043,
+        "city": "Viarmes"
+      },
+      "metadata": {
+        "address": "All\u00e9e de Sully, 95270 Viarmes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261658[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261658"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination COVID19 de L'Isle-Adam - H\u00f4pital Chantepie Mancier",
+      "url": "https://partners.doctolib.fr/espic-etablissement-de-sante-prive-d-interet-collectif/l-isle-adam/centre-de-vaccination-covid19-de-l-isle-adam-hopital-chantepie-mancier",
+      "location": {
+        "longitude": 2.2232401,
+        "latitude": 49.1144093,
+        "city": "L'Isle-Adam"
+      },
+      "metadata": {
+        "address": "9 Rue Chantepie Mancier, 95290 L'Isle-Adam",
+        "phone_number": "+33659103906",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-16:00",
+          "mardi": "09:00-12:00, 13:00-16:00",
+          "mercredi": "09:00-12:00, 13:00-16:00",
+          "jeudi": "09:00-12:00, 13:00-16:00",
+          "vendredi": "09:00-12:00, 13:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242478[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242478"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination - Cergy-Pontoise - Pontoise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cergy/centre-de-vaccination-cergy-pontoise",
+      "location": {
+        "longitude": 2.0953033,
+        "latitude": 49.0572786,
+        "city": "Pontoise"
+      },
+      "metadata": {
+        "address": "2 Rue Rodin, 95300 Pontoise",
+        "phone_number": "+33134433444",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:00-17:00",
+          "mardi": "08:30-12:30, 13:00-17:00",
+          "mercredi": "08:30-12:30, 13:00-17:00",
+          "jeudi": "08:30-12:30, 13:00-17:00",
+          "vendredi": "08:30-12:30",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242343[164245]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242343"
+    },
+    {
+      "departement": "95",
+      "nom": "Centre de vaccination d'Auvers-sur-Oise",
+      "url": "https://partners.doctolib.fr/centre-de-sante/auvers-sur-oise/centre-de-vaccination-d-auvers-sur-oise",
+      "location": {
+        "longitude": 2.1825524,
+        "latitude": 49.0721295,
+        "city": "Auvers-sur-Oise"
+      },
+      "metadata": {
+        "address": "Rue Marcel Martin, 95430 Auvers-sur-Oise",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259212[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259212"
+    }
+  ]
+}

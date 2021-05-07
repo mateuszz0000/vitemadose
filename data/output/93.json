@@ -1,0 +1,810 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.982059+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "93",
+      "nom": "Pharmacie de la R\u00e9publique",
+      "url": "https://partners.doctolib.fr/pharmacie/saint-denis/pharmacie-de-la-republique",
+      "location": {
+        "longitude": 2.3516637,
+        "latitude": 48.9367522,
+        "city": "Saint-Denis"
+      },
+      "metadata": {
+        "address": "83 Rue de la R\u00e9publique, 93200 Saint-Denis",
+        "phone_number": "+33148200872",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "09:00-20:00",
+          "dimanche": "09:30-19:30"
+        }
+      },
+      "prochain_rdv": "2021-04-17T12:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 849,
+      "internal_id": "236935[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d236935"
+    },
+    {
+      "departement": "93",
+      "nom": "Pharmacie des 3 cites",
+      "url": "https://partners.doctolib.fr/pharmacie/saint-denis/pharmacie-des-3-cites",
+      "location": {
+        "longitude": 2.3523473,
+        "latitude": 48.942777,
+        "city": "Saint-Denis"
+      },
+      "metadata": {
+        "address": "4 Rue Gaston Dourdin, 93200 Saint-Denis",
+        "phone_number": "+33148221154",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-17T16:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 22,
+      "internal_id": "265263[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d265263"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination CPS COVID-19 - Bobigny H\u00f4tel de Ville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bobigny/centre-de-vaccination-cps-covid-bobigny-hotel-de-ville",
+      "location": {
+        "longitude": 2.4450964,
+        "latitude": 48.9061907,
+        "city": "Bobigny"
+      },
+      "metadata": {
+        "address": "H\u00f4tel de ville, Place Y. Arafat, 31 Avenue du Pr\u00e9sident Salvador Allende, 93000 Bobigny",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-27T14:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 72,
+      "internal_id": "255921[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d255921"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination - Centre municipal de sant\u00e9",
+      "url": "https://www.maiia.com/centre-de-vaccination/93230-romainville/centre-de-vaccination-de-romainville",
+      "location": {
+        "longitude": 2.44059,
+        "latitude": 48.8862,
+        "city": "Romainville"
+      },
+      "metadata": {
+        "address": "39 All\u00e9e Bellevue, 93230 Romainville",
+        "phone_number": "+33141831785",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1657"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination Livry-Gargan",
+      "url": "https://www.maiia.com/centre-de-vaccination/93190-livry-gargan/centre-de-recours-a-la-vaccination-de-livry-gargan",
+      "location": {
+        "longitude": 2.54143,
+        "latitude": 48.926,
+        "city": "Livry-Gargan"
+      },
+      "metadata": {
+        "address": "15 Avenue Ferrer, 93190 Livry-Gargan",
+        "phone_number": "+33612772941/0800093190",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "598"
+    },
+    {
+      "departement": "93",
+      "nom": "Pharmacie de l'Esplanade",
+      "url": "https://partners.doctolib.fr/pharmacie/saint-denis/pharmacie-de-l-esplanade-saint-denis",
+      "location": {
+        "longitude": 2.3551738,
+        "latitude": 48.9330331,
+        "city": "Saint-Denis"
+      },
+      "metadata": {
+        "address": "2 Place de la R\u00e9sistance et de la D\u00e9portation, 93200 Saint-Denis",
+        "phone_number": "+33148200118",
+        "business_hours": {
+          "lundi": "09:30-20:00",
+          "mardi": "09:30-20:00",
+          "mercredi": "09:30-20:00",
+          "jeudi": "09:30-20:00",
+          "vendredi": "09:30-20:00",
+          "samedi": "09:30-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "265506[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265506"
+    },
+    {
+      "departement": "93",
+      "nom": "Pharmacie de la r\u00e9publique",
+      "url": "https://partners.doctolib.fr/pharmacie/bondy/pharmacie-de-la-republique-bondy",
+      "location": {
+        "longitude": 2.478457,
+        "latitude": 48.894663,
+        "city": "Bondy"
+      },
+      "metadata": {
+        "address": "18 Place de la R\u00e9publique, 93140 Bondy",
+        "phone_number": "+33148480128",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "266614[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266614"
+    },
+    {
+      "departement": "93",
+      "nom": "Centres municipaux de sant\u00e9 de la ville d'Aubervilliers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aubervilliers/centres-municipaux-de-sante-de-la-ville-d-aubervilliers",
+      "location": {
+        "longitude": 2.3832617,
+        "latitude": 48.9106405,
+        "city": "Aubervilliers"
+      },
+      "metadata": {
+        "address": "5 Rue Edouard Poisson, 93300 Aubervilliers",
+        "phone_number": "+33171896186",
+        "business_hours": {
+          "lundi": "13:30-17:30",
+          "mardi": "09:00-12:30, 13:30-17:30",
+          "mercredi": "09:00-12:30, 13:30-17:30",
+          "jeudi": "09:00-12:30, 13:30-17:30",
+          "vendredi": "09:00-12:30, 13:30-17:30",
+          "samedi": "09:00-12:30, 13:30-17:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "108116[163722]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d108116"
+    },
+    {
+      "departement": "93",
+      "nom": "Centres Municipaux de Sant\u00e9 de la Mairie de Saint-Ouen",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-ouen/cms-saint-ouen?pid=practice-163685",
+      "location": {
+        "longitude": 2.3363071,
+        "latitude": 48.9113643,
+        "city": "Saint-Ouen"
+      },
+      "metadata": {
+        "address": "5 Rue des \u00c9coles, 93400 Saint-Ouen",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "247961[163685]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d247961"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination Covid-19  Pantin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pantin/centre-de-vaccination-covid-pantin",
+      "location": {
+        "longitude": 2.4059961,
+        "latitude": 48.8926483,
+        "city": "Pantin"
+      },
+      "metadata": {
+        "address": "10/12 Rue Eug\u00e8ne et Marie-Louise Cornet, 93500 Pantin",
+        "phone_number": "+33619253078",
+        "business_hours": {
+          "lundi": "09:00-12:30",
+          "mardi": "09:00-12:30",
+          "mercredi": "09:00-12:30",
+          "jeudi": "09:00-12:30",
+          "vendredi": "09:00-12:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243094[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243094"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination h\u00f4pital Avicenne - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/bobigny/centres-de-vaccination-hopital-avicenne-ap-hp",
+      "location": {
+        "longitude": 2.42363130000001,
+        "latitude": 48.9148355,
+        "city": "Bobigny"
+      },
+      "metadata": {
+        "address": "125 Rue de Stalingrad, 93000 Bobigny",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261699[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261699"
+    },
+    {
+      "departement": "93",
+      "nom": "H\u00f4pital Avicenne - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/bobigny/hopital-avicenne-ap-hp",
+      "location": {
+        "longitude": 2.4214047,
+        "latitude": 48.9162235,
+        "city": "Bobigny"
+      },
+      "metadata": {
+        "address": "125 Rue de Stalingrad, 93000 Bobigny",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "32520[18499]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d32520"
+    },
+    {
+      "departement": "93",
+      "nom": "Sant\u00e9 Plus - Centre Saint Denis",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/sante-plus-centre-saint-denis",
+      "location": {
+        "longitude": 2.3706287,
+        "latitude": 48.9367685,
+        "city": "Saint-Denis"
+      },
+      "metadata": {
+        "address": "85/87 Rue de Strasbourg, 93200 Saint-Denis",
+        "phone_number": "+33148212020",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "163294[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d163294"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination Covid-19 - Stade de France",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-denis/centre-de-vaccination-covid-19-stade-de-france",
+      "location": {
+        "longitude": 2.3627092,
+        "latitude": 48.9252424,
+        "city": "Saint-Denis"
+      },
+      "metadata": {
+        "address": "15-21 Avenue Jules Rimet, 93200 Saint-Denis",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263051[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263051"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination h\u00f4pital Jean Verdier - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/bondy/centre-de-vaccination-hopital-jean-verdier",
+      "location": {
+        "longitude": 2.488053,
+        "latitude": 48.909873,
+        "city": "Bondy"
+      },
+      "metadata": {
+        "address": "Avenue du 14 Juillet, 93140 Bondy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261700[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261700"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre Hospitalier de Saint-Denis-Vaccination Covid19",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-denis/centre-hospitalier-de-saint-denis-vaccination-covid19",
+      "location": {
+        "longitude": 2.3730295,
+        "latitude": 48.9358977,
+        "city": "Saint-Denis"
+      },
+      "metadata": {
+        "address": "2 Rue du Docteur Delafontaine, 93200 Saint-Denis",
+        "phone_number": "+33142356090",
+        "business_hours": {
+          "lundi": "08:30-16:00",
+          "mardi": "08:30-16:00",
+          "mercredi": "08:30-16:00",
+          "jeudi": "08:30-16:00",
+          "vendredi": "08:30-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242570[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242570"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination de la ville de Montreuil",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montreuil/centre-de-vaccination-de-la-ville-de-montreuil",
+      "location": {
+        "longitude": 2.441313,
+        "latitude": 48.8623058,
+        "city": "Montreuil"
+      },
+      "metadata": {
+        "address": "1 Place Jean Jaur\u00e8s, 93100 Montreuil",
+        "phone_number": "+33148706988",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255882[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255882"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination Ren\u00e9 Muret - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/sevran/centre-de-vaccination-rene-muret-ap-hp",
+      "location": {
+        "longitude": 2.51156019999996,
+        "latitude": 48.9363463,
+        "city": "Sevran"
+      },
+      "metadata": {
+        "address": "Avenue du Docteur Schaffner, 93270 Sevran",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-16:30",
+          "mardi": "09:00-13:00, 14:00-16:30",
+          "mercredi": "09:00-13:00, 14:00-16:30",
+          "jeudi": "09:00-13:00, 14:00-16:30",
+          "vendredi": "09:00-13:00, 14:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261701[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261701"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre municipal de vaccination COVID Clichy-sous-Bois - Charlotte Petit",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clichy-sous-bois/centre-municipal-de-vaccination-covid-charlotte-petit",
+      "location": {
+        "longitude": 2.5464452,
+        "latitude": 48.9107252,
+        "city": "Clichy-sous-Bois"
+      },
+      "metadata": {
+        "address": "Place du 11 Novembre 1918, 93390 Clichy-sous-Bois",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:00",
+          "mardi": "09:00-12:30, 14:00-17:00",
+          "mercredi": "09:00-12:30, 14:00-17:00",
+          "jeudi": "09:00-12:30, 14:00-17:00",
+          "vendredi": "09:00-12:30, 14:00-17:00",
+          "samedi": "09:00-12:30, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244262[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244262"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre municipal de sant\u00e9 - Livry Gargan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/livry-gargan/centre-municipal-de-sante-livry-gargan",
+      "location": {
+        "longitude": 2.5452688,
+        "latitude": 48.9208787,
+        "city": "Livry-Gargan"
+      },
+      "metadata": {
+        "address": "36 Rue Saint-Claude, 93190 Livry-Gargan",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "17077[173791]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d17077"
+    },
+    {
+      "departement": "93",
+      "nom": "H\u00f4pital Ren\u00e9-Muret - AP-HP",
+      "url": "https://partners.doctolib.fr/hopital-public/sevran/hopital-rene-muret-ap-hp",
+      "location": {
+        "longitude": 2.51156019999996,
+        "latitude": 48.9363463,
+        "city": "Sevran"
+      },
+      "metadata": {
+        "address": "Avenue du Docteur Schaffner, 93270 Sevran",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-16:30",
+          "mardi": "09:00-13:00, 14:00-16:30",
+          "mercredi": "09:00-13:00, 14:00-16:30",
+          "jeudi": "09:00-13:00, 14:00-16:30",
+          "vendredi": "09:00-13:00, 14:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "58065[31581]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d58065"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination COVID-19 - Marne-Plaisance",
+      "url": "https://partners.doctolib.fr/centre-de-sante/neuilly-sur-marne/centre-de-vaccination-covid-marne-plaisance",
+      "location": {
+        "longitude": 2.5329136,
+        "latitude": 48.8673404,
+        "city": "Neuilly-sur-Marne"
+      },
+      "metadata": {
+        "address": "3 Rue de Berry, 93330 Neuilly-sur-Marne",
+        "phone_number": "+33143087888",
+        "business_hours": {
+          "lundi": "09:00-11:30, 14:00-17:00",
+          "mardi": "09:00-11:30, 14:00-17:00",
+          "mercredi": "09:00-11:30, 14:00-17:00",
+          "jeudi": "09:00-11:30, 14:00-17:00",
+          "vendredi": "09:00-11:30, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242794[163853]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242794"
+    },
+    {
+      "departement": "93",
+      "nom": "Gymnase Jean Guimier - Centre de vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tremblay-en-france/gymnase-jean-guimier-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 2.5796281,
+        "latitude": 48.9486789,
+        "city": "Tremblay-en-France"
+      },
+      "metadata": {
+        "address": "70 Avenue Gilbert Berger, 93290 Tremblay-en-France",
+        "phone_number": "+33143938187",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257552[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d257552"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre Hospitalier Montfermeil - Vaccination COVID",
+      "url": "https://partners.doctolib.fr/hopital-public/montfermeil/centre-hospitalier-montfermeil-vaccination-covid",
+      "location": {
+        "longitude": 2.5275843,
+        "latitude": 48.951741,
+        "city": "Aulnay-sous-Bois"
+      },
+      "metadata": {
+        "address": "1 Boulevard Robert Ballanger, 93420 Aulnay-sous-Bois",
+        "phone_number": "+33646777575",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242067[162589]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242067"
+    },
+    {
+      "departement": "93",
+      "nom": "Pharmacie de l'Avenir",
+      "url": "https://partners.doctolib.fr/pharmacie/stains/pharmacie-de-l-avenir",
+      "location": {
+        "longitude": 2.3820836,
+        "latitude": 48.9665092,
+        "city": "Stains"
+      },
+      "metadata": {
+        "address": "58 Rue Jean Jaur\u00e8s, 93240 Stains",
+        "phone_number": "+33148210128",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-19:30",
+          "mardi": "09:00-12:30, 14:00-19:30",
+          "mercredi": "09:00-12:30, 14:00-19:30",
+          "jeudi": "09:00-12:30, 14:00-19:30",
+          "vendredi": "09:00-12:30, 14:00-19:30",
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "240251[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240251"
+    },
+    {
+      "departement": "93",
+      "nom": "Centre de vaccination Covid-19 de la ville d'Aubervilliers",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/aubervilliers/centre-de-vaccination-covid-19-de-la-ville-d-aubervilliers",
+      "location": {
+        "longitude": 2.3832617,
+        "latitude": 48.9106405,
+        "city": "Aubervilliers"
+      },
+      "metadata": {
+        "address": "5 Rue Edouard Poisson, 93300 Aubervilliers",
+        "phone_number": "+33148112190",
+        "business_hours": {
+          "lundi": "08:30-12:00, 14:00-18:00",
+          "mardi": "08:30-12:00, 14:00-18:00",
+          "mercredi": "08:30-12:00, 14:00-18:00",
+          "jeudi": "08:30-12:00, 14:00-18:00",
+          "vendredi": "08:30-12:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251818[58879]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d251818"
+    }
+  ]
+}

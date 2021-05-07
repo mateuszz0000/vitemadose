@@ -1,0 +1,611 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.966659+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Mac\u00f4n",
+      "url": "https://partners.doctolib.fr/centre-de-sante/macon/centre-de-vaccination-de-macon",
+      "location": {
+        "longitude": 4.8405438,
+        "latitude": 46.3165338,
+        "city": "M\u00e2con"
+      },
+      "metadata": {
+        "address": "389 Avenue Mar\u00e9chal de Lattre de Tassigny, 71000 M\u00e2con",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242411[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242411"
+    },
+    {
+      "departement": "71",
+      "nom": "Pharmacie De La Pyramide",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-de-la-pyramide-macon",
+      "location": {
+        "longitude": 4.8302966,
+        "latitude": 46.30249389999999,
+        "city": "macon"
+      },
+      "metadata": {
+        "address": "362 rue carnot, 71000 M\u00e2con",
+        "phone_number": "+33385380199",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "8ea9a675"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination Covid-19 de La Clayette",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-clayette/centre-de-vaccination-covid-19-de-la-clayette",
+      "location": {
+        "longitude": 4.3176238,
+        "latitude": 46.2898879,
+        "city": "La Clayette"
+      },
+      "metadata": {
+        "address": "80 Rue Lamartine, 71800 La Clayette",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263520[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263520"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Cluny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cluny/centre-de-vaccination-covid-19-de-cluny",
+      "location": {
+        "longitude": 4.66756,
+        "latitude": 46.429364,
+        "city": "Cluny"
+      },
+      "metadata": {
+        "address": "Rue des Griottons, 71250 Cluny",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263513[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263513"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 d'Autun",
+      "url": "https://partners.doctolib.fr/centre-de-sante/autun/centre-de-vaccination-d-autun",
+      "location": {
+        "longitude": 4.3034645,
+        "latitude": 46.9510969,
+        "city": "Autun"
+      },
+      "metadata": {
+        "address": "1 Boulevard Fr\u00e9d\u00e9ric Latouche, 71400 Autun",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242417[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242417"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination Covid-19 de Gueugnon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chalon-sur-saone/centre-de-vaccination-prefecture-saone-et-loire",
+      "location": {
+        "longitude": 4.060212,
+        "latitude": 46.597582,
+        "city": "Gueugnon"
+      },
+      "metadata": {
+        "address": "Avenue du Stade, 71130 Gueugnon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265228[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265228"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Paray-le-Monial",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paray-le-monial/centre-de-vaccination-de-paray-le-monial",
+      "location": {
+        "longitude": 4.1130692,
+        "latitude": 46.4510393,
+        "city": "Paray-le-Monial"
+      },
+      "metadata": {
+        "address": "9 Rue Pierre Lathuili\u00e8re, 71600 Paray-le-Monial",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:00",
+          "mardi": "09:00-12:00, 13:30-17:00",
+          "mercredi": "09:00-12:00, 13:30-17:00",
+          "jeudi": "09:00-12:00, 13:30-17:00",
+          "vendredi": "09:00-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242421[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242421"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination Covid-19 - CH Macon",
+      "url": "https://partners.doctolib.fr/hopital-public/macon/centre-de-vaccination-covid-19-ch-macon",
+      "location": {
+        "longitude": 4.8148002,
+        "latitude": 46.3131312,
+        "city": "M\u00e2con"
+      },
+      "metadata": {
+        "address": "350 Boulevard Louis Escande, 71000 M\u00e2con",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243323[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243323"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination Covid-19 de Chagny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chagny/centre-de-vaccination-covid-19-de-chagny",
+      "location": {
+        "longitude": 4.7560652,
+        "latitude": 46.9064424,
+        "city": "Chagny"
+      },
+      "metadata": {
+        "address": "Place Marcel Charollais, 71150 Chagny",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263512[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263512"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de vaccination Covid-19 de Gergy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gergy/centre-de-vaccination-covid-19-de-gergy",
+      "location": {
+        "longitude": 4.9454524,
+        "latitude": 46.8769418,
+        "city": "Gergy"
+      },
+      "metadata": {
+        "address": "6 Rue Loranchet, 71590 Gergy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263516[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263516"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Louhans",
+      "url": "https://partners.doctolib.fr/centre-de-sante/louhans/centre-de-vaccination-de-louhans",
+      "location": {
+        "longitude": 5.180426,
+        "latitude": 46.6433375,
+        "city": "Branges"
+      },
+      "metadata": {
+        "address": "Route du Bourg, 71500 Branges",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242413[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242413"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 Epinac",
+      "url": "https://partners.doctolib.fr/centre-de-sante/epinac/centre-de-vaccination-covid-19-epinac",
+      "location": {
+        "longitude": 4.5130878,
+        "latitude": 46.9909686,
+        "city": "\u00c9pinac"
+      },
+      "metadata": {
+        "address": "16 Place Charles de Gaulle, 71360 \u00c9pinac",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263517[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263517"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Pierre-de-Bresse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chalon-sur-saone/centre-de-vaccination-covid-19-de-pierre-de-bresse",
+      "location": {
+        "longitude": 5.2644876,
+        "latitude": 46.8853626,
+        "city": "Pierre-de-Bresse"
+      },
+      "metadata": {
+        "address": "Rue des Potiers, 71270 Pierre-de-Bresse",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263519[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263519"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Bourbon-Lancy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourbon-lancy/centre-de-vaccination-covid-19-de-bourbon-lancy",
+      "location": {
+        "longitude": 3.762047,
+        "latitude": 46.626394,
+        "city": "Bourbon-Lancy"
+      },
+      "metadata": {
+        "address": "Rue Max Boirot, 71140 Bourbon-Lancy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263521[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263521"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Montceau-les-Mines",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montceau-les-mines/centre-de-vaccination-de-montceau-les-mines",
+      "location": {
+        "longitude": 4.3606919,
+        "latitude": 46.6741538,
+        "city": "Montceau-les-Mines"
+      },
+      "metadata": {
+        "address": "Quai Jules Chagot, 71300 Montceau-les-Mines",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242416[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242416"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Chalon-sur-Sa\u00f4ne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chalon-sur-saone/centre-de-vaccination-de-chalon-sur-saone",
+      "location": {
+        "longitude": 4.8598836,
+        "latitude": 46.786912,
+        "city": "Chalon-sur-Sa\u00f4ne"
+      },
+      "metadata": {
+        "address": "1 Place Mathias, 71100 Chalon-sur-Sa\u00f4ne",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242409[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242409"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Tournus",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tournus/centre-de-vaccination-de-tournus",
+      "location": {
+        "longitude": 4.8911464,
+        "latitude": 46.5684622,
+        "city": "Tournus"
+      },
+      "metadata": {
+        "address": "627 Avenue Henri et Suzanne Vitrier, 71700 Tournus",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242420[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242420"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 du Creusot",
+      "url": "https://partners.doctolib.fr/centre-de-sante/le-creusot/centre-de-vaccination-du-creusot",
+      "location": {
+        "longitude": 4.430374,
+        "latitude": 46.8061458,
+        "city": "Le Creusot"
+      },
+      "metadata": {
+        "address": "2 Avenue Fran\u00e7ois Mitterrand, 71200 Le Creusot",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242415[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242415"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Givry",
+      "url": "https://partners.doctolib.fr/centre-de-sante/givry/centre-de-vaccination-de-givry",
+      "location": {
+        "longitude": 4.7483801,
+        "latitude": 46.779535,
+        "city": "Givry"
+      },
+      "metadata": {
+        "address": "13 Rue de la Gare, 71640 Givry",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-17:00",
+          "mardi": "09:00-13:00, 14:00-17:00",
+          "mercredi": "09:00-13:00, 14:00-17:00",
+          "jeudi": "09:00-13:00, 14:00-17:00",
+          "vendredi": "09:00-13:00, 14:00-17:00",
+          "samedi": "09:00-13:00, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242422[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242422"
+    },
+    {
+      "departement": "71",
+      "nom": "Centre de Vaccination COVID-19 de Digoin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/digoin/centre-de-vaccination-de-digoin",
+      "location": {
+        "longitude": 3.9843246,
+        "latitude": 46.482114,
+        "city": "Digoin"
+      },
+      "metadata": {
+        "address": "Place de la R\u00e9publique, 71160 Digoin",
+        "phone_number": "+33385218399",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242418[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242418"
+    }
+  ]
+}

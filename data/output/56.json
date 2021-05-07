@@ -1,0 +1,440 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.954602+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "56",
+      "nom": "LORIENT - Cit\u00e9 de la Voile",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?specialty=144",
+      "location": {
+        "longitude": -3.374,
+        "latitude": 47.7306,
+        "city": "Lorient"
+      },
+      "metadata": {
+        "address": " Rue Roland Morillot, 56323 Lorient",
+        "phone_number": "+33297069794",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-17T09:25:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 285,
+      "internal_id": null,
+      "vaccine_type": [
+        "Pfizer-BioNTech",
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "1215"
+    },
+    {
+      "departement": "56",
+      "nom": "NOYAL-PONTIVY - CH Centre Bretagne site K\u00e9rio",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/noyal-pontivy-56920/centre-hospitalier-centre-bretagne/centre-de-vaccination-du-centre-hospitalier-centre-bretagne",
+      "location": {
+        "longitude": -2.9123,
+        "latitude": 48.0944,
+        "city": "Noyal-Pontivy"
+      },
+      "metadata": {
+        "address": "746 Kerio, 56920 Noyal-Pontivy",
+        "phone_number": "+33297790288",
+        "business_hours": {
+          "lundi": "13h-20h",
+          "mardi": "13h-20h",
+          "mercredi": "13h-20h",
+          "jeudi": "13h-20h",
+          "vendredi": "13h-20h",
+          "samedi": "13h-20h",
+          "dimanche": "8h30-12h30 / 13h-19h30"
+        }
+      },
+      "prochain_rdv": "2021-04-20T14:10:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 366,
+      "internal_id": null,
+      "vaccine_type": [
+        "Pfizer-BioNTech",
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "454"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "56",
+      "nom": "LE FAOUET - Maison de sant\u00e9",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=16913&specialty=144",
+      "location": {
+        "longitude": -3.4902,
+        "latitude": 48.0309,
+        "city": "Le Faou\u00ebt"
+      },
+      "metadata": {
+        "address": "104 Rue de Saint Fiacre, 56320 Le Faou\u00ebt",
+        "phone_number": "+33297069794",
+        "business_hours": {
+          "lundi": "8h30-12h30 / 13h30-17h30",
+          "mardi": "8h30-12h30 / 13h30-17h30",
+          "mercredi": "8h30-12h30 / 13h30-17h30",
+          "jeudi": "8h30-12h30 / 13h30-17h30",
+          "vendredi": "8h30-12h30 / 13h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "904"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBS - H\u00f4pital du Scorff",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?category=2528&cabinet=16581&specialty=144",
+      "location": {
+        "longitude": -3.35593,
+        "latitude": 47.753,
+        "city": "Lorient"
+      },
+      "metadata": {
+        "address": "5 Avenue \u00c9tienne-fran\u00e7ois de Choiseul, 56100 Lorient",
+        "phone_number": "+33297069794",
+        "business_hours": {
+          "lundi": "8h-20h",
+          "mardi": "8h-20h",
+          "mercredi": "8h-20h",
+          "jeudi": "8h-20h",
+          "vendredi": "8h-20h",
+          "samedi": "8h-20h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "733"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBS - B\u00e2timent Onc'Oriant",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=16571&specialty=144",
+      "location": {
+        "longitude": -3.35595,
+        "latitude": 47.753,
+        "city": "Lorient"
+      },
+      "metadata": {
+        "address": "1 Rampe de l'h\u00f4pital des arm\u00e9es, 56100 Lorient",
+        "phone_number": "+33297069794",
+        "business_hours": {
+          "lundi": "8h-20h",
+          "mardi": "8h-20h",
+          "mercredi": "8h-20h",
+          "jeudi": "8h-20h",
+          "vendredi": "8h-20h",
+          "samedi": "8h-20h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "736"
+    },
+    {
+      "departement": "56",
+      "nom": "GH Broc\u00e9liande Atlantique (GHBA) - Centre de vaccination COVID Quiberon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/quiberon/gh-broceliande-atlantique-ghba-centre-de-vaccination-covid-quiberon",
+      "location": {
+        "longitude": -3.1212589,
+        "latitude": 47.484727,
+        "city": "Quiberon"
+      },
+      "metadata": {
+        "address": "6 Rue Jules Ferry, 56170 Quiberon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259993[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259993"
+    },
+    {
+      "departement": "56",
+      "nom": "Centre de Vaccination Covid-19 - Vannes Kercado",
+      "url": "https://partners.doctolib.fr/hopital-public/vannes/centre-de-vaccination-covid-19-vannes-kercado",
+      "location": {
+        "longitude": -2.7713769,
+        "latitude": 47.6444702,
+        "city": "Vannes"
+      },
+      "metadata": {
+        "address": "28 Rue Winston Churchill, 56000 Vannes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262832[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262832"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBA - Centre de vaccination COVID Belle-Ile-en-mer",
+      "url": "https://partners.doctolib.fr/hopital-public/vannes/ghba-centre-de-vaccination-covid-belle-ile-en-mer",
+      "location": {
+        "longitude": -3.1616338,
+        "latitude": 47.345387,
+        "city": "Le Palais"
+      },
+      "metadata": {
+        "address": "La Vigne, 56360 Le Palais",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "253111[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d253111"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBA - Centre de vaccination COVID Auray",
+      "url": "https://partners.doctolib.fr/hopital-public/auray/chba-centre-de-vaccination-covid-d-auray",
+      "location": {
+        "longitude": -2.9803602,
+        "latitude": 47.6694828,
+        "city": "Auray"
+      },
+      "metadata": {
+        "address": "2 Rue du Pratel, 56400 Auray",
+        "business_hours": {
+          "lundi": "09:30-17:30",
+          "mardi": "09:30-17:30",
+          "mercredi": "09:30-17:30",
+          "jeudi": "09:30-17:30",
+          "vendredi": "09:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245494[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245494"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBA - Centre de vaccination COVID Grand-Champ",
+      "url": "https://partners.doctolib.fr/hopital-public/grand-champ/ghba-centre-de-vaccination-covid-grandchamp",
+      "location": {
+        "longitude": -2.8588969,
+        "latitude": 47.7584074,
+        "city": "Grand-Champ"
+      },
+      "metadata": {
+        "address": "Boulevard du Stade, 56390 Grand-Champ",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:30-17:30",
+          "mardi": "09:00-12:00, 14:30-17:30",
+          "mercredi": "09:00-12:00, 14:30-17:30",
+          "jeudi": "09:00-12:00, 14:30-17:30",
+          "vendredi": "09:00-12:00, 14:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "246058[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d246058"
+    },
+    {
+      "departement": "56",
+      "nom": "GH Broc\u00e9liande Atlantique (GHBA) - Centre de vaccination Covid-19 Sarzeau",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sarzeau/gh-broceliande-atlantique-ghba-centre-de-vaccination-covid-sarzeau-sarzeau",
+      "location": {
+        "longitude": -2.7700956,
+        "latitude": 47.5248141,
+        "city": "Sarzeau"
+      },
+      "metadata": {
+        "address": "2964 Rue P\u00e8re Marie Joseph Coudrin, 56370 Sarzeau",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258778[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258778"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBA - Centre de vaccination COVID Muzillac",
+      "url": "https://partners.doctolib.fr/hopital-public/muzillac/ch-bretagne-atlantique-chba-centre-de-vaccination-covid",
+      "location": {
+        "longitude": -2.5013616,
+        "latitude": 47.5623217,
+        "city": "Muzillac"
+      },
+      "metadata": {
+        "address": "ZI d'Hinzal, 56190 Muzillac",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245679[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245679"
+    },
+    {
+      "departement": "56",
+      "nom": "GHBA - Centre de vaccination COVID Plo\u00ebrmel",
+      "url": "https://partners.doctolib.fr/hopital-public/ploermel/ghba-centre-de-vaccination-covid-ploermel",
+      "location": {
+        "longitude": -2.3923283,
+        "latitude": 47.9348991,
+        "city": "Plo\u00ebrmel"
+      },
+      "metadata": {
+        "address": "7 Rue du Roi Arthur, 56800 Plo\u00ebrmel",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "246048[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d246048"
+    },
+    {
+      "departement": "56",
+      "nom": "CDV CAUDAN",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier-regional/lorient-56100/groupe-hospitalier-bretagne-sud-lorient-hopital-du-scorff?cabinet=18780&specialty=144",
+      "location": {
+        "longitude": -3.35325,
+        "latitude": 47.8115,
+        "city": "Caudan"
+      },
+      "metadata": {
+        "address": "10 Rue du 19 Dragon, 56850 Caudan",
+        "phone_number": "+33297069794",
+        "business_hours": {
+          "lundi": "08:45-18:45",
+          "mardi": "08:45-18:45",
+          "mercredi": "08:45-18:45",
+          "jeudi": "08:45-18:45",
+          "vendredi": "08:45-18:45",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2350"
+    }
+  ]
+}

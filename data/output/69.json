@@ -1,0 +1,1019 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.965256+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination COVID-19 - Pays Mornantais",
+      "url": "https://partners.doctolib.fr/maison-de-sante/beauvallon/centre-de-vaccination-covid-19-pays-mornantais",
+      "location": {
+        "longitude": 4.71890761624066,
+        "latitude": 45.6122099242385,
+        "city": "Beauvallon"
+      },
+      "metadata": {
+        "address": "Route des Varennes - Chassagny, 69700 Beauvallon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-21T08:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "264290[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d264290"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de la Ville de Rillieux-La-Pape - Salle de l'ancienne mairie de Rillieux",
+      "url": "https://www.maiia.com/centre-de-vaccination/69140-rillieux-la-pape/centre-de-vaccination---rillieux-la-pape",
+      "location": {
+        "longitude": 4.89701,
+        "latitude": 45.8209,
+        "city": "Rillieux-la-Pape"
+      },
+      "metadata": {
+        "address": " Place de Verdun, 69140 Rillieux-la-Pape",
+        "phone_number": "+3333423101010",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "10:00-16:30",
+          "mercredi": "10:00-16:30",
+          "jeudi": "10:00-16:30",
+          "vendredi": "10:00-15:30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-06-07T10:00:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1218"
+    },
+    {
+      "departement": "69",
+      "nom": "Grande Pharmacie de Lyon Saint Nizier",
+      "url": "https://partners.doctolib.fr/pharmacie/lyon/grande-pharmacie-de-lyon-saint-nizier",
+      "location": {
+        "longitude": 4.8329916,
+        "latitude": 45.7644703,
+        "city": "Lyon"
+      },
+      "metadata": {
+        "address": "5 Place Saint-Nizier, 69002 Lyon",
+        "phone_number": "+33478392408",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "262244[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262244"
+    },
+    {
+      "departement": "69",
+      "nom": "Pharmacie des Charmes",
+      "url": "https://partners.doctolib.fr/pharmacie/genay/pharmacie-des-charmes",
+      "location": {
+        "longitude": 4.8400705,
+        "latitude": 45.8994068,
+        "city": "Genay"
+      },
+      "metadata": {
+        "address": "92 Rue de la Gare, 69730 Genay",
+        "business_hours": {
+          "lundi": "08:30-12:15, 14:30-19:15",
+          "mardi": "08:30-12:15, 14:30-19:15",
+          "mercredi": "08:30-12:15, 14:30-19:15",
+          "jeudi": "08:30-12:15, 14:30-19:15",
+          "vendredi": "08:30-12:15, 14:30-19:15",
+          "samedi": "08:30-12:15, 14:30-18:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "229443[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d229443"
+    },
+    {
+      "departement": "69",
+      "nom": "Dr Frederic LAROCHE",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/corbas/frederic-laroche",
+      "location": {
+        "longitude": 4.898375,
+        "latitude": 45.671888,
+        "city": "Corbas"
+      },
+      "metadata": {
+        "address": "72 Rue Centrale, 69960 Corbas",
+        "phone_number": "+33472506460",
+        "business_hours": {
+          "lundi": "08:00-11:00, 15:00-18:00",
+          "mardi": "08:00-11:00, 15:00-18:00",
+          "mercredi": "08:00-11:00, 15:00-18:00",
+          "jeudi": "08:00-11:00, 16:30-18:00",
+          "vendredi": "08:00-11:00, 15:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "234486[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d234486"
+    },
+    {
+      "departement": "69",
+      "nom": "Grande Pharmacie de Villeurbanne",
+      "url": "https://partners.doctolib.fr/pharmacie/villeurbanne/grande-pharmacie-de-villeurbanne",
+      "location": {
+        "longitude": 4.8842995,
+        "latitude": 45.7645803,
+        "city": "Villeurbanne"
+      },
+      "metadata": {
+        "address": "100 Rue du 4 Ao\u00fbt 1789, 69100 Villeurbanne",
+        "phone_number": "+33478682243",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-19:00",
+          "vendredi": "08:30-19:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264088[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264088"
+    },
+    {
+      "departement": "69",
+      "nom": "Pharmacie Gambetta",
+      "url": "https://partners.doctolib.fr/pharmacie/lyon/pharmacie-gambetta",
+      "location": {
+        "longitude": 4.8528595,
+        "latitude": 45.7516622,
+        "city": "Lyon"
+      },
+      "metadata": {
+        "address": "100 Cours Gambetta 69007, 69003 Lyon",
+        "phone_number": "+33478724624",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:30-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "258433[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258433"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid-19 \u2013 L\u2019Escale \u2013 Arnas",
+      "url": "https://partners.doctolib.fr/centre-de-sante/arnas/centre-de-vaccination-covid-19-l-escale-arnas",
+      "location": {
+        "longitude": 4.6967365,
+        "latitude": 46.0283464,
+        "city": "Arnas"
+      },
+      "metadata": {
+        "address": "2726 Route de Longsard, 69400 Arnas",
+        "business_hours": {
+          "lundi": "08:30-19:30",
+          "mardi": "08:30-19:30",
+          "mercredi": "08:30-19:30",
+          "jeudi": "08:30-19:30",
+          "vendredi": "08:30-19:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263389[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263389"
+    },
+    {
+      "departement": "69",
+      "nom": "Pharmacie ROSET-PETIT",
+      "url": "https://partners.doctolib.fr/pharmacie/ecully/pharmacie-roset-petit-michele-roset-petit-groupement-independant",
+      "location": {
+        "longitude": 4.772179,
+        "latitude": 45.793472,
+        "city": "\u00c9cully"
+      },
+      "metadata": {
+        "address": "Chemin Jean-Marie Vianney, 69130 \u00c9cully",
+        "business_hours": {
+          "lundi": "08:00-19:00",
+          "mardi": "08:00-19:00",
+          "mercredi": "08:00-19:00",
+          "jeudi": "08:00-19:00",
+          "vendredi": "08:00-19:00",
+          "samedi": "08:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "266382[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266382"
+    },
+    {
+      "departement": "69",
+      "nom": "Hospices Civils de Lyon (HCL) - Vaccination COVID-19 - Bron",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/vaccinationhcl?pid=practice-163796",
+      "location": {
+        "longitude": 4.898001,
+        "latitude": 45.749413,
+        "city": "Bron"
+      },
+      "metadata": {
+        "address": "59 Boulevard Pinel, 69500 Bron",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241717[163796]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241717"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de Vaccination Covid-19 D\u00e9cines-Charpieu",
+      "url": "https://partners.doctolib.fr/centre-de-sante/decines-charpieu/centre-de-vaccination-covid-19-decines-chartieu",
+      "location": {
+        "longitude": 4.9553565,
+        "latitude": 45.7688911,
+        "city": "D\u00e9cines-Charpieu"
+      },
+      "metadata": {
+        "address": "14 Avenue Jean Mac\u00e9, 69150 D\u00e9cines-Charpieu",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264660[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264660"
+    },
+    {
+      "departement": "69",
+      "nom": "Hospices Civils de Lyon (HCL) - Vaccination COVID-19 - Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/vaccinationhcl?pid=practice-163661",
+      "location": {
+        "longitude": 4.8284916,
+        "latitude": 45.7240888,
+        "city": "Lyon"
+      },
+      "metadata": {
+        "address": "350 Avenue Jean Jaur\u00e8s, 69007 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:30-19:30",
+          "mardi": "08:30-19:30",
+          "mercredi": "08:30-19:30",
+          "jeudi": "08:30-19:30",
+          "vendredi": "08:30-19:30",
+          "samedi": "08:30-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241717[163661]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241717"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Saint Symphorien d'Ozon - CPTS de l'Ozon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-symphorien-d-ozon/centre-de-vaccination-covid-19-saint-symthorien-d-ozon-cpts-de-l-ozon",
+      "location": {
+        "longitude": 4.8535863,
+        "latitude": 45.6345041,
+        "city": "Saint-Symphorien-d'Ozon"
+      },
+      "metadata": {
+        "address": "5 Rue du Parc, 69360 Saint-Symphorien-d'Ozon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264666[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264666"
+    },
+    {
+      "departement": "69",
+      "nom": "Vaccination Covid - Centre de sant\u00e9 et pr\u00e9vention Venissieux - CDHS",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/venissieux/cdhs-centre-de-sante-et-prevention-venissieux-vaccination-covid",
+      "location": {
+        "longitude": 4.8790341,
+        "latitude": 45.7135612,
+        "city": "V\u00e9nissieux"
+      },
+      "metadata": {
+        "address": "68 Boulevard Ir\u00e8ne Joliot Curie, 69200 V\u00e9nissieux",
+        "business_hours": {
+          "lundi": "08:00-17:00",
+          "mardi": "08:00-17:00",
+          "mercredi": "08:00-17:00",
+          "jeudi": "08:00-17:00",
+          "vendredi": "08:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242571[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242571"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid-19 - St Priest Mions",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions",
+      "location": {
+        "longitude": 4.928993,
+        "latitude": 45.6944789,
+        "city": "Saint-Priest"
+      },
+      "metadata": {
+        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "09:00-13:00, 13:00-17:00",
+          "mardi": "09:00-13:00, 13:00-17:00",
+          "mercredi": "09:00-13:00, 13:00-17:00",
+          "jeudi": "09:00-13:00, 13:00-17:00",
+          "vendredi": "09:00-13:00, 13:00-17:00",
+          "samedi": "09:00-13:00, 13:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243468[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243468"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid-19 - St-Priest Mions",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-priest/centre-de-vaccination-covid-19-st-priest-mions-saint-priest",
+      "location": {
+        "longitude": 4.928993,
+        "latitude": 45.6944789,
+        "city": "Saint-Priest"
+      },
+      "metadata": {
+        "address": "47 Rue Aristide Briand, 69800 Saint-Priest",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "09:00-13:00, 13:00-17:00",
+          "mardi": "09:00-13:00, 13:00-17:00",
+          "mercredi": "09:00-13:00, 13:00-17:00",
+          "jeudi": "09:00-13:00, 13:00-17:00",
+          "vendredi": "09:00-13:00, 13:00-17:00",
+          "samedi": "09:00-13:00, 13:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243790[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243790"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid-19 - L'Arbresle - Salle Claude Terrasse",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/l-arbresle/centre-de-vaccination-covid-19-l-arbresle",
+      "location": {
+        "longitude": 4.6063618,
+        "latitude": 45.8377395,
+        "city": "L'Arbresle"
+      },
+      "metadata": {
+        "address": "201 Rue de Paris, 69210 L'Arbresle",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243285[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243285"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre Hospitalier de Neuville - Centre de vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/neuville-sur-saone/centre-hospitalier-de-neuville-centre-de-vaccination",
+      "location": {
+        "longitude": 4.8377281,
+        "latitude": 45.878221,
+        "city": "Neuville-sur-Sa\u00f4ne"
+      },
+      "metadata": {
+        "address": "Avenue Jean Christophe, 69250 Neuville-sur-Sa\u00f4ne",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242052[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242052"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid - Tarare - H\u00f4pital Nord-Ouest",
+      "url": "https://partners.doctolib.fr/hopital-public/tarare/centre-de-vaccination-covid-tarare-hopital-nord-ouest",
+      "location": {
+        "longitude": 4.4386156,
+        "latitude": 45.8892088,
+        "city": "Tarare"
+      },
+      "metadata": {
+        "address": "6 Boulevard Garibaldi, 69170 Tarare",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242616[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242616"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination Covid - H\u00f4pital de Beaujeu",
+      "url": "https://partners.doctolib.fr/hopital-public/belleville-en-beaujolais/centre-de-vaccination-covid-belleville",
+      "location": {
+        "longitude": 4.5873192,
+        "latitude": 46.1538741,
+        "city": "Beaujeu"
+      },
+      "metadata": {
+        "address": "263 Avenue Dr Giraud, 69430 Beaujeu",
+        "phone_number": "+33474695673",
+        "business_hours": {
+          "lundi": "09:30-13:00, 14:00-17:30",
+          "mardi": "09:00-13:00, 14:00-17:30",
+          "mercredi": "09:00-13:00, 14:00-17:30",
+          "jeudi": "09:00-13:00, 14:00-17:30",
+          "vendredi": "09:00-13:00, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242684[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242684"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination de l'Ouest Lyonnais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lyon/centre-de-vaccination-de-l-ouest-lyonnais",
+      "location": {
+        "longitude": 4.7794595,
+        "latitude": 45.7753342,
+        "city": "\u00c9cully"
+      },
+      "metadata": {
+        "address": "All\u00e9e des Tullistes, 69130 \u00c9cully",
+        "business_hours": {
+          "lundi": "09:00-16:30",
+          "mardi": "09:00-16:30",
+          "mercredi": "09:00-16:30",
+          "jeudi": "09:00-16:30",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258785[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258785"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre municipal de vaccination - Mairie Villeurbanne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccination-covid-19-villeurbanne",
+      "location": {
+        "longitude": 4.8875896,
+        "latitude": 45.7677966,
+        "city": "Villeurbanne"
+      },
+      "metadata": {
+        "address": "234 Cours Emile Zola, 69100 Villeurbanne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "253503[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d253503"
+    },
+    {
+      "departement": "69",
+      "nom": "Dr Guillaume LABEILLE",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/lyon/guillaume-labeille",
+      "location": {
+        "longitude": 4.8388891,
+        "latitude": 45.7298197,
+        "city": "Lyon"
+      },
+      "metadata": {
+        "address": "64 Rue Challemel-Lacour, 69007 Lyon",
+        "phone_number": "+33481914470",
+        "business_hours": {
+          "lundi": "08:30-12:00, 14:00-17:30",
+          "mardi": "08:30-12:00, 14:00-17:30",
+          "mercredi": "08:30-12:00, 14:00-17:30",
+          "jeudi": "08:30-12:00, 14:00-17:30",
+          "vendredi": "08:30-12:00, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "105277[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d105277"
+    },
+    {
+      "departement": "69",
+      "nom": "Vaccination Covid-19 - Ville de Condrieu (li\u00e9 au CH)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/condrieu/vaccination-covid-19-ville-de-condrieu-lie-au-ch",
+      "location": {
+        "longitude": 4.7642953,
+        "latitude": 45.4606974,
+        "city": "Condrieu"
+      },
+      "metadata": {
+        "address": "Place du March\u00e9 aux Fruits, 69420 Condrieu",
+        "business_hours": {
+          "lundi": "08:30-17:00",
+          "mardi": "08:30-17:00",
+          "mercredi": "08:30-17:00",
+          "jeudi": "08:30-17:00",
+          "vendredi": "08:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "252818[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d252818"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination COVID-19 Groupama stadium",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/decines-charpieu/centre-de-vaccination-covid-19-groupama-stadium",
+      "location": {
+        "longitude": 4.9822218,
+        "latitude": 45.7652739,
+        "city": "D\u00e9cines-Charpieu"
+      },
+      "metadata": {
+        "address": "10 Avenue Simone Veil, 69150 D\u00e9cines-Charpieu",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "263039[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263039"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination COVID - H\u00f4pital de Belleville",
+      "url": "https://partners.doctolib.fr/hopital-public/belleville-en-beaujolais/centre-de-vaccination-covid-hopital-de-belleville",
+      "location": {
+        "longitude": 4.7489405,
+        "latitude": 46.1106953,
+        "city": "Belleville-en-Beaujolais"
+      },
+      "metadata": {
+        "address": "Rue Martini\u00e8re, 69220 Belleville-en-Beaujolais",
+        "phone_number": "+33474065286",
+        "business_hours": {
+          "lundi": "08:30-17:30",
+          "mardi": "08:30-17:30",
+          "mercredi": "08:30-17:30",
+          "jeudi": "08:30-17:30",
+          "vendredi": "08:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243835[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243835"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination - CPTS - Genas",
+      "url": "https://partners.doctolib.fr/centre-de-sante/genas/centre-de-vaccination-cpst-salle-polyvalente-genas",
+      "location": {
+        "longitude": 5.0128609,
+        "latitude": 45.7280396,
+        "city": "Genas"
+      },
+      "metadata": {
+        "address": "2 Rue de la Fraternit\u00e9, 69740 Genas",
+        "business_hours": {
+          "lundi": "10:00-13:00, 15:00-20:00",
+          "mardi": "08:00-14:00, 15:00-20:00",
+          "mercredi": "08:00-14:00, 15:00-20:00",
+          "jeudi": "08:00-14:00, 15:00-20:00",
+          "vendredi": "08:00-14:00, 15:00-20:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244581[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244581"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccinations internationales Villeurbanne MIIT",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villeurbanne/centre-de-vaccinations-internationales-villeurbanne-miit",
+      "location": {
+        "longitude": 4.9060892,
+        "latitude": 45.760812,
+        "city": "Villeurbanne"
+      },
+      "metadata": {
+        "address": "173 Rue L\u00e9on Blum, 69100 Villeurbanne",
+        "business_hours": {
+          "lundi": "14:00-18:30",
+          "mardi": "09:00-13:00, 14:00-18:30",
+          "mercredi": "09:00-13:00, 14:30-18:30",
+          "jeudi": "09:00-13:00, 14:00-18:30",
+          "vendredi": "09:00-13:00, 14:00-18:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243297[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243297"
+    },
+    {
+      "departement": "69",
+      "nom": "Hospices Civils de Lyon (HCL) - Vaccination COVID-19 - Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/vaccinationhcl",
+      "location": {
+        "longitude": 4.8325714,
+        "latitude": 45.7816984,
+        "city": "Lyon"
+      },
+      "metadata": {
+        "address": "103 Grande Rue de la Croix-Rousse, 69004 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:30-19:30",
+          "mardi": "08:30-19:30",
+          "mercredi": "08:30-19:30",
+          "jeudi": "08:30-19:30",
+          "vendredi": "08:30-19:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241717[163793]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241717"
+    },
+    {
+      "departement": "69",
+      "nom": "Centre de vaccination COVID - Vallons du Lyonnais",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vaugneray/centre-de-vaccination-covid-vallon-du-lyonnais",
+      "location": {
+        "longitude": 4.6806885,
+        "latitude": 45.7386661,
+        "city": "Vaugneray"
+      },
+      "metadata": {
+        "address": "18B Chemin du Stade, 69670 Vaugneray",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": "08:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264667[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264667"
+    },
+    {
+      "departement": "69",
+      "nom": "Hospices Civils de Lyon (HCL) - Vaccination COVID-19 - Pierre-B\u00e9nite",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/vaccinationhcl?pid=practice-163795",
+      "location": {
+        "longitude": 4.8074376,
+        "latitude": 45.7017153,
+        "city": "Pierre-B\u00e9nite"
+      },
+      "metadata": {
+        "address": "165 Chemin du Grand Revoyet, 69310 Pierre-B\u00e9nite",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:45-16:15",
+          "mardi": "08:45-16:15",
+          "mercredi": "08:45-16:15",
+          "jeudi": "08:45-16:15",
+          "vendredi": "08:45-16:15",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241717[163795]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241717"
+    },
+    {
+      "departement": "69",
+      "nom": "Hospices Civils de Lyon (HCL) - Vaccination COVID-19 - Lyon",
+      "url": "https://partners.doctolib.fr/hopital-public/lyon/vaccinationhcl?pid=practice-163794",
+      "location": {
+        "longitude": 4.8846064,
+        "latitude": 45.7434734,
+        "city": "Lyon"
+      },
+      "metadata": {
+        "address": "5 Place d'Arsonval, 69003 Lyon",
+        "phone_number": "+33423101010",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241717[163794]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241717"
+    },
+    {
+      "departement": "69",
+      "nom": "Cpts De L'Est Lyonnais COPSEL",
+      "url": "https://partners.doctolib.fr/vaccination-covid-19-pour-les-professionnels-medico-sociaux/genas/cpts-de-l-est-lyonnais-copsel",
+      "location": {
+        "longitude": 5.0128609,
+        "latitude": 45.7280396,
+        "city": "Genas"
+      },
+      "metadata": {
+        "address": "2 Rue de la Fraternit\u00e9, 69740 Genas",
+        "business_hours": {
+          "lundi": "10:00-13:00, 15:00-20:00",
+          "mardi": "08:00-14:00, 15:00-20:00",
+          "mercredi": "08:00-14:00, 15:00-20:00",
+          "jeudi": "08:00-14:00, 15:00-20:00",
+          "vendredi": "08:00-14:00, 15:00-20:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254192[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d254192"
+    }
+  ]
+}

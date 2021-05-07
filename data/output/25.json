@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.937239+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "25",
+      "nom": "Centre de vaccination Covid-19 de Pontarlier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pontarlier/cvcpts-pontarlier-reserve-aux-professionnels-de-sante?pid=practice-181203",
+      "location": {
+        "longitude": 6.3387161,
+        "latitude": 46.9046875,
+        "city": "Pontarlier"
+      },
+      "metadata": {
+        "address": "Place Ren\u00e9 Pourny, 25300 Pontarlier",
+        "business_hours": {
+          "lundi": "08:00-12:00, 13:00-17:00",
+          "mardi": "08:00-12:00, 13:00-17:00",
+          "mercredi": "08:00-12:00, 13:00-17:00",
+          "jeudi": "08:00-12:00, 13:00-17:00",
+          "vendredi": "08:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-03T15:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 664,
+      "internal_id": "241034[181203]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241034"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "25",
+      "nom": "Dr Florence MARECHAL",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/besancon/florence-marechel",
+      "location": {
+        "longitude": 6.02960080000003,
+        "latitude": 47.2454297,
+        "city": "Besan\u00e7on"
+      },
+      "metadata": {
+        "address": "15 Rue de Vittel, 25000 Besan\u00e7on",
+        "phone_number": "+33381846780",
+        "business_hours": {
+          "lundi": "08:00-19:00",
+          "mardi": "08:00-19:00",
+          "mercredi": "08:00-19:00",
+          "jeudi": "08:00-19:00",
+          "vendredi": "08:00-19:00",
+          "samedi": "08:00-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "118569[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d118569"
+    },
+    {
+      "departement": "25",
+      "nom": "Centre de Vaccination Covid-19 Morteau",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morteau/cvc-morteau",
+      "location": {
+        "longitude": 6.6058428,
+        "latitude": 47.0534273,
+        "city": "Morteau"
+      },
+      "metadata": {
+        "address": "1 Rue du Stade, 25500 Morteau",
+        "phone_number": "+33370885016",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:00",
+          "mardi": "09:00-12:00, 13:30-17:00",
+          "mercredi": "09:00-12:00, 13:30-17:00",
+          "jeudi": "09:00-12:00, 13:30-17:00",
+          "vendredi": "09:00-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241568[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241568"
+    },
+    {
+      "departement": "25",
+      "nom": "Centre de vaccination COVID 19 - Centre de vaccination de Montb\u00e9liard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montbeliard/centre-de-vaccination-covid-centre-de-vaccination-de-montbeliard",
+      "location": {
+        "longitude": 6.7890724,
+        "latitude": 47.5182784,
+        "city": "Montb\u00e9liard"
+      },
+      "metadata": {
+        "address": "1 Rue Boileau, 25200 Montb\u00e9liard",
+        "phone_number": "+33381992021",
+        "business_hours": {
+          "lundi": "09:00-17:30",
+          "mardi": "09:00-17:30",
+          "mercredi": "09:00-17:30",
+          "jeudi": "09:00-17:30",
+          "vendredi": "09:00-17:30",
+          "samedi": "09:00-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243369[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243369"
+    },
+    {
+      "departement": "25",
+      "nom": "Centre de Vaccination Covid-19 - Ville de Voujeaucourt",
+      "url": "https://partners.doctolib.fr/centre-de-sante/voujeaucourt/centre-de-vaccination-ville-de-voujeaucourt",
+      "location": {
+        "longitude": 6.780225,
+        "latitude": 47.482326,
+        "city": "Voujeaucourt"
+      },
+      "metadata": {
+        "address": "Rue au Fol, 25420 Voujeaucourt",
+        "phone_number": "+33363421013",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243202[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243202"
+    },
+    {
+      "departement": "25",
+      "nom": "Centre de vaccination Covid-19 - Commune de Pont-de-Roide",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/pont-de-roide/centre-de-vaccination-covid-19-commune-de-pont-de-roide",
+      "location": {
+        "longitude": 6.767216,
+        "latitude": 47.3899419,
+        "city": "Pont-de-Roide"
+      },
+      "metadata": {
+        "address": "Rue des Marronniers, 25150 Pont-de-Roide",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": "09:00-12:00, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "246508[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d246508"
+    },
+    {
+      "departement": "25",
+      "nom": "Centre de vaccination Covid-19 - Polyclinique de Franche-Comt\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/besancon/centre-de-vaccination-covid-19-polyclinique-franche-comte",
+      "location": {
+        "longitude": 5.9799188,
+        "latitude": 47.215542,
+        "city": "Besan\u00e7on"
+      },
+      "metadata": {
+        "address": "4 Rue Auguste Rodin, 25000 Besan\u00e7on",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243319[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243319"
+    }
+  ]
+}

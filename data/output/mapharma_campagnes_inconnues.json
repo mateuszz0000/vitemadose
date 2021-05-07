@@ -118,5 +118,25 @@
     "prochain_libre": "2021-04-18 10:19",
     "total_libres": 0,
     "url": "https://mapharma.net/02100-2?c=217&l=1"
+  },
+  {
+    "id_campagne": 225,
+    "id_type": 1,
+    "nom": "2\u00e8ME INJ ASTRA 1er et 2\u00e8me groupe",
+    "debut": "2021-06-10",
+    "fin": "2021-06-10",
+    "prochain_libre": "2021-06-10 10:00",
+    "total_libres": 19,
+    "url": "https://mapharma.net/54200?c=225&l=1"
+  },
+  {
+    "id_campagne": 228,
+    "id_type": 1,
+    "nom": "TEST ANTIGENIQUE (TEST ANTIGENIQUE )",
+    "debut": "2021-04-16",
+    "fin": "2021-04-23",
+    "prochain_libre": "2021-04-16 14:30",
+    "total_libres": 8,
+    "url": "https://mapharma.net/57730?c=228&l=1"
   }
 ]

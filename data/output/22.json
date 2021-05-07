@@ -1,0 +1,298 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.935883+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "22",
+      "nom": "LOUDEAC - Foyer municipal",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/loudeac-22600/centre-de-vaccination-loudeac-foyer-municipal",
+      "location": {
+        "longitude": -2.75584,
+        "latitude": 48.1784,
+        "city": "Loud\u00e9ac"
+      },
+      "metadata": {
+        "address": "34 Rue de Moncontour, 22600 Loud\u00e9ac",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "9h30-12h30 / 13h30-17h30",
+          "mardi": "9h30-12h30 / 13h30-17h30",
+          "mercredi": "9h30-12h30 / 13h30-17h30",
+          "jeudi": "9h30-12h30 / 13h30-17h30",
+          "vendredi": "9h30-12h30 / 13h30-17h30",
+          "samedi": "9h30-13h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-23T13:45:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 64,
+      "internal_id": null,
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "889"
+    },
+    {
+      "departement": "22",
+      "nom": "LANNION - Salle des ursulines",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/lannion-22300/centre-de-vaccination-de-lannion/centre-de-vaccination-de-lannion-salle-des-ursulines",
+      "location": {
+        "longitude": -3.45495,
+        "latitude": 48.7312,
+        "city": "Lannion"
+      },
+      "metadata": {
+        "address": " Place des Patriotes, 22300 Lannion",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "9h00-13h00 / 13h30-17h30 ",
+          "mardi": "9h00-13h00 / 13h30-17h30 ",
+          "mercredi": "9h00-13h00 / 13h30-17h30 ",
+          "jeudi": "9h00-13h00 / 13h30-17h30 ",
+          "vendredi": "9h00-13h00 / 13h30-17h30 ",
+          "samedi": "9h00-13h00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T13:55:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 598,
+      "internal_id": null,
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "893"
+    },
+    {
+      "departement": "22",
+      "nom": "Gymnase Kerraoul 2",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/paimpol-22500/centre-de-vaccination-de-paimpol-gymnase-k2",
+      "location": {
+        "longitude": -3.06482,
+        "latitude": 48.7833,
+        "city": "Paimpol"
+      },
+      "metadata": {
+        "address": "18 Voie Communale Hent Kervig, 22500 Paimpol",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "09:00-13:00/13:00-17:30",
+          "mardi": "09:00-13:00/13:00-17:30",
+          "mercredi": "09:00-13:00/13:00-17:30",
+          "jeudi": "09:00-13:00/13:00-17:30",
+          "vendredi": "09:00-13:00/13:00-17:30",
+          "samedi": "09:00-13:00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-07T09:10:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 31,
+      "internal_id": null,
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "2348"
+    },
+    {
+      "departement": "22",
+      "nom": "LAMBALLE - Salle municipale",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/lamballe-22400/lamballe/centre-de-vaccination-lamballe-salle-municipale-lamballe",
+      "location": {
+        "longitude": -2.51413,
+        "latitude": 48.4654,
+        "city": "Lamballe-Armor"
+      },
+      "metadata": {
+        "address": "6 Rue mouexigne, 22400 Lamballe-Armor",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "9h-13h puis 13h30-17h30",
+          "mardi": "9h-13h puis 13h30-17h30",
+          "mercredi": "9h-13h puis 13h30-17h30",
+          "jeudi": "9h-13h puis 13h30-17h30",
+          "vendredi": "9h-13h puis 13h30-17h30",
+          "samedi": "9h-13h",
+          "dimanche": "non pr\u00e9cis\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-07T09:15:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 12,
+      "internal_id": null,
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "886"
+    },
+    {
+      "departement": "22",
+      "nom": "GUINGAMP - Centre social",
+      "url": "https://vaccination-covid.keldoc.com/centre-municipal-de-sante/guingamp-22200/guingamp/centre-de-vaccination-guingamp-centre-social-guingamp",
+      "location": {
+        "longitude": -3.15965,
+        "latitude": 48.5639,
+        "city": "Guingamp"
+      },
+      "metadata": {
+        "address": " Rue Hyacinthe Cheval, 22200 Guingamp",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "9h00-13h00 / 13h30-17h30",
+          "mardi": "9h00-13h00 / 13h30-17h30",
+          "mercredi": "9h00-13h00 / 13h30-17h30",
+          "jeudi": "9h00-13h00 / 13h30-17h30",
+          "vendredi": "9h00-13h00 / 13h30-17h30",
+          "samedi": "9h00-13h00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-07T12:20:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 8,
+      "internal_id": null,
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "890"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "22",
+      "nom": "ROSTRENEN - Salle des f\u00eates",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/rostrenen-22110/salle-des-fetes-rostrenen/centre-de-vaccination-de-la-salle-des-fetes-rostrenen",
+      "location": {
+        "longitude": -3.31588,
+        "latitude": 48.2352,
+        "city": "Rostrenen"
+      },
+      "metadata": {
+        "address": " Place du Bourk Kozh, 22110 Rostrenen",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "13h30-17h30",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "13h30-17h30",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1302"
+    },
+    {
+      "departement": "22",
+      "nom": "GH Rance Emeraude - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-malo-et-dinan/gh-rance-emeraude-vaccination-covid?pid=practice-164881",
+      "location": {
+        "longitude": -2.040145,
+        "latitude": 48.4531207,
+        "city": "Dinan"
+      },
+      "metadata": {
+        "address": "Rue Victor Basch, 22100 Dinan",
+        "business_hours": {
+          "lundi": "09:00-12:30, 13:30-17:00",
+          "mardi": "09:00-12:30, 13:30-17:00",
+          "mercredi": "09:00-12:30, 13:30-17:00",
+          "jeudi": "09:00-12:30, 13:30-17:00",
+          "vendredi": "09:00-12:30, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241037[164881]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241037"
+    },
+    {
+      "departement": "22",
+      "nom": "LANVOLLON - Salle Armor Argoat",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/lanvollon-22290/ville-de-lanvollon/centre-de-vaccination-de-la-ville-de-lanvollon",
+      "location": {
+        "longitude": -2.99161,
+        "latitude": 48.6371,
+        "city": "Lanvollon"
+      },
+      "metadata": {
+        "address": " Rue du Tregor, 22290 Lanvollon",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "9h-13h / 13h30-17h30",
+          "vendredi": "9h-13h / 13h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-05-14T09:35:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "1303"
+    },
+    {
+      "departement": "22",
+      "nom": "PLEUMEUR BODOU - PHOENIX",
+      "url": "https://vaccination-covid.keldoc.com/maison-de-sante/pleumeur-bodou-22560/centre-de-vaccination-ephemere-sdis-pleumeur-bodou/centre-de-vaccination-ephemere-sdis-lannion?category=-1&cabinet=17301&specialty=496",
+      "location": {
+        "longitude": -3.52707,
+        "latitude": 48.7814,
+        "city": "Pleumeur-Bodou"
+      },
+      "metadata": {
+        "address": " Route du Rad\u00f4me, 22560 Pleumeur-Bodou",
+        "phone_number": "+33257180060",
+        "business_hours": {
+          "lundi": "9h-17h30",
+          "mardi": "9h-17h30",
+          "mercredi": "9h-17h30",
+          "jeudi": "9h-17h30",
+          "vendredi": "9h-17h30",
+          "samedi": "9h-17h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2106"
+    }
+  ]
+}

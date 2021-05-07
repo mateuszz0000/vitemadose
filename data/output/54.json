@@ -1,0 +1,623 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.953269+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Bagneux",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167645",
+      "location": {
+        "longitude": 5.8825934,
+        "latitude": 48.5573743,
+        "city": "Bagneux"
+      },
+      "metadata": {
+        "address": "7 Rue de la Mairie, 54170 Bagneux",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T15:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 107,
+      "internal_id": "241211[167645]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Toul",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-181673",
+      "location": {
+        "longitude": 5.8998827,
+        "latitude": 48.6839245,
+        "city": "Toul"
+      },
+      "metadata": {
+        "address": "Rue de la Champagne, 54200 Toul",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-26T10:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 522,
+      "internal_id": "241211[181673]",
+      "vaccine_type": [
+        "Pfizer-BioNTech",
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Neuves-Maisons",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167641",
+      "location": {
+        "longitude": 6.1061341,
+        "latitude": 48.6148466,
+        "city": "Neuves-Maisons"
+      },
+      "metadata": {
+        "address": "Place Ernest Poirson, 54230 Neuves-Maisons",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-27T09:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 365,
+      "internal_id": "241211[167641]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Mont-Saint-Martin",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165708",
+      "location": {
+        "longitude": 5.7802046,
+        "latitude": 49.537253,
+        "city": "Mont-Saint-Martin"
+      },
+      "metadata": {
+        "address": "4 Rue Alfred Labb\u00e9, 54350 Mont-Saint-Martin",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-27T12:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 87,
+      "internal_id": "241211[165708]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Jarville-la-Malgrange",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163351",
+      "location": {
+        "longitude": 6.2055837,
+        "latitude": 48.6695832,
+        "city": "Jarville-la-Malgrange"
+      },
+      "metadata": {
+        "address": "15 Rue Marechal Foch, 54140 Jarville-la-Malgrange",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-04T09:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": "241211[163351]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241211"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Blainville-sur-l'Eau",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-181849",
+      "location": {
+        "longitude": 6.3957676,
+        "latitude": 48.556213,
+        "city": "Blainville-sur-l'Eau"
+      },
+      "metadata": {
+        "address": "2 Rue de l'\u00c9tang, 54360 Blainville-sur-l'Eau",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[181849]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Pompey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163828",
+      "location": {
+        "longitude": 6.119464,
+        "latitude": 48.7650063,
+        "city": "Pompey"
+      },
+      "metadata": {
+        "address": "3 Rue de l'Avant Garde, 54340 Pompey",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163828]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Longuyon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167648",
+      "location": {
+        "longitude": 5.61552,
+        "latitude": 49.436706,
+        "city": "Longuyon"
+      },
+      "metadata": {
+        "address": "Avenue du G\u00e9n\u00e9ral de Gaulle, 54260 Longuyon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[167648]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Tomblaine",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163352",
+      "location": {
+        "longitude": 6.212854,
+        "latitude": 48.684789,
+        "city": "Tomblaine"
+      },
+      "metadata": {
+        "address": "Boulevard Henri Barbusse, 54510 Tomblaine",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163352]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Vand\u0153uvre-l\u00e8s-Nancy",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy",
+      "location": {
+        "longitude": 6.1827685,
+        "latitude": 48.6590732,
+        "city": "Vand\u0153uvre-l\u00e8s-Nancy"
+      },
+      "metadata": {
+        "address": "14 Avenue Jeanne d'Arc, 54500 Vand\u0153uvre-l\u00e8s-Nancy",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163347]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Dombasle-sur-Meurthe",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173392",
+      "location": {
+        "longitude": 6.350236,
+        "latitude": 48.6197241,
+        "city": "Dombasle-sur-Meurthe"
+      },
+      "metadata": {
+        "address": "115 Avenue du G\u00e9n\u00e9ral Leclerc, 54110 Dombasle-sur-Meurthe",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173392]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Pont-\u00e0-Mousson",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-175229",
+      "location": {
+        "longitude": 6.0379464,
+        "latitude": 48.9129342,
+        "city": "Pont-\u00e0-Mousson"
+      },
+      "metadata": {
+        "address": "Chemin de Montrichard, 54700 Pont-\u00e0-Mousson",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[175229]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Lun\u00e9ville",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-165799",
+      "location": {
+        "longitude": 6.5038459,
+        "latitude": 48.5920837,
+        "city": "Lun\u00e9ville"
+      },
+      "metadata": {
+        "address": "2 Cours de Verdun, 54300 Lun\u00e9ville",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[165799]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - J\u0153uf",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173394",
+      "location": {
+        "longitude": 6.010501,
+        "latitude": 49.230777,
+        "city": "J\u0153uf"
+      },
+      "metadata": {
+        "address": "59 Rue du Commerce, 54240 J\u0153uf",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173394]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Pharmacie Lafayette Nouvelle",
+      "url": "https://partners.doctolib.fr/pharmacie/longwy/pharmacie-lafayette-nouvelle",
+      "location": {
+        "longitude": 5.7628612,
+        "latitude": 49.5296226,
+        "city": "Longwy"
+      },
+      "metadata": {
+        "address": "2 Rue d'Halanzy, 54400 Longwy",
+        "phone_number": "+33382232428",
+        "business_hours": {
+          "lundi": "08:30-20:00",
+          "mardi": "08:30-20:00",
+          "mercredi": "08:30-20:00",
+          "jeudi": "08:30-20:00",
+          "vendredi": "08:30-20:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "266929[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266929"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Saint-Nicolas-de-Port",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-173391",
+      "location": {
+        "longitude": 6.2945078,
+        "latitude": 48.6253706,
+        "city": "Saint-Nicolas-de-Port"
+      },
+      "metadata": {
+        "address": "50 Rue du Blanc Mur, 54210 Saint-Nicolas-de-Port",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[173391]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Einville-au-Jard",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-181845",
+      "location": {
+        "longitude": 6.4790468,
+        "latitude": 48.6570464,
+        "city": "Einville-au-Jard"
+      },
+      "metadata": {
+        "address": "2 Rue des Brasseries, 54370 Einville-au-Jard",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[181845]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Pompey",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-179400",
+      "location": {
+        "longitude": 6.1286245,
+        "latitude": 48.7705538,
+        "city": "Pompey"
+      },
+      "metadata": {
+        "address": "59 Avenue du G\u00e9n\u00e9ral de Gaulle, 54340 Pompey",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[179400]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Cosnes-et-Romain",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-167650",
+      "location": {
+        "longitude": 5.7394671,
+        "latitude": 49.528006,
+        "city": "Cosnes-et-Romain"
+      },
+      "metadata": {
+        "address": "Rue de Lorraine, 54400 Cosnes-et-Romain",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[167650]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    },
+    {
+      "departement": "54",
+      "nom": "Centres de vaccination Covid-19 de Meurthe-et-Moselle - Nancy",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/nancy/centre-de-vaccination-covid-19-nancy?pid=practice-163350",
+      "location": {
+        "longitude": 6.1772064,
+        "latitude": 48.6881867,
+        "city": "Nancy"
+      },
+      "metadata": {
+        "address": "1 Place de la R\u00e9publique, 54000 Nancy",
+        "phone_number": "+33383851300",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:30",
+          "mardi": "09:00-12:30, 14:00-17:30",
+          "mercredi": "09:00-12:30, 14:00-17:30",
+          "jeudi": "09:00-12:30, 14:00-17:30",
+          "vendredi": "09:00-12:30, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241211[163350]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241211"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.937573+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination Covid-19 - CPTS Sud Valence",
+      "url": "https://partners.doctolib.fr/centre-de-sante/etoile-sur-rhone/centre-de-vaccination-covid-19-cpts-sud-valence",
+      "location": {
+        "longitude": 4.883745,
+        "latitude": 44.839505,
+        "city": "\u00c9toile-sur-Rh\u00f4ne"
+      },
+      "metadata": {
+        "address": "390 Route de Marmans, 26800 \u00c9toile-sur-Rh\u00f4ne",
+        "phone_number": "+33673031221",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T17:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1076,
+      "internal_id": "253213[]",
+      "vaccine_type": [
+        "AstraZeneca",
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d253213"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de Vaccination Covid-19 du Centre Hospitalier de Valence",
+      "url": "https://partners.doctolib.fr/hopital-public/valence/centre-de-vaccination-du-centre-hospitalier-de-valence",
+      "location": {
+        "longitude": 4.905868,
+        "latitude": 44.9121683,
+        "city": "Valence"
+      },
+      "metadata": {
+        "address": "179 Boulevard Mar\u00e9chal Juin, 26000 Valence",
+        "phone_number": "+33475757700",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-23T16:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 1581,
+      "internal_id": "242529[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242529"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de Vaccination Covid-19 Saint Jean en Royans",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-jean-en-royans/centre-de-vaccination-saint-jean-en-royans",
+      "location": {
+        "longitude": 5.2895007,
+        "latitude": 45.0175323,
+        "city": "Saint-Jean-en-Royans"
+      },
+      "metadata": {
+        "address": "3 Rue des \u00c9coles, 26190 Saint-Jean-en-Royans",
+        "phone_number": "+33671040154",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T13:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 62,
+      "internal_id": "253091[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d253091"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de Vaccination COVID-19 - Mont\u00e9limar GHPP - Espace Saint-Martin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montelimar/centre-de-vaccination-covid-gh-portes-de-provence-montelimar",
+      "location": {
+        "longitude": 4.7497843,
+        "latitude": 44.5636269,
+        "city": "Mont\u00e9limar"
+      },
+      "metadata": {
+        "address": "2 Rue Bernard Cathelin, 26200 Mont\u00e9limar",
+        "phone_number": "+33475534100",
+        "business_hours": {
+          "lundi": "08:00-19:30",
+          "mardi": "08:00-19:30",
+          "mercredi": "08:00-19:30",
+          "jeudi": "08:00-19:30",
+          "vendredi": "08:00-19:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-07T17:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 86,
+      "internal_id": "242583[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242583"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination de Crest",
+      "url": "https://partners.doctolib.fr/centre-de-sante/crest/centre-de-vaccination-de-crest",
+      "location": {
+        "longitude": 5.0227097,
+        "latitude": 44.7243074,
+        "city": "Crest"
+      },
+      "metadata": {
+        "address": "Avenue Jean Rabot, 26400 Crest",
+        "phone_number": "+33618466381",
+        "business_hours": {
+          "lundi": "17:00-19:00",
+          "mardi": "13:00-15:00",
+          "mercredi": "15:00-18:00, 15:00-18:00",
+          "jeudi": "17:00-19:00",
+          "vendredi": "13:00-15:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257134[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d257134"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de Vaccination Covid-19 - Commune de Nyons",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nyons/centre-de-vaccination-covid-19-commune-de-nyons",
+      "location": {
+        "longitude": 5.1352679,
+        "latitude": 44.3564883,
+        "city": "Nyons"
+      },
+      "metadata": {
+        "address": "128 Promenade de la Digue, 26110 Nyons",
+        "phone_number": "+33475261287",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-17:00",
+          "mardi": "08:30-12:30, 14:00-17:00",
+          "mercredi": "08:30-12:30, 14:00-17:00",
+          "jeudi": "08:30-12:30, 14:00-17:00",
+          "vendredi": "08:30-12:30, 14:00-17:00",
+          "samedi": "08:30-12:30, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244843[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244843"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination de St Vallier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-vallier/centre-de-vaccination-de-st-vallier",
+      "location": {
+        "longitude": 4.8201059,
+        "latitude": 45.1747394,
+        "city": "Saint-Vallier"
+      },
+      "metadata": {
+        "address": "Rue de l'H\u00f4pital, 26240 Saint-Vallier",
+        "phone_number": "+33475683787",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": "09:00-13:00",
+          "mercredi": "09:00-13:00",
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243280[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243280"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination COVID - Romans-sur-Is\u00e8re - Salle des Cordeliers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/romans-sur-isere/centre-de-vaccinations-de-romans-sur-isere-salle-des-cordeliers",
+      "location": {
+        "longitude": 5.0522992,
+        "latitude": 45.0439862,
+        "city": "Romans-sur-Is\u00e8re"
+      },
+      "metadata": {
+        "address": "Place Jules Nadi, 26100 Romans-sur-Is\u00e8re",
+        "phone_number": "+33800009110",
+        "business_hours": {
+          "lundi": "08:15-17:45",
+          "mardi": "08:15-17:45",
+          "mercredi": "08:15-17:45",
+          "jeudi": "08:15-17:45",
+          "vendredi": "08:15-17:45",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242707[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242707"
+    },
+    {
+      "departement": "26",
+      "nom": "Centre de vaccination Covid-19 - Tricastin-Dr\u00f4me Sud Provence",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-paul-trois-chateaux/centre-de-vaccination-covid-19-tricastin-drome-sud-provence",
+      "location": {
+        "longitude": 4.7631558,
+        "latitude": 44.3457455,
+        "city": "Saint-Paul-Trois-Ch\u00e2teaux"
+      },
+      "metadata": {
+        "address": "Place du Quatorze Juillet, 26130 Saint-Paul-Trois-Ch\u00e2teaux",
+        "business_hours": {
+          "lundi": "08:00-12:00, 13:30-17:30",
+          "mardi": "08:00-12:00, 13:30-17:30",
+          "mercredi": "08:00-12:00, 13:30-17:30",
+          "jeudi": "08:00-12:00, 13:30-17:30",
+          "vendredi": "08:00-12:00, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264300[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264300"
+    }
+  ]
+}

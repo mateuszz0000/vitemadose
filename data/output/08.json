@@ -1,0 +1,284 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.928507+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination Covid-19 - CH Intercommunal Nord-Ardennes (Charleville-M\u00e9zi\u00e8res, Fumay, Sedan)",
+      "url": "https://partners.doctolib.fr/hopital-public/charleville-mezieres/centre-hospitalier-intercommunal-nord-ardennes-charleville-fumay-sedan?pid=practice-171700",
+      "location": {
+        "longitude": 4.7108896,
+        "latitude": 49.7568325,
+        "city": "Charleville-M\u00e9zi\u00e8res"
+      },
+      "metadata": {
+        "address": "Rue de la Vieille Meuse, 08000 Charleville-M\u00e9zi\u00e8res",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T15:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 501,
+      "internal_id": "242252[171700]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242252"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes - Villers-Semeuse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-165006",
+      "location": {
+        "longitude": 4.7382107,
+        "latitude": 49.7427162,
+        "city": "Villers-Semeuse"
+      },
+      "metadata": {
+        "address": "Route nationale, 08000 Villers-Semeuse",
+        "phone_number": "+33972760250",
+        "business_hours": {
+          "lundi": "14:00-18:00",
+          "mardi": "14:00-18:00",
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[165006]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes - Buzancy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-167626",
+      "location": {
+        "longitude": 4.9549295,
+        "latitude": 49.4264732,
+        "city": "Buzancy"
+      },
+      "metadata": {
+        "address": "2 Rue de la Petite Bar, 08240 Buzancy",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[167626]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes - Nouzonville",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-174989",
+      "location": {
+        "longitude": 4.7449571,
+        "latitude": 49.8141256,
+        "city": "Nouzonville"
+      },
+      "metadata": {
+        "address": "21 Place Gambetta, 08700 Nouzonville",
+        "phone_number": "+33972760250",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[174989]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination Covid-19 - CH Intercommunal Nord-Ardennes (Charleville-M\u00e9zi\u00e8res, Fumay, Sedan) - Unit\u00e9 urbaine de Sedan",
+      "url": "https://partners.doctolib.fr/hopital-public/charleville-mezieres/centre-hospitalier-intercommunal-nord-ardennes-charleville-fumay-sedan?pid=practice-171778",
+      "location": {
+        "longitude": 4.952656,
+        "latitude": 49.696306,
+        "city": "Unit\u00e9 urbaine de Sedan"
+      },
+      "metadata": {
+        "address": "Rue Ancienne Porte de Balan, 08200 Unit\u00e9 urbaine de Sedan",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": null,
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242252[171778]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242252"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes - Bogny-sur-Meuse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-168268",
+      "location": {
+        "longitude": 4.7598052,
+        "latitude": 49.858745,
+        "city": "Bogny-sur-Meuse"
+      },
+      "metadata": {
+        "address": "Rue de la Vall\u00e9e, 08120 Bogny-sur-Meuse",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[168268]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination Covid-19 - CH Intercommunal Nord-Ardennes (Charleville-M\u00e9zi\u00e8res, Fumay, Sedan) - Fumay",
+      "url": "https://partners.doctolib.fr/hopital-public/charleville-mezieres/centre-hospitalier-intercommunal-nord-ardennes-charleville-fumay-sedan?pid=practice-164146",
+      "location": {
+        "longitude": 4.7108404,
+        "latitude": 49.9901999,
+        "city": "Fumay"
+      },
+      "metadata": {
+        "address": "30 Place du Baty, 08170 Fumay",
+        "phone_number": "+33972760250",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": null,
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": null,
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242252[164146]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242252"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes - Vrigne-aux-Bois",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-165013",
+      "location": {
+        "longitude": 4.8528362,
+        "latitude": 49.7389039,
+        "city": "Vrigne-aux-Bois"
+      },
+      "metadata": {
+        "address": "Avenue Voltaire, 08330 Vrigne-aux-Bois",
+        "phone_number": "+33972760250",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[165013]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    },
+    {
+      "departement": "08",
+      "nom": "Centre de vaccination COVID - ARS Ardennes - Rocroi",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sedan/centre-de-vaccination-covid-ars-ardennes?pid=practice-167723",
+      "location": {
+        "longitude": 4.522451,
+        "latitude": 49.925527,
+        "city": "Rocroi"
+      },
+      "metadata": {
+        "address": "Rue des Remparts, 08230 Rocroi",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243002[167723]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243002"
+    }
+  ]
+}

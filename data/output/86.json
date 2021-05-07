@@ -1,0 +1,420 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.977949+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "86",
+      "nom": "Pharmacie Porte Sud",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-porte-sud-chatellerault",
+      "location": {
+        "longitude": 0.5293911000000001,
+        "latitude": 46.7983394,
+        "city": "chatellerault"
+      },
+      "metadata": {
+        "address": "6 AV CAMILLE PAGE, 86100 CHATELLERAULT",
+        "phone_number": "+33549215709",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "07d3b6f9"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination COVID-19 - Parc des expositions de Poitiers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/poitiers/centre-de-vaccination-covid-19-parc-des-expositions-de-poitiers",
+      "location": {
+        "longitude": 0.3736045,
+        "latitude": 46.5826372,
+        "city": "Poitiers"
+      },
+      "metadata": {
+        "address": "11 Rue Salvador Allende, 86000 Poitiers",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "267140[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d267140"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de Vaccination - CHU Poitiers site de Loudun",
+      "url": "https://partners.doctolib.fr/hopital-public/loudun/centre-de-vaccination-chu-poitiers",
+      "location": {
+        "longitude": 0.0779788,
+        "latitude": 47.0113318,
+        "city": "Loudun"
+      },
+      "metadata": {
+        "address": "3 Rue des Visitandines, 86200 Loudun",
+        "phone_number": "+33516604064",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "09:00-13:00",
+          "vendredi": "09:00-13:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244689[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244689"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre Vaccination MSP Vouneuil sur Vienne",
+      "url": "https://partners.doctolib.fr/maison-de-sante/vouneuil-sur-vienne/centre-vaccination-msp-vouneuil-sur-vienne",
+      "location": {
+        "longitude": 0.5410678,
+        "latitude": 46.7166796,
+        "city": "Vouneuil-sur-Vienne"
+      },
+      "metadata": {
+        "address": "9 Avenue Jean Jaur\u00e8s, 86210 Vouneuil-sur-Vienne",
+        "phone_number": "+33549851061",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "253166[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d253166"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination COVID 19 de la CPAM de la Vienne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/poitiers/centre-de-vaccination-covid-19-de-la-cpam-de-la-vienne",
+      "location": {
+        "longitude": 0.3777753,
+        "latitude": 46.588286,
+        "city": "Poitiers"
+      },
+      "metadata": {
+        "address": "79 Rue de Saint-Eloi, 86000 Poitiers",
+        "phone_number": "+33549627531",
+        "business_hours": {
+          "lundi": "08:00-12:00, 14:00-16:00",
+          "mardi": "08:00-12:00, 14:00-16:00",
+          "mercredi": "08:00-12:00, 14:00-16:00",
+          "jeudi": "08:00-12:00, 14:00-16:00",
+          "vendredi": "08:00-12:00, 14:00-16:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244499[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244499"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination Covid-19 - SDIS 86 - Chauvigny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/buxerolles/centre-de-vaccination-covid-19-sdis-86-buxerolles",
+      "location": {
+        "longitude": 0.6427416,
+        "latitude": 46.5661907,
+        "city": "Chauvigny"
+      },
+      "metadata": {
+        "address": "Avenue de la Vienne, 86300 Chauvigny",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265265[179211]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265265"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination Covid19 de Civray",
+      "url": "https://partners.doctolib.fr/maison-de-sante/civray/centre-de-vaccination-covid19-de-civray",
+      "location": {
+        "longitude": 0.2948806,
+        "latitude": 46.1486934,
+        "city": "Civray"
+      },
+      "metadata": {
+        "address": "12 Place du G\u00e9n\u00e9ral de Gaulle, 86400 Civray",
+        "phone_number": "+33788732646",
+        "business_hours": {
+          "lundi": "10:00-12:00, 14:00-16:00",
+          "mardi": "10:00-12:00, 14:00-16:00",
+          "mercredi": "10:00-12:00, 14:00-16:00",
+          "jeudi": "10:00-12:00, 14:00-16:00",
+          "vendredi": "10:00-12:00, 14:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242827[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242827"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de Vaccination - CHU Poitiers La Miletrie",
+      "url": "https://partners.doctolib.fr/hopital-public/poitiers/centre-de-vaccination-chu-poitiers-la-miletrie",
+      "location": {
+        "longitude": 0.3772245,
+        "latitude": 46.5602795,
+        "city": "Poitiers"
+      },
+      "metadata": {
+        "address": "2 Rue de la Mil\u00e9trie, 86000 Poitiers",
+        "phone_number": "+33516604064",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242489[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242489"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination du P\u00f4le de sant\u00e9 de L'envigne",
+      "url": "https://partners.doctolib.fr/maison-de-sante/scorbe-clairvaux/centre-de-vaccination-du-pole-de-sante-de-l-envigne",
+      "location": {
+        "longitude": 0.4125004,
+        "latitude": 46.8100628,
+        "city": "Scorb\u00e9-Clairvaux"
+      },
+      "metadata": {
+        "address": "Place Etienne Ch\u00e9rade de Monbron, 86140 Scorb\u00e9-Clairvaux",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254775[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d254775"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination COVID-19 Lusignan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/lusignan/centre-de-vaccination-covid-19-lusignan-lusignan",
+      "location": {
+        "longitude": 0.1146819,
+        "latitude": 46.4404308,
+        "city": "Lusignan"
+      },
+      "metadata": {
+        "address": "22 Route de Jazeneuil, 86600 Lusignan",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264637[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264637"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de Vaccination - CHU Poitiers site de Ch\u00e2tellerault",
+      "url": "https://partners.doctolib.fr/hopital-public/chatellerault/centre-de-vaccination-chu-poitiers-site-de-chatellerault",
+      "location": {
+        "longitude": 0.5548412,
+        "latitude": 46.832647,
+        "city": "Ch\u00e2tellerault"
+      },
+      "metadata": {
+        "address": "1 Rue du Docteur Luc Montagnier, 86100 Ch\u00e2tellerault",
+        "phone_number": "+33516604064",
+        "business_hours": {
+          "lundi": "08:00-12:00, 14:00-17:30",
+          "mardi": "08:00-12:00, 14:00-17:30",
+          "mercredi": "08:00-12:00, 14:00-17:30",
+          "jeudi": "08:00-12:00, 14:00-17:30",
+          "vendredi": "08:00-12:00, 14:00-17:30",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242495[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242495"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de Vaccination - CHU Poitiers site de Montmorillon",
+      "url": "https://partners.doctolib.fr/hopital-public/montmorillon/centre-de-vaccination-chu-poitiers-site-de-montmorillon",
+      "location": {
+        "longitude": 0.8662792,
+        "latitude": 46.4269869,
+        "city": "Montmorillon"
+      },
+      "metadata": {
+        "address": "2 Rue Henri Dunant, 86500 Montmorillon",
+        "phone_number": "+33516604064",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": "08:30-12:30, 13:00-15:00",
+          "jeudi": null,
+          "vendredi": "08:30-12:30, 13:00-15:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242501[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242501"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination Covid 19 Polyclinique de Poitiers",
+      "url": "https://partners.doctolib.fr/clinique-privee/poitiers/centre-de-vaccination-polyclinique-de-poitiers",
+      "location": {
+        "longitude": 0.367013499999985,
+        "latitude": 46.564177,
+        "city": "Poitiers"
+      },
+      "metadata": {
+        "address": "1 Rue de la Providence, 86000 Poitiers",
+        "phone_number": "+33549617000",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242685[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242685"
+    },
+    {
+      "departement": "86",
+      "nom": "Centre de vaccination Covid-19 - SDIS 86 - Buxerolles",
+      "url": "https://partners.doctolib.fr/centre-de-sante/buxerolles/centre-de-vaccination-covid-19-sdis-86-buxerolles?pid=practice-180166",
+      "location": {
+        "longitude": 0.3528636,
+        "latitude": 46.5947215,
+        "city": "Buxerolles"
+      },
+      "metadata": {
+        "address": "Avenue des Castors, 86180 Buxerolles",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265265[180166]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265265"
+    }
+  ]
+}

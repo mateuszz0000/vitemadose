@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.932947+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "16",
+      "nom": "Centre de Vaccination Covid-19 - CH Sud-Charente",
+      "url": "https://partners.doctolib.fr/hopital-public/barbezieux-saint-hilaire/centre-de-vaccination-covid-19-ch-sud-charente",
+      "location": {
+        "longitude": 0.137508,
+        "latitude": 45.47453,
+        "city": "Barbezieux-Saint-Hilaire"
+      },
+      "metadata": {
+        "address": "Route de Saint-Bonnet, 16300 Barbezieux-Saint-Hilaire",
+        "phone_number": "+33545787804",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-16:30",
+          "mardi": "09:00-12:00, 13:00-16:30",
+          "mercredi": "09:00-12:00, 13:00-16:30",
+          "jeudi": "09:00-12:00, 13:00-16:30",
+          "vendredi": "09:00-12:00, 13:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-17T11:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 30,
+      "internal_id": "242374[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d242374"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de Vaccination Covid-19 - CH de Ruffec",
+      "url": "https://partners.doctolib.fr/hopital-public/ruffec/centre-de-vaccination-covid-19-ch-de-ruffec",
+      "location": {
+        "longitude": 0.1960044,
+        "latitude": 46.0288425,
+        "city": "Ruffec"
+      },
+      "metadata": {
+        "address": "15 Rue de l'H\u00f4pital, 16700 Ruffec",
+        "phone_number": "+33545295382",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-16:00",
+          "mardi": null,
+          "mercredi": "09:00-12:00, 13:00-16:00",
+          "jeudi": "09:00-12:00, 13:00-16:00",
+          "vendredi": "09:00-12:00, 13:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-17T15:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 20,
+      "internal_id": "242363[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d242363"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination Covid-19 - Terres-de-Haute-Charente",
+      "url": "https://partners.doctolib.fr/centre-de-sante/terres-de-haute-charente/centre-de-vaccination-covid-19-terres-de-haute-charente",
+      "location": {
+        "longitude": 0.5812903,
+        "latitude": 45.8912459,
+        "city": "Terres-de-Haute-Charente"
+      },
+      "metadata": {
+        "address": "1 Rue de l'Hermitage, 16270 Terres-de-Haute-Charente",
+        "phone_number": "+33545712054",
+        "business_hours": {
+          "lundi": "08:45-12:30, 13:45-16:45",
+          "mardi": "08:45-12:30, 13:45-16:45",
+          "mercredi": "08:45-12:30, 13:45-16:45",
+          "jeudi": "08:45-12:30, 13:45-16:45",
+          "vendredi": "08:45-12:30, 13:45-16:45",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-03T08:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 131,
+      "internal_id": "245947[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d245947"
+    },
+    {
+      "departement": "16",
+      "nom": "Vaccination Covid - Centre Clinical de Soyaux - ELSAN - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/clinique-privee/soyaux/vaccination-covid-centre-clinical-soyaux-elsan",
+      "location": {
+        "longitude": 0.201584,
+        "latitude": 45.637665,
+        "city": "SOYAUX"
+      },
+      "metadata": {
+        "address": "2 CHEMIN DE FREGENEUIL, 16800 SOYAUX",
+        "phone_number": "+33545978800",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-05-07T12:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 15,
+      "internal_id": "242277[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242277"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "16",
+      "nom": "CH CONFOLENS",
+      "url": "https://vaccination-covid.keldoc.com/vaccination-covid19/confolens-16500/covid-vaccination?category=-1&cabinet=6507",
+      "location": {
+        "longitude": 0.67039,
+        "latitude": 46.005,
+        "city": "Confolens"
+      },
+      "metadata": {
+        "address": " Rue du Docteur Marcel Perrot, 16500 Confolens",
+        "phone_number": "+33545844011",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "53"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination COVID - MSP de la Cl\u00e9 d'Or",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dignac/centre-de-vaccination-covid-msp-de-la-cle-d-or",
+      "location": {
+        "longitude": 0.2818142,
+        "latitude": 45.5572882,
+        "city": "Dignac"
+      },
+      "metadata": {
+        "address": "Rue de La Salle Polyvalente, 16410 Dignac",
+        "business_hours": {
+          "lundi": "09:30-14:30",
+          "mardi": "09:30-14:30",
+          "mercredi": "09:30-11:30",
+          "jeudi": "09:30-14:30",
+          "vendredi": "09:30-14:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243164[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243164"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination - Montmoreau",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montmoreau-saint-cybard/centre-de-vaccination-montmoreau",
+      "location": {
+        "longitude": 0.129196,
+        "latitude": 45.3975657,
+        "city": "Montmoreau-Saint-Cybard"
+      },
+      "metadata": {
+        "address": "Rue Henri Dunant, 16190 Montmoreau-Saint-Cybard",
+        "phone_number": "+33952452416",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244304[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244304"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination Covid - MSP de Ruelle sur Touvre",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ruelle-sur-touvre/centre-de-vaccination-covid-msp-de-ruelle-sur-touvre",
+      "location": {
+        "longitude": 0.2356789,
+        "latitude": 45.6780055,
+        "city": "Ruelle-sur-Touvre"
+      },
+      "metadata": {
+        "address": "45 Rue de Puyguillen, 16600 Ruelle-sur-Touvre",
+        "phone_number": "+33782406008",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-18:00",
+          "mardi": "09:00-12:00, 14:00-18:00",
+          "mercredi": "09:00-12:00, 14:00-18:00",
+          "jeudi": "09:00-12:00, 14:00-18:00",
+          "vendredi": "09:00-12:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243102[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243102"
+    },
+    {
+      "departement": "16",
+      "nom": "Maison de Sant\u00e9 La Couronne - Centre de vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-couronne/maison-de-sante-la-couronne-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": 0.099183,
+        "latitude": 45.606119,
+        "city": "La Couronne"
+      },
+      "metadata": {
+        "address": "Place de la Gare, 16400 La Couronne",
+        "phone_number": "+33545659900",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-16:00",
+          "mardi": "09:00-12:00, 14:00-16:00",
+          "mercredi": "09:00-12:00, 14:00-16:00",
+          "jeudi": "09:00-12:00, 14:00-16:00",
+          "vendredi": "09:00-12:00, 14:00-16:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243701[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243701"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de Vaccination Covid-19 - H\u00f4pitaux de Grand Cognac",
+      "url": "https://partners.doctolib.fr/hopital-public/cognac/centre-de-vaccination-covid-19-chi-de-cognac",
+      "location": {
+        "longitude": -0.305291,
+        "latitude": 45.6885968,
+        "city": "Ch\u00e2teaubernard"
+      },
+      "metadata": {
+        "address": "19 Rue des Vauzelles, 16100 Ch\u00e2teaubernard",
+        "phone_number": "+33545801616",
+        "business_hours": {
+          "lundi": "08:30-17:00",
+          "mardi": "08:30-17:00",
+          "mercredi": "08:30-17:00",
+          "jeudi": "08:30-17:00",
+          "vendredi": "08:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242372[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242372"
+    },
+    {
+      "departement": "16",
+      "nom": "Centre de vaccination Ch\u00e2teauneuf-sur-Charentes",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/chateauneuf-sur-charente/centre-de-vaccination-chateauneuf-sur-charentes",
+      "location": {
+        "longitude": -0.0536667,
+        "latitude": 45.5951725,
+        "city": "Ch\u00e2teauneuf-sur-Charente"
+      },
+      "metadata": {
+        "address": "La Croix Chadenne, 16120 Ch\u00e2teauneuf-sur-Charente",
+        "phone_number": "+33675084263",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "14:00-17:30",
+          "mercredi": "14:00-17:30",
+          "jeudi": "14:00-17:30",
+          "vendredi": "14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243939[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243939"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.978494+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "87",
+      "nom": "Centre Municipal Vaccination COVID19 - Limoges",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limoges/centre-municipal-vaccination-covid19-limoges",
+      "location": {
+        "longitude": 1.2891542,
+        "latitude": 45.8782298,
+        "city": "Limoges"
+      },
+      "metadata": {
+        "address": "76 Rue des Sagnes, 87280 Limoges",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243154[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243154"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Saint-Yrieix-la-Perche",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-165200",
+      "location": {
+        "longitude": 1.2039514,
+        "latitude": 45.5152963,
+        "city": "Saint-Yrieix-la-Perche"
+      },
+      "metadata": {
+        "address": "5 Pl. du President Magnaud, 87500 Saint-Yrieix-la-Perche",
+        "phone_number": "+33555087538",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[165200]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Bellac",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162984",
+      "location": {
+        "longitude": 1.0616682,
+        "latitude": 46.124212,
+        "city": "Bellac"
+      },
+      "metadata": {
+        "address": "4 Avenue Charles de Gaulle, 87300 Bellac",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162984]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Limoges",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-171206",
+      "location": {
+        "longitude": 1.240409,
+        "latitude": 45.8240431,
+        "city": "Limoges"
+      },
+      "metadata": {
+        "address": "44 Rue Emile Mont\u00e9gut, 87000 Limoges",
+        "phone_number": "+33555087541",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[171206]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Le Dorat",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-177067",
+      "location": {
+        "longitude": 1.0773343,
+        "latitude": 46.2175129,
+        "city": "Le Dorat"
+      },
+      "metadata": {
+        "address": "9 Avenue Fran\u00e7ois de la Josni\u00e8re, 87210 Le Dorat",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[177067]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Limoges",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-165860",
+      "location": {
+        "longitude": 1.2254281,
+        "latitude": 45.8147774,
+        "city": "Limoges"
+      },
+      "metadata": {
+        "address": "1 Rue Victor Schoelcher, 87000 Limoges",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[165860]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Limoges",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162986",
+      "location": {
+        "longitude": 1.2845641,
+        "latitude": 45.8126623,
+        "city": "Limoges"
+      },
+      "metadata": {
+        "address": "18 Rue du G\u00e9n\u00e9ral Catroux, 87000 Limoges",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162986]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Magnac-Laval",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-165290",
+      "location": {
+        "longitude": 1.1736447,
+        "latitude": 46.219902,
+        "city": "Magnac-Laval"
+      },
+      "metadata": {
+        "address": "Avenue George Sand, 87190 Magnac-Laval",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[165290]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Saint-L\u00e9onard-de-Noblat",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162972",
+      "location": {
+        "longitude": 1.485093,
+        "latitude": 45.8413716,
+        "city": "Saint-L\u00e9onard-de-Noblat"
+      },
+      "metadata": {
+        "address": "Chemin du Pannaud, 87400 Saint-L\u00e9onard-de-Noblat",
+        "phone_number": "+33555087532",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162972]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Saint-Junien",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162981",
+      "location": {
+        "longitude": 0.8956045,
+        "latitude": 45.8890528,
+        "city": "Saint-Junien"
+      },
+      "metadata": {
+        "address": "Avenue L\u00e9ontine Vignerie, 87200 Saint-Junien",
+        "phone_number": "+33555087533",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162981]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "87",
+      "nom": "[Limousin] Vaccination COVID-19 - Limoges",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante",
+      "location": {
+        "longitude": 1.2325905,
+        "latitude": 45.8143213,
+        "city": "Limoges"
+      },
+      "metadata": {
+        "address": "2 Avenue Martin Luther King, 87000 Limoges",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162612]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    }
+  ]
+}

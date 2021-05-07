@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.939582+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "2A",
+      "nom": "CH de Sart\u00e8ne - Centre de vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/sartene/centre-hospitalier-de-sartene-sartene",
+      "location": {
+        "longitude": 8.8997896,
+        "latitude": 41.673209,
+        "city": "Propriano"
+      },
+      "metadata": {
+        "address": "Rue Jean Moulin, 20110 Propriano",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-18:00",
+          "mardi": "09:00-12:00, 14:00-18:00",
+          "mercredi": "09:00-12:00, 14:00-18:00",
+          "jeudi": "09:00-12:00, 14:00-18:00",
+          "vendredi": "09:00-12:00, 14:00-18:00",
+          "samedi": "09:00-12:00, 14:00-18:00",
+          "dimanche": "09:00-12:00, 14:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-24T09:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 139,
+      "internal_id": "242038[180426]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242038"
+    },
+    {
+      "departement": "2A",
+      "nom": "Centre de vaccination COVID-19 CMA Porto-Vecchio",
+      "url": "https://partners.doctolib.fr/centre-de-sante/porto-vecchio/centre-de-vaccination-covid-19-cma-porto-vecchio",
+      "location": {
+        "longitude": 9.2773433,
+        "latitude": 41.6053396,
+        "city": "Porto-Vecchio"
+      },
+      "metadata": {
+        "address": "Avenue de Bastia, 20137 Porto-Vecchio",
+        "phone_number": "+33980803064",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-25T14:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 313,
+      "internal_id": "243505[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243505"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "2A",
+      "nom": "Clinisud",
+      "url": "",
+      "location": {
+        "longitude": 8.73563,
+        "latitude": 41.9232,
+        "city": "Ajaccio"
+      },
+      "metadata": {
+        "address": "12 Avenue Napoleon III, 20090 Ajaccio",
+        "phone_number": "+33609982363",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Autre",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1430"
+    },
+    {
+      "departement": "2A",
+      "nom": "Centre de vaccination COVID D'Ajaccio (Les Salines) - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/ajaccio/centre-de-vaccination-covid-des-salines",
+      "location": {
+        "longitude": 8.7509629,
+        "latitude": 41.9383946,
+        "city": "Ajaccio"
+      },
+      "metadata": {
+        "address": "Avenue Mar\u00e9chal Juin, 20090 Ajaccio",
+        "phone_number": "+33495296700",
+        "business_hours": {
+          "lundi": "08:30-12:15, 13:00-17:15",
+          "mardi": "08:30-12:15, 13:00-17:15",
+          "mercredi": "08:30-12:15, 13:00-17:15",
+          "jeudi": "08:30-12:15, 13:00-17:15",
+          "vendredi": "08:30-12:15, 13:00-17:15",
+          "samedi": "08:30-12:30",
+          "dimanche": "08:30-12:30"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243740[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243740"
+    }
+  ]
+}

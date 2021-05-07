@@ -1,0 +1,221 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.967946+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Saint Jean de Maurienne",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/saint-jean-de-maurienne/centre-hospitalier-vallee-de-la-maurienne-vaccination-covid",
+      "location": {
+        "longitude": 6.3433343,
+        "latitude": 45.2762755,
+        "city": "Saint-Jean-de-Maurienne"
+      },
+      "metadata": {
+        "address": "21 Rue des \u00c9coles, 73300 Saint-Jean-de-Maurienne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-06T15:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 63,
+      "internal_id": "242315[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242315"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Covid-19 Mairie Aix-Les-Bains",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aix-les-bains/centre-de-vaccination-covid-19-mairie-aix-les-bains",
+      "location": {
+        "longitude": 5.9163862,
+        "latitude": 45.6865782,
+        "city": "Aix-les-Bains"
+      },
+      "metadata": {
+        "address": "Rue Jean Monard, 73100 Aix-les-Bains",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "266646[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266646"
+    },
+    {
+      "departement": "73",
+      "nom": "H\u00f4pital de Chamb\u00e9ry (CH M\u00e9tropole Savoie) - Centre de vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/chambery/hopital-de-chambery-centre-vaccination-covid-19",
+      "location": {
+        "longitude": 5.9081887,
+        "latitude": 45.5640429,
+        "city": "Chamb\u00e9ry"
+      },
+      "metadata": {
+        "address": "740 Faubourg M\u00e2ch\u00e9, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242537[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242537"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Covid 19 - Savoie - Parc des expositions Chamb\u00e9ry",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chambery/centre-de-vaccination-covid-19-savoie-parc-des-expositions-chambery",
+      "location": {
+        "longitude": 5.8984423,
+        "latitude": 45.5826519,
+        "city": "Chamb\u00e9ry"
+      },
+      "metadata": {
+        "address": "1725 Avenue du Grand Arietaz, 73000 Chamb\u00e9ry",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:30",
+          "mardi": "09:00-12:30, 14:00-17:30",
+          "mercredi": "09:00-12:30, 14:00-17:30",
+          "jeudi": "09:00-12:30, 14:00-17:30",
+          "vendredi": "09:00-12:30, 14:00-17:30",
+          "samedi": "09:00-12:30, 14:00-17:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264576[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264576"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Covid - Chindrieux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chindrieux/centre-de-vaccination-covid-chindrieux",
+      "location": {
+        "longitude": 5.8496913,
+        "latitude": 45.8136204,
+        "city": "Chindrieux"
+      },
+      "metadata": {
+        "address": "903 Route d'Aix, 73310 Chindrieux",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-18:00",
+          "mardi": "08:30-12:30, 14:00-18:00",
+          "mercredi": "08:30-12:30, 14:00-18:00",
+          "jeudi": "08:30-12:30, 14:00-18:00",
+          "vendredi": "08:30-12:30, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262394[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262394"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination COVID-19 d'Albertville",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/albertville/centre-de-vaccination-covid-maison-de-sante-d-albertville",
+      "location": {
+        "longitude": 6.3928359,
+        "latitude": 45.664321,
+        "city": "Albertville"
+      },
+      "metadata": {
+        "address": "23 Chemin de la Pierre du Roy, 73200 Albertville",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243111[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243111"
+    },
+    {
+      "departement": "73",
+      "nom": "Centre de vaccination Covid de Mo\u00fbtiers",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/moutiers/centre-de-vaccination-covid-de-moutiers",
+      "location": {
+        "longitude": 6.5298515,
+        "latitude": 45.4873826,
+        "city": "Moutiers"
+      },
+      "metadata": {
+        "address": "Avenue des XVI\u00e8 Jeux Olympiques, 73600 Moutiers",
+        "phone_number": "+33755582711",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245207[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245207"
+    }
+  ]
+}

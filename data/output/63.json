@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.961394+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "63",
+      "nom": "Pharmacie Borderie",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-borderie-clermont-fd",
+      "location": {
+        "longitude": 3.08105,
+        "latitude": 45.7715273,
+        "city": "clermont-fd"
+      },
+      "metadata": {
+        "address": "4 av marx dormoy, 63000 clermont fd",
+        "phone_number": "+33473935677",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-22T15:15:00+00:00",
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 3,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "919a33ad"
+    },
+    {
+      "departement": "63",
+      "nom": "CHU de Clermont Ferrand - Centres de vaccination COVID 19 et Centre de d\u00e9pistage COVID 19",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/clermont-ferrand/chu-de-clermont-ferrand-centre-de-depistage-covid-19?pid=practice-162579",
+      "location": {
+        "longitude": 3.0914804,
+        "latitude": 45.7582629,
+        "city": "Clermont-Ferrand"
+      },
+      "metadata": {
+        "address": "58 Rue Montalembert, 63000 Clermont-Ferrand",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-25T11:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 143,
+      "internal_id": "212285[162579-141450]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d212285"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "63",
+      "nom": "Centre de vaccination Covid-19 d\u00e9partemental - Dispensaire \u00c9mile Roux",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clermont-ferrand/centre-de-vaccination-covid-departemental-dispensaire-emile-roux",
+      "location": {
+        "longitude": 3.1080508,
+        "latitude": 45.7867468,
+        "city": "Clermont-Ferrand"
+      },
+      "metadata": {
+        "address": "11 Rue Vaucanson, 63100 Clermont-Ferrand",
+        "phone_number": "+33473145000",
+        "business_hours": {
+          "lundi": "08:30-17:00",
+          "mardi": "08:30-17:00",
+          "mercredi": "08:30-17:00",
+          "jeudi": "08:30-17:00",
+          "vendredi": "08:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241863[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241863"
+    },
+    {
+      "departement": "63",
+      "nom": "Pharmacie Fontgi\u00e8ve",
+      "url": "https://partners.doctolib.fr/pharmacie/clermont-ferrand/pharmacie-fontgieve",
+      "location": {
+        "longitude": 3.0814963,
+        "latitude": 45.7808563,
+        "city": "Clermont-Ferrand"
+      },
+      "metadata": {
+        "address": "14 Rue Fontgieve, 63000 Clermont-Ferrand",
+        "phone_number": "+33473702273",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "10:00-12:30, 14:30-18:00",
+          "mercredi": "10:00-12:30, 14:30-18:00",
+          "jeudi": "10:00-12:30, 14:30-18:00",
+          "vendredi": "10:00-12:30, 14:30-18:00",
+          "samedi": "10:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "255327[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255327"
+    },
+    {
+      "departement": "63",
+      "nom": "Centre de vaccination municipal (Clermont-Ferrand)",
+      "url": "https://partners.doctolib.fr/centre-de-sante/clermont-ferrand/centre-de-vaccination-municipal-clermont-ferrand",
+      "location": {
+        "longitude": 3.0861471,
+        "latitude": 45.7853469,
+        "city": "Clermont-Ferrand"
+      },
+      "metadata": {
+        "address": "Place des Bughes, 63000 Clermont-Ferrand",
+        "phone_number": "+33473403333",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242810[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242810"
+    },
+    {
+      "departement": "63",
+      "nom": "Dr G\u00e9raldine Bayeron",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/randan/geraldine-bayeron",
+      "location": {
+        "longitude": 3.34958649999999,
+        "latitude": 46.0155542,
+        "city": "Randan"
+      },
+      "metadata": {
+        "address": "38 Rue de Riom, 63310 Randan",
+        "business_hours": {
+          "lundi": "09:20-12:00, 14:00-17:00",
+          "mardi": "09:20-12:00, 14:00-17:00",
+          "mercredi": null,
+          "jeudi": "09:20-12:00, 14:00-17:00",
+          "vendredi": "09:20-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "148820[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d148820"
+    },
+    {
+      "departement": "63",
+      "nom": "Centre de vaccination Covid-19 -  Grande Halle d'Auvergne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cournon-d-auvergne/centre-de-vaccination-covid-19-grande-halle-d-auvergne",
+      "location": {
+        "longitude": 3.154633,
+        "latitude": 45.744376,
+        "city": "Cournon-d'Auvergne"
+      },
+      "metadata": {
+        "address": "Plaine de Sarli\u00e8ve, 63800 Cournon-d'Auvergne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265993[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265993"
+    },
+    {
+      "departement": "63",
+      "nom": "Centre de vaccination - CH de Billom",
+      "url": "https://partners.doctolib.fr/hopital-public/billom/centre-de-vaccination-ch-de-billom",
+      "location": {
+        "longitude": 3.341734,
+        "latitude": 45.7204425,
+        "city": "Billom"
+      },
+      "metadata": {
+        "address": "3 Boulevard Saint-Roch, 63160 Billom",
+        "phone_number": "+33473604848",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243665[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243665"
+    },
+    {
+      "departement": "63",
+      "nom": "Centre de vaccination de Volvic",
+      "url": "https://partners.doctolib.fr/centre-de-sante/volvic/centre-de-vaccination-de-volvic",
+      "location": {
+        "longitude": 3.0440001,
+        "latitude": 45.8778918,
+        "city": "Volvic"
+      },
+      "metadata": {
+        "address": "Route de Riom, 63530 Volvic",
+        "phone_number": "+33805299797",
+        "business_hours": {
+          "lundi": "08:30-12:00, 14:00-17:00",
+          "mardi": "08:30-12:00, 14:00-17:00",
+          "mercredi": "08:30-12:00, 14:00-17:00",
+          "jeudi": "08:30-12:00, 14:00-17:00",
+          "vendredi": "08:30-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "257103[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d257103"
+    },
+    {
+      "departement": "63",
+      "nom": "CH du Mont-Dore - Centre de vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/mont-dore/ch-du-mont-dore-centre-de-vaccination",
+      "location": {
+        "longitude": 2.8080785,
+        "latitude": 45.5748645,
+        "city": "Mont-Dore"
+      },
+      "metadata": {
+        "address": "2 Rue du Cap Chazotte, 63240 Mont-Dore",
+        "phone_number": "+33473653333",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242614[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242614"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.959550+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "61",
+      "nom": "Centre de vaccination Covid-19 - CHIC des Andaines",
+      "url": "https://partners.doctolib.fr/hopital-public/domfront-en-poiraie/centre-de-vaccination-covid-19-chic-des-andaines",
+      "location": {
+        "longitude": -0.6582461,
+        "latitude": 48.5906303,
+        "city": "Domfront en Poiraie"
+      },
+      "metadata": {
+        "address": "28 Rue de la Gare, 61700 Domfront en Poiraie",
+        "phone_number": "+33233307037",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:00",
+          "mardi": "09:00-12:30, 14:00-17:00",
+          "mercredi": "09:00-12:30, 14:00-17:00",
+          "jeudi": "09:00-12:30, 14:00-17:00",
+          "vendredi": "09:00-12:30, 14:00-17:00",
+          "samedi": "09:00-12:30, 14:00-17:00",
+          "dimanche": "09:00-12:30, 14:00-17:00"
+        }
+      },
+      "prochain_rdv": "2021-04-19T16:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 50,
+      "internal_id": "242606[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242606"
+    },
+    {
+      "departement": "61",
+      "nom": "GHT Collines de Normandie - CH de Flers",
+      "url": "https://partners.doctolib.fr/hopital-public/flers/ght-collines-de-normandie-ch-de-flers?pid=practice-146012",
+      "location": {
+        "longitude": -0.541654,
+        "latitude": 48.746116,
+        "city": "Flers"
+      },
+      "metadata": {
+        "address": "Rue Jacques Pr\u00e9vert, 61100 Flers",
+        "phone_number": "+33233626200",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-20T08:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 596,
+      "internal_id": "216783[146012]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d216783"
+    },
+    {
+      "departement": "61",
+      "nom": "CH de Flers - Centre de vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/flers/ch-de-flers-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": -0.541654,
+        "latitude": 48.746116,
+        "city": "Flers"
+      },
+      "metadata": {
+        "address": "Rue Jacques Pr\u00e9vert, 61100 Flers",
+        "phone_number": "+33233626200",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-20T08:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 726,
+      "internal_id": "240567[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d240567"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination de l'Orne, la Manche et du Calvados - Domfront en Poiraie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/normandie/centres-de-vaccination-orne-manche-calvados?pid=practice-164580",
+      "location": {
+        "longitude": -0.6582461,
+        "latitude": 48.5906303,
+        "city": "Domfront en Poiraie"
+      },
+      "metadata": {
+        "address": "28 Rue de la Gare, 61700 Domfront en Poiraie",
+        "phone_number": "+33233307037",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-17:00",
+          "mardi": "09:00-12:30, 14:00-17:00",
+          "mercredi": "09:00-12:30, 14:00-17:00",
+          "jeudi": "09:00-12:30, 14:00-17:00",
+          "vendredi": "09:00-12:30, 14:00-17:00",
+          "samedi": "09:00-12:30, 14:00-17:00",
+          "dimanche": "09:00-12:30, 14:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "127110[164580]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d127110"
+    },
+    {
+      "departement": "61",
+      "nom": "Pharmacie Grignon",
+      "url": "https://partners.doctolib.fr/pharmacie/alencon/pharmacie-grignon",
+      "location": {
+        "longitude": 0.0890779,
+        "latitude": 48.4305499,
+        "city": "Alen\u00e7on"
+      },
+      "metadata": {
+        "address": "32 Grande Rue, 61000 Alen\u00e7on",
+        "phone_number": "+33233260198",
+        "business_hours": {
+          "lundi": "09:00-19:30",
+          "mardi": "09:00-19:30",
+          "mercredi": "09:00-19:30",
+          "jeudi": "09:00-19:30",
+          "vendredi": "09:00-19:30",
+          "samedi": "09:00-19:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "264746[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264746"
+    },
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination de l'Orne, la Manche et du Calvados - Flers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/normandie/centres-de-vaccination-orne-manche-calvados?pid=practice-146012",
+      "location": {
+        "longitude": -0.541654,
+        "latitude": 48.746116,
+        "city": "Flers"
+      },
+      "metadata": {
+        "address": "Rue Jacques Pr\u00e9vert, 61100 Flers",
+        "phone_number": "+33233626200",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "127110[146012]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d127110"
+    },
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination COVID-19 de l'Orne et du Saosnois - Bagnoles-de-l'Orne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/alencon/centres-de-vaccination-covid-departement-orne-saonois?pid=practice-164122",
+      "location": {
+        "longitude": -0.4252486,
+        "latitude": 48.5546033,
+        "city": "Bagnoles-de-l'Orne"
+      },
+      "metadata": {
+        "address": "17 Avenue du Dr Jacques Aimez, 61140 Bagnoles-de-l'Orne",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-17:30",
+          "mardi": "09:00-13:00, 14:00-17:30",
+          "mercredi": "09:00-13:00, 14:00-17:30",
+          "jeudi": "09:00-13:00, 14:00-17:30",
+          "vendredi": "09:00-13:00, 14:00-17:30",
+          "samedi": "09:00-13:00, 14:00-17:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241635[164122]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241635"
+    },
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination COVID-19 de l'Orne et du Saosnois - L'Aigle",
+      "url": "https://partners.doctolib.fr/centre-de-sante/alencon/centres-de-vaccination-covid-departement-orne-saonois?pid=practice-164092",
+      "location": {
+        "longitude": 0.6175902,
+        "latitude": 48.7647658,
+        "city": "L'Aigle"
+      },
+      "metadata": {
+        "address": "Avenue Comtesse de S\u00e9gur, 61300 L'Aigle",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241635[164092]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241635"
+    },
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination COVID-19 de l'Orne et du Saosnois - Argentan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/alencon/centres-de-vaccination-covid-departement-orne-saonois?pid=practice-179245",
+      "location": {
+        "longitude": -0.012683,
+        "latitude": 48.743437,
+        "city": "Argentan"
+      },
+      "metadata": {
+        "address": "Rue du 104E Rgt d'Infanterie, 61200 Argentan",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241635[179245]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241635"
+    },
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination COVID-19 de l'Orne et du Saosnois - Alen\u00e7on",
+      "url": "https://partners.doctolib.fr/centre-de-sante/alencon/centres-de-vaccination-covid-departement-orne-saonois",
+      "location": {
+        "longitude": 0.0877739,
+        "latitude": 48.4320679,
+        "city": "Alen\u00e7on"
+      },
+      "metadata": {
+        "address": "Cours Cl\u00e9menceau, 61000 Alen\u00e7on",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241635[163785]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241635"
+    },
+    {
+      "departement": "61",
+      "nom": "Centres de vaccination COVID-19 de l'Orne et du Saosnois - Mortagne-au-Perche",
+      "url": "https://partners.doctolib.fr/centre-de-sante/alencon/centres-de-vaccination-covid-departement-orne-saonois?pid=practice-164101",
+      "location": {
+        "longitude": 0.5411875,
+        "latitude": 48.5216089,
+        "city": "Mortagne-au-Perche"
+      },
+      "metadata": {
+        "address": "23 Rue Ferdinand de Boyeres, 61400 Mortagne-au-Perche",
+        "phone_number": "+33279461156",
+        "business_hours": {
+          "lundi": "08:50-13:20, 14:00-18:30",
+          "mardi": "08:50-13:20, 14:00-18:30",
+          "mercredi": "08:50-13:20, 14:00-18:30",
+          "jeudi": "08:50-13:20, 14:00-18:30",
+          "vendredi": "08:50-13:20, 14:00-18:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241635[164101]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241635"
+    }
+  ]
+}

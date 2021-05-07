@@ -1,0 +1,744 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.979944+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19  d'Igny - L'annexe",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/igny/centre-de-vaccination-covid-commune-d-igny",
+      "location": {
+        "longitude": 2.2281687,
+        "latitude": 48.7324143,
+        "city": "Igny"
+      },
+      "metadata": {
+        "address": "2 Avenue Ir\u00e8ne et Fr\u00e9d\u00e9ric Joliot Curie, 91430 Igny",
+        "phone_number": "+33169331125",
+        "business_hours": {
+          "lundi": "10:00-12:00, 12:00-16:00",
+          "mardi": "10:00-12:00, 12:00-16:00",
+          "mercredi": "10:00-12:00, 12:00-16:00",
+          "jeudi": "10:00-12:00, 12:00-16:00",
+          "vendredi": "10:00-12:00, 12:00-16:00",
+          "samedi": "10:00-12:00, 12:00-16:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-30T13:20:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 154,
+      "internal_id": "243093[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243093"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "91",
+      "nom": "Site de \"La Croix Louis\"",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bretigny-sur-orge-91220/centre-de-vaccination-covid19-bretigny?agenda=48971&motive=81790&category=-1&cabinet=16650&specialty=496",
+      "location": {
+        "longitude": 2.31322,
+        "latitude": 48.6036,
+        "city": "Br\u00e9tigny-sur-Orge"
+      },
+      "metadata": {
+        "address": "6 Rue de la Croix Louis, 91220 Br\u00e9tigny-sur-Orge",
+        "phone_number": "+33169884064",
+        "business_hours": {
+          "lundi": "9h00 \u00e0 17h00 ",
+          "mardi": "9h00 \u00e0 17h00 ",
+          "mercredi": "9h00 \u00e0 17h00 ",
+          "jeudi": "9h00 \u00e0 17h00 ",
+          "vendredi": "9h00 \u00e0 17h00 ",
+          "samedi": "9h00 \u00e0 13h00",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "745"
+    },
+    {
+      "departement": "91",
+      "nom": "Maison des activit\u00e9s de Nozay",
+      "url": "https://www.maiia.com/centre-de-vaccination/91620-nozay/centre-de-vaccination-covid---msp-de-nozay",
+      "location": {
+        "longitude": 2.24157,
+        "latitude": 48.6567,
+        "city": "Nozay"
+      },
+      "metadata": {
+        "address": "8 chemin belle \u00e9pine, 91620 Nozay",
+        "phone_number": "+33160825682",
+        "business_hours": {
+          "lundi": "9h-13h / 14h-18h",
+          "mardi": "9h-13h / 14h-18h",
+          "mercredi": "9h-13h / 14h-18h",
+          "jeudi": "9h-13h / 14h-18h",
+          "vendredi": "9h-13h / 14h-18h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "763"
+    },
+    {
+      "departement": "91",
+      "nom": "Pharmacie du Th\u00e9\u00e2tre",
+      "url": "https://partners.doctolib.fr/pharmacie/longjumeau/pharmacie-du-theatre-longjumeau",
+      "location": {
+        "longitude": 2.2981759,
+        "latitude": 48.6950822,
+        "city": "Longjumeau"
+      },
+      "metadata": {
+        "address": "13 Avenue du G\u00e9n\u00e9ral de Gaulle, 91160 Longjumeau",
+        "phone_number": "+33169098775",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:30-20:00",
+          "mardi": "09:00-12:30, 14:30-20:00",
+          "mercredi": "09:00-12:30, 14:30-20:00",
+          "jeudi": "09:00-12:30, 14:30-20:00",
+          "vendredi": "09:00-12:30, 14:30-20:00",
+          "samedi": "09:00-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "256343[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256343"
+    },
+    {
+      "departement": "91",
+      "nom": "Pharmacie de la Passerelle",
+      "url": "https://partners.doctolib.fr/pharmacie/chilly-mazarin/pharmacie-de-la-passerelle-dr-chouffot-groupement-gifar",
+      "location": {
+        "longitude": 2.3191022,
+        "latitude": 48.6997284,
+        "city": "Chilly-Mazarin"
+      },
+      "metadata": {
+        "address": "18 Rue de la Passerelle, 91380 Chilly-Mazarin",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:30-19:30",
+          "mardi": "09:00-12:30, 14:30-19:30",
+          "mercredi": "09:00-12:30, 14:30-19:30",
+          "jeudi": "09:00-12:30, 14:30-19:30",
+          "vendredi": "09:00-12:30, 14:30-19:30",
+          "samedi": "09:00-13:00, 14:30-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "263412[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d263412"
+    },
+    {
+      "departement": "91",
+      "nom": "Pharmacie Kayal",
+      "url": "https://partners.doctolib.fr/pharmacie/athis-mons/pharmacie-kayal",
+      "location": {
+        "longitude": 2.3635868,
+        "latitude": 48.7049784,
+        "city": "Athis-Mons"
+      },
+      "metadata": {
+        "address": "7 Rue des Froides Bouillies, 91200 Athis-Mons",
+        "phone_number": "+33169385917",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "256263[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256263"
+    },
+    {
+      "departement": "91",
+      "nom": "Mme Cindy MERCIER",
+      "url": "https://partners.doctolib.fr/infirmier/chilly-mazarin/cindy-mercier",
+      "location": {
+        "longitude": 2.3134528,
+        "latitude": 48.7035656,
+        "city": "Chilly-Mazarin"
+      },
+      "metadata": {
+        "address": "2 Rue Verte, 91380 Chilly-Mazarin",
+        "phone_number": "+33618850776",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "266507[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d266507"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination COVID - Mairie Athis-Mons",
+      "url": "https://partners.doctolib.fr/centre-de-sante/athis-mons/centre-de-vaccination-covid-mairie-athis-mons",
+      "location": {
+        "longitude": 2.3952046,
+        "latitude": 48.7059674,
+        "city": "Athis-Mons"
+      },
+      "metadata": {
+        "address": "12 Rue Edouard Vaillant, 91200 Athis-Mons",
+        "phone_number": "+33169545417",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242965[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242965"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de Vaccination COVID - Conseil D\u00e9partemental de l'Essonne (CD91) - Massy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91?pid=practice-164603",
+      "location": {
+        "longitude": 2.2731786,
+        "latitude": 48.7311611,
+        "city": "Massy"
+      },
+      "metadata": {
+        "address": "8 Place Victor Schoelcher, 91300 Massy",
+        "phone_number": "+33160919797",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242631[164603]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242631"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination covid-19 - Communes de Paray- Vieille-Poste et Morangis",
+      "url": "https://partners.doctolib.fr/centre-de-sante/paray-vieille-poste/centre-de-vaccination-covid-19-cpts-nord-essonne-paray-vieille-poste-et-morangis",
+      "location": {
+        "longitude": 2.3589551,
+        "latitude": 48.7169966,
+        "city": "Paray-Vieille-Poste"
+      },
+      "metadata": {
+        "address": "8 Rue des Mimosas, 91550 Paray-Vieille-Poste",
+        "phone_number": "+33973033343",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244253[165976]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244253"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de Vaccination COVID - Conseil D\u00e9partemental de l'Essonne (CD91) - Montgeron",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91",
+      "location": {
+        "longitude": 2.4675199,
+        "latitude": 48.7004181,
+        "city": "Montgeron"
+      },
+      "metadata": {
+        "address": "121 Avenue de la R\u00e9publique, 91230 Montgeron",
+        "phone_number": "+33160919797",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242631[164602]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242631"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination COVID-BRUNOY",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/brunoy/centre-de-vaccination-covid-brunoy",
+      "location": {
+        "longitude": 2.5055229,
+        "latitude": 48.6980152,
+        "city": "Brunoy"
+      },
+      "metadata": {
+        "address": "4 Rue Philisbourg, 91800 Brunoy",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:30",
+          "mardi": "08:30-12:30, 13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242524[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242524"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Epinay-sous-S\u00e9nart",
+      "url": "https://partners.doctolib.fr/centre-de-sante/epinay-sous-senart/centre-de-vaccination-epinay-sous-senart",
+      "location": {
+        "longitude": 2.5173624,
+        "latitude": 48.694394,
+        "city": "\u00c9pinay-sous-S\u00e9nart"
+      },
+      "metadata": {
+        "address": "12 Rue de Rocheau, 91860 \u00c9pinay-sous-S\u00e9nart",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258490[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258490"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination - Sainte-Genevi\u00e8ve-des-Bois",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sainte-genevieve-des-bois/centre-de-vaccination-sainte-genevieve-des-bois",
+      "location": {
+        "longitude": 2.3294644,
+        "latitude": 48.6404876,
+        "city": "Sainte-Genevi\u00e8ve-des-Bois"
+      },
+      "metadata": {
+        "address": "23 Rue Marc Sangnier, 91700 Sainte-Genevi\u00e8ve-des-Bois",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": null,
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242814[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242814"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19 Gif sur Yvette",
+      "url": "https://partners.doctolib.fr/centre-de-sante/gif-sur-yvette/centre-de-vaccination-covid-19-gif-sur-yvette-gif-sur-yvette",
+      "location": {
+        "longitude": 2.1301529,
+        "latitude": 48.6971854,
+        "city": "Gif-sur-Yvette"
+      },
+      "metadata": {
+        "address": "Place du Chapitre, 91190 Gif-sur-Yvette",
+        "business_hours": {
+          "lundi": "08:45-12:00, 13:30-17:30",
+          "mardi": "08:45-12:00, 13:30-17:30",
+          "mercredi": "08:45-12:00, 13:30-17:30",
+          "jeudi": "08:45-12:00, 13:30-17:30",
+          "vendredi": "08:45-12:00, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243294[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243294"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de Vaccination Covid-19 - Savigny-sur-Orge",
+      "url": "https://partners.doctolib.fr/centre-de-sante/savigny-sur-orge/vaccination-covid-19-savigny-sur-orge",
+      "location": {
+        "longitude": 2.355309,
+        "latitude": 48.694205,
+        "city": "Savigny-sur-Orge"
+      },
+      "metadata": {
+        "address": "2 Avenue Jean-Marsaudon, 91600 Savigny-sur-Orge",
+        "business_hours": {
+          "lundi": "12:00-16:00",
+          "mardi": "08:00-16:00",
+          "mercredi": "08:00-16:00",
+          "jeudi": "08:00-16:00",
+          "vendredi": "08:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241915[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241915"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19 de Limours",
+      "url": "https://partners.doctolib.fr/centre-de-sante/briis-sous-forges/centre-de-vaccination-du-hurepoix",
+      "location": {
+        "longitude": 2.075534,
+        "latitude": 48.64784,
+        "city": "Limours"
+      },
+      "metadata": {
+        "address": "Rue de la Brelandi\u00e8re, 91470 Limours",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241961[163934]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241961"
+    },
+    {
+      "departement": "91",
+      "nom": "Pharmacie Roff\u00e9",
+      "url": "https://partners.doctolib.fr/pharmacie/saint-pierre-du-perray/pharmacie-roffe",
+      "location": {
+        "longitude": 2.5028799,
+        "latitude": 48.6161147,
+        "city": "Saint-Pierre-du-Perray"
+      },
+      "metadata": {
+        "address": "Avenue du G\u00e9n\u00e9ral de Gaulle, 91280 Saint-Pierre-du-Perray",
+        "phone_number": "+33160757461",
+        "business_hours": {
+          "lundi": "08:30-19:00",
+          "mardi": "08:30-19:00",
+          "mercredi": "08:30-19:00",
+          "jeudi": "08:30-19:00",
+          "vendredi": "08:30-19:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "261128[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261128"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19 - Cerny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/cerny/centre-de-vaccination-covid-19-cerny",
+      "location": {
+        "longitude": 2.3327112,
+        "latitude": 48.4838002,
+        "city": "Cerny"
+      },
+      "metadata": {
+        "address": "Avenue Carnot, 91590 Cerny",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244294[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244294"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de Vaccination COVID - Conseil D\u00e9partemental de l'Essonne (CD91) - Breuillet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montgeron/centre-de-vaccination-covid-conseil-departemental-de-l-essonne-cd91?pid=practice-180823",
+      "location": {
+        "longitude": 2.1716586,
+        "latitude": 48.5649968,
+        "city": "Breuillet"
+      },
+      "metadata": {
+        "address": "Rue de la Gare, 91650 Breuillet",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242631[180823]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242631"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de Vaccination Covid-19 CH Bligny",
+      "url": "https://partners.doctolib.fr/centre-de-sante/fontenay-les-briis/centre-de-vaccination-covid-19-ch-bligny",
+      "location": {
+        "longitude": 2.150078,
+        "latitude": 48.620872,
+        "city": "Fontenay-l\u00e8s-Briis"
+      },
+      "metadata": {
+        "address": "Rue de Bligny, 91640 Fontenay-l\u00e8s-Briis",
+        "business_hours": {
+          "lundi": "09:30-12:30, 14:30-18:30",
+          "mardi": "09:30-12:30, 14:30-18:30",
+          "mercredi": "09:30-12:30, 14:30-18:30",
+          "jeudi": "09:30-12:30, 14:30-18:30",
+          "vendredi": "09:30-12:30, 14:30-18:30",
+          "samedi": "09:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262293[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262293"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19 - Corbeil-Essonnes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/corbeil-essonnes/centre-de-vaccination-covid-19-corbeil-essonne",
+      "location": {
+        "longitude": 2.4697786,
+        "latitude": 48.6054282,
+        "city": "Corbeil-Essonnes"
+      },
+      "metadata": {
+        "address": "90 Rue Feray, 91100 Corbeil-Essonnes",
+        "phone_number": "+33160897431",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261846[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261846"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de vaccination Covid-19- CH Sud Essonne",
+      "url": "https://partners.doctolib.fr/hopital-public/etampes/centre-de-vaccination-covid19-ch-sud-essonne",
+      "location": {
+        "longitude": 2.151654,
+        "latitude": 48.4210664,
+        "city": "\u00c9tampes"
+      },
+      "metadata": {
+        "address": "26 Avenue Charles de Gaulle, 91150 \u00c9tampes",
+        "phone_number": "+33160806060",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:45, 13:30-17:15",
+          "mercredi": "09:00-12:45, 13:30-17:15",
+          "jeudi": "09:00-12:45, 13:30-17:15",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240848[165171]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240848"
+    },
+    {
+      "departement": "91",
+      "nom": "Centre de Vaccination d'Arpajon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/arpajon/centre-de-vaccination-d-arpajon",
+      "location": {
+        "longitude": 2.249654,
+        "latitude": 48.5872849,
+        "city": "Arpajon"
+      },
+      "metadata": {
+        "address": "16 Boulevard Abel Cornaton, 91290 Arpajon",
+        "phone_number": "+33169261505",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243331[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243331"
+    }
+  ]
+}

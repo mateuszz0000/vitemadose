@@ -1,0 +1,804 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.975978+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Toulon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-176682",
+      "location": {
+        "longitude": 5.9315483,
+        "latitude": 43.1281544,
+        "city": "Toulon"
+      },
+      "metadata": {
+        "address": "Boulevard Commandant Nicolas, 83000 Toulon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-17T09:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 116,
+      "internal_id": "243226[176682-183302]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Toulon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-183302",
+      "location": {
+        "longitude": 5.9315483,
+        "latitude": 43.1281544,
+        "city": "Toulon"
+      },
+      "metadata": {
+        "address": "Boulevard Commandant Nicolas, 83000 Toulon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": "09:00-17:00",
+          "dimanche": "09:00-17:00"
+        }
+      },
+      "prochain_rdv": "2021-04-17T09:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 116,
+      "internal_id": "243226[183302-176682]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Fr\u00e9jus",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-183256",
+      "location": {
+        "longitude": 6.740769,
+        "latitude": 43.422105,
+        "city": "Fr\u00e9jus"
+      },
+      "metadata": {
+        "address": "Rue des Batteries, 83600 Fr\u00e9jus",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": "09:00-18:00",
+          "dimanche": "09:00-18:00"
+        }
+      },
+      "prochain_rdv": "2021-04-17T11:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 64,
+      "internal_id": "243226[183256]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Le Luc",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-168426",
+      "location": {
+        "longitude": 6.3125112,
+        "latitude": 43.393082,
+        "city": "Le Luc"
+      },
+      "metadata": {
+        "address": "Rue Pierre Gaudin, 83340 Le Luc",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-28T15:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "243226[168426]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid-19 - H\u00f4pital d'Instruction des Arm\u00e9es (HIA) Sainte-Anne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/toulon/centre-de-vaccination-covid-19-hopital-d-instruction-des-armees-chia-sainte-anne",
+      "location": {
+        "longitude": 5.9209205,
+        "latitude": 43.1264043,
+        "city": "Toulon"
+      },
+      "metadata": {
+        "address": "1 Avenue Amiral Aube, 83200 Toulon",
+        "business_hours": {
+          "lundi": "07:45-17:15",
+          "mardi": "07:45-17:15",
+          "mercredi": "07:45-17:15",
+          "jeudi": "07:45-17:15",
+          "vendredi": "07:45-17:15",
+          "samedi": "07:45-17:15",
+          "dimanche": "07:45-17:15"
+        }
+      },
+      "prochain_rdv": "2021-04-30T14:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 785,
+      "internal_id": "251058[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d251058"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "83",
+      "nom": "Pharmacie des Bastides",
+      "url": "https://partners.doctolib.fr/pharmacie/pourrieres/pharmacie-des-bastides",
+      "location": {
+        "longitude": 5.7369551,
+        "latitude": 43.5032878,
+        "city": "Pourri\u00e8res"
+      },
+      "metadata": {
+        "address": "50 Avenue des Bastides, 83910 Pourri\u00e8res",
+        "phone_number": "+33494784161",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:30-19:30",
+          "mardi": "08:30-12:30, 14:30-19:30",
+          "mercredi": "08:30-12:30, 14:30-19:30",
+          "jeudi": "08:30-12:30, 14:30-19:30",
+          "vendredi": "08:30-12:30, 14:30-19:30",
+          "samedi": "08:30-12:30, 15:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "261557[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261557"
+    },
+    {
+      "departement": "83",
+      "nom": "Centres de vaccination Covid-19 de Draguignan - Vaccination Covid-19 - Draguignan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/draguignan/centres-de-vaccination-de-draguignan",
+      "location": {
+        "longitude": 6.454761,
+        "latitude": 43.546686,
+        "city": "Draguignan"
+      },
+      "metadata": {
+        "address": "Route de Montferrat, 83300 Draguignan",
+        "phone_number": "+33494605626",
+        "business_hours": {
+          "lundi": "09:00-16:00",
+          "mardi": "09:00-16:00",
+          "mercredi": "09:00-16:00",
+          "jeudi": "09:00-16:00",
+          "vendredi": "09:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243508[164181]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243508"
+    },
+    {
+      "departement": "83",
+      "nom": "Centres de vaccination Covid-19 de Draguignan - Vaccination Covid-19 - Draguignan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/draguignan/centres-de-vaccination-de-draguignan?pid=practice-165072",
+      "location": {
+        "longitude": 6.4698582,
+        "latitude": 43.5356423,
+        "city": "Draguignan"
+      },
+      "metadata": {
+        "address": "Place de la Paix, 83300 Draguignan",
+        "phone_number": "+33483083085",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243508[165072]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243508"
+    },
+    {
+      "departement": "83",
+      "nom": "CHI FSR - Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/frejus/centre-hospitalier-intercommunal-de-frejus-saint-raphael-vaccination-covid-19",
+      "location": {
+        "longitude": 6.7531464,
+        "latitude": 43.4388941,
+        "city": "Fr\u00e9jus"
+      },
+      "metadata": {
+        "address": "240 Avenue de Saint-Lambert, 83600 Fr\u00e9jus",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240708[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240708"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre Hospitalier de Saint-Tropez Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/gassin/centre-hospitalier-de-saint-tropez-reserve-aux-professionnels-de-sante",
+      "location": {
+        "longitude": 6.585578,
+        "latitude": 43.228355,
+        "city": "GASSIN"
+      },
+      "metadata": {
+        "address": "ROND POINT GAL DIEGO BROSSET RD559, 83580 GASSIN",
+        "phone_number": "+33498125000",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240834[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240834"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Toulon",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var",
+      "location": {
+        "longitude": 5.936294,
+        "latitude": 43.1129144,
+        "city": "Toulon"
+      },
+      "metadata": {
+        "address": "83100 Rue Pr\u00e9sident Robert Schuman, 83000 Toulon",
+        "phone_number": "+33800808083",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165066]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Hy\u00e8res",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165067",
+      "location": {
+        "longitude": 6.1316564,
+        "latitude": 43.1183961,
+        "city": "Hy\u00e8res"
+      },
+      "metadata": {
+        "address": "3 Avenue Ambroise Thomas, 83400 Hy\u00e8res",
+        "phone_number": "+33422146451",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165067]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Saint-Maximin-la-Sainte-Baume",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173157",
+      "location": {
+        "longitude": 5.8578279,
+        "latitude": 43.454915,
+        "city": "Saint-Maximin-la-Sainte-Baume"
+      },
+      "metadata": {
+        "address": "Place de Lattre de Tassigny, 83470 Saint-Maximin-la-Sainte-Baume",
+        "phone_number": "+33494729323",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[173157]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Fr\u00e9jus",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173153",
+      "location": {
+        "longitude": 6.7427017,
+        "latitude": 43.4180324,
+        "city": "Fr\u00e9jus"
+      },
+      "metadata": {
+        "address": "1196 Boulevard de la Mer, 83600 Fr\u00e9jus",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[173153-165069]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - La Londe-les-Maures",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-174190",
+      "location": {
+        "longitude": 6.2340335,
+        "latitude": 43.1420827,
+        "city": "La Londe-les-Maures"
+      },
+      "metadata": {
+        "address": "Rue de la Salle des F\u00eates, 83250 La Londe-les-Maures",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[174190]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination COVID 19 du CHITS - Toulon",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon",
+      "location": {
+        "longitude": 5.975721,
+        "latitude": 43.1244323,
+        "city": "Toulon"
+      },
+      "metadata": {
+        "address": "54 Rue Henri Sainte-Claire Deville, 83100 Toulon",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249196[169719]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d249196"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Fayence",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-173156",
+      "location": {
+        "longitude": 6.6929224,
+        "latitude": 43.6224198,
+        "city": "Fayence"
+      },
+      "metadata": {
+        "address": "38 Avenue Robert Fabre, 83440 Fayence",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[173156]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Brignoles",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165073",
+      "location": {
+        "longitude": 6.0648868,
+        "latitude": 43.4140299,
+        "city": "Brignoles"
+      },
+      "metadata": {
+        "address": "Chemin des Archers, 83170 Brignoles",
+        "phone_number": "+33494861595",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165073]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Aups",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-170083",
+      "location": {
+        "longitude": 6.2233807,
+        "latitude": 43.6271435,
+        "city": "Aups"
+      },
+      "metadata": {
+        "address": "Place Fr\u00e9d\u00e9ric Mistral, 83630 Aups",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "11:00-16:00",
+          "mercredi": "11:00-16:00",
+          "jeudi": "11:00-16:00",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[170083]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - La Garde",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-166708",
+      "location": {
+        "longitude": 6.0118922,
+        "latitude": 43.1262313,
+        "city": "La Garde"
+      },
+      "metadata": {
+        "address": "131 Avenue Baptistin Autran, 83130 La Garde",
+        "phone_number": "+33494482235",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[166708]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Fr\u00e9jus",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165069",
+      "location": {
+        "longitude": 6.7427017,
+        "latitude": 43.4180324,
+        "city": "Fr\u00e9jus"
+      },
+      "metadata": {
+        "address": "1196 Boulevard de la Mer, 83600 Fr\u00e9jus",
+        "phone_number": "+33494519160",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165069-173153]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - La Seyne-sur-Mer",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165068",
+      "location": {
+        "longitude": 5.863553,
+        "latitude": 43.1122227,
+        "city": "La Seyne-sur-Mer"
+      },
+      "metadata": {
+        "address": "1353 Avenue Yitzhak Rabin, 83500 La Seyne-sur-Mer",
+        "phone_number": "+33494069600",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165068]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Le Beausset",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-176700",
+      "location": {
+        "longitude": 5.8122256,
+        "latitude": 43.1928572,
+        "city": "Le Beausset"
+      },
+      "metadata": {
+        "address": "Rue Marcelle Drutel, 83330 Le Beausset",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[176700]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Grimaud",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165071",
+      "location": {
+        "longitude": 6.5598267,
+        "latitude": 43.2708979,
+        "city": "Grimaud"
+      },
+      "metadata": {
+        "address": "834 Route des Blaquieres, 83310 Grimaud",
+        "phone_number": "+33615169133",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165071]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination COVID 19 du CHITS - La Garde",
+      "url": "https://partners.doctolib.fr/hopital-public/toulon/centre-de-vaccination-covid-19-du-chits-toulon?pid=practice-162560",
+      "location": {
+        "longitude": 6.0150307,
+        "latitude": 43.1321086,
+        "city": "La Garde"
+      },
+      "metadata": {
+        "address": "421 Avenue 1er Bataillon Infanterie de Marine du Pacifique, 83130 La Garde",
+        "phone_number": "+33494088625",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": null,
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "249196[162560]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d249196"
+    },
+    {
+      "departement": "83",
+      "nom": "Centre de vaccination Covid 19 du VAR - Vaccination Covid-19 - Draguignan",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/toulon/centre-de-vaccination-covid-19-du-var?pid=practice-165072",
+      "location": {
+        "longitude": 6.4698582,
+        "latitude": 43.5356423,
+        "city": "Draguignan"
+      },
+      "metadata": {
+        "address": "Place de la Paix, 83300 Draguignan",
+        "phone_number": "+33483083085",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243226[165072]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243226"
+    }
+  ]
+}

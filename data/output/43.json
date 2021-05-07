@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.949091+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "43",
+      "nom": "Cabinet de pneumologie de la Clinique Bon Secours",
+      "url": "https://partners.doctolib.fr/cabinet-medical/le-puy-en-velay/cabinet-de-pneumologie-de-la-clinique-bon-secours",
+      "location": {
+        "longitude": 3.8873897,
+        "latitude": 45.0349181,
+        "city": "Le Puy-en-Velay"
+      },
+      "metadata": {
+        "address": "67 Avenue Mar\u00e9chal Foch, 43000 Le Puy-en-Velay",
+        "phone_number": "+33471098825",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-17:30",
+          "mardi": "09:00-13:00, 14:00-17:30",
+          "mercredi": "09:00-13:00, 14:00-17:30",
+          "jeudi": "09:00-13:00, 14:00-17:30",
+          "vendredi": "09:00-13:00, 14:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256238[125336]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256238"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination Covid-19 - Yssingeaux / Monistrol - Yssingeaux",
+      "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux",
+      "location": {
+        "longitude": 4.1297149,
+        "latitude": 45.1501477,
+        "city": "Yssingeaux"
+      },
+      "metadata": {
+        "address": "26 Avenue du Huit Mai 1945, 43200 Yssingeaux",
+        "phone_number": "+33471657708",
+        "business_hours": {
+          "lundi": "08:30-12:00, 13:30-17:30",
+          "mardi": "08:30-12:00, 13:30-17:30",
+          "mercredi": "08:30-12:00, 13:30-17:30",
+          "jeudi": "08:30-12:00, 13:30-17:30",
+          "vendredi": "08:30-12:00, 13:30-17:30",
+          "samedi": "08:30-12:00, 13:30-17:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244634[165197]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244634"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination Covid-19 - CH Brioude/Langeac",
+      "url": "https://partners.doctolib.fr/hopital-public/brioude/centre-de-vaccination-covid19-ch-brioude?pid=practice-170884",
+      "location": {
+        "longitude": 3.49246346925312,
+        "latitude": 45.0958292659652,
+        "city": "Langeac"
+      },
+      "metadata": {
+        "address": "Rue du 19 mars 1962, 43300 Langeac",
+        "phone_number": "+33471770950",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241081[170884]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241081"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination Covid-19 - Yssingeaux / Monistrol - Monistrol-sur-Loire",
+      "url": "https://partners.doctolib.fr/hopital-public/yssingeaux/centre-de-vaccination-covid-19-ch-de-yssingeaux?pid=practice-170373",
+      "location": {
+        "longitude": 4.1719662,
+        "latitude": 45.2919945,
+        "city": "Monistrol-sur-Loire"
+      },
+      "metadata": {
+        "address": "9 Avenue de la Lib\u00e9ration, 43120 Monistrol-sur-Loire",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244634[170373]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244634"
+    },
+    {
+      "departement": "43",
+      "nom": "Centre de vaccination Covid-19 - CH Le Puy-en-Velay",
+      "url": "https://partners.doctolib.fr/hopital-public/espaly-saint-marcel/centre-de-vaccination-covid-19-ch-puy-en-velay",
+      "location": {
+        "longitude": 3.877134,
+        "latitude": 45.047634,
+        "city": "Le Puy-en-Velay"
+      },
+      "metadata": {
+        "address": "Place de la Lib\u00e9ration, 43000 Le Puy-en-Velay",
+        "phone_number": "+33471043314",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242975[164904]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242975"
+    }
+  ]
+}

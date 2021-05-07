@@ -1,0 +1,553 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.933621+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "17",
+      "nom": "Pharmacie Du Port",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-du-port-saint-martin-de-re",
+      "location": {
+        "longitude": -1.3683235,
+        "latitude": 46.20429920000001,
+        "city": "saint-martin-de-re"
+      },
+      "metadata": {
+        "address": "7 rue de Sully, 17410 Saint Martin de R\u00e9",
+        "phone_number": "+33546092043",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "836ca4db"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de Vaccination Covid-19 - Communaut\u00e9 d'Agglom\u00e9ration Rochefort-Oc\u00e9an",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/rochefort/centre-de-vaccination-communaute-d-agglomeration-rochefort-ocean",
+      "location": {
+        "longitude": -0.9591044,
+        "latitude": 45.9348782,
+        "city": "Rochefort"
+      },
+      "metadata": {
+        "address": "73 Rue Toufaire, 17300 Rochefort",
+        "phone_number": "+33546826556",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242562[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242562"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination Covid-19 - Haute Saintonge",
+      "url": "https://partners.doctolib.fr/hopital-public/haute-saintonge/centre-de-vaccination-covid-19-haute-saintonge",
+      "location": {
+        "longitude": -0.421956,
+        "latitude": 45.4383639,
+        "city": "Jonzac"
+      },
+      "metadata": {
+        "address": "57 Avenue Jean Moulin, 17500 Jonzac",
+        "phone_number": "+33517240348",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242640[164575]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242640"
+    },
+    {
+      "departement": "17",
+      "nom": "Centres de vaccination Covid 19 - Agglom\u00e9ration de La Rochelle - Vaccination Covid-19 - La Rochelle",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle",
+      "location": {
+        "longitude": -1.1495258,
+        "latitude": 46.1507341,
+        "city": "La Rochelle"
+      },
+      "metadata": {
+        "address": "Quai Louis Prunier, 17000 La Rochelle",
+        "phone_number": "+33546305717",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243501[165304]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243501"
+    },
+    {
+      "departement": "17",
+      "nom": "Aunis Atlantique - Ville de Marans - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/marans/aunis-atlantique-ville-de-marans",
+      "location": {
+        "longitude": -0.996123,
+        "latitude": 46.308853,
+        "city": "Marans"
+      },
+      "metadata": {
+        "address": "Rue de Bordeaux, 17230 Marans",
+        "phone_number": "+33532920601",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242843[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242843"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination COVID - Centre Hospitalier de Saintonge - Saintes",
+      "url": "https://partners.doctolib.fr/hopital-public/saintes/centre-de-vaccination-covid-centre-hospitalier-de-saintonge?pid=practice-164573",
+      "location": {
+        "longitude": -0.626344,
+        "latitude": 45.741903,
+        "city": "Saintes"
+      },
+      "metadata": {
+        "address": "Cours Charles de Gaulle, 17100 Saintes",
+        "phone_number": "+33546923414",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244963[164573]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244963"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination Covid-19 de Marennes",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/marennes-hiers-brouage/centre-de-vaccination-de-marennes",
+      "location": {
+        "longitude": -1.0979342,
+        "latitude": 45.8266469,
+        "city": "Marennes-Hiers-Brouage"
+      },
+      "metadata": {
+        "address": "Rue Jean Moulin, 17320 Marennes-Hiers-Brouage",
+        "phone_number": "+33586570015",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-16:30",
+          "mardi": "09:00-12:00, 12:00-13:00",
+          "mercredi": "09:00-12:00, 12:00-13:00",
+          "jeudi": "09:00-12:00, 12:00-13:00",
+          "vendredi": "09:00-12:00, 12:00-13:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243108[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243108"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination Covid-19 - Castel Park",
+      "url": "https://partners.doctolib.fr/centre-de-sante/surgeres/centre-de-vaccination-castel-park",
+      "location": {
+        "longitude": -0.752396,
+        "latitude": 46.109665,
+        "city": "Surg\u00e8res"
+      },
+      "metadata": {
+        "address": "Impasse du Castel Park, 17700 Surg\u00e8res",
+        "phone_number": "+33546070684",
+        "business_hours": {
+          "lundi": "09:00-17:30",
+          "mardi": "09:00-17:30",
+          "mercredi": "09:00-17:30",
+          "jeudi": "09:00-17:30",
+          "vendredi": "09:00-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243304[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243304"
+    },
+    {
+      "departement": "17",
+      "nom": "Centres de vaccination Covid 19 - Agglom\u00e9ration de La Rochelle - Vaccination Covid-19 - Nieul-sur-Mer",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-173645",
+      "location": {
+        "longitude": -1.169813,
+        "latitude": 46.205582,
+        "city": "Nieul-sur-Mer"
+      },
+      "metadata": {
+        "address": "Rue de Lauzi\u00e8res, 17137 Nieul-sur-Mer",
+        "phone_number": "+33546305717",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243501[173645]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243501"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination COVID - Centre Hospitalier de Saintonge - Saintes",
+      "url": "https://partners.doctolib.fr/hopital-public/saintes/centre-de-vaccination-covid-centre-hospitalier-de-saintonge",
+      "location": {
+        "longitude": -0.6558783,
+        "latitude": 45.7465621,
+        "city": "Saintes"
+      },
+      "metadata": {
+        "address": "11 Boulevard Ambroise Par\u00e9, 17100 Saintes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244963[166500]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244963"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre Hospitalier de Saintonge",
+      "url": "https://partners.doctolib.fr/hopital-public/saintes/centre-hospitalier-de-saintonge-saintes",
+      "location": {
+        "longitude": -0.6558783,
+        "latitude": 45.7465621,
+        "city": "Saintes"
+      },
+      "metadata": {
+        "address": "11 Boulevard Ambroise Par\u00e9, 17100 Saintes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "218600[166500]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d218600"
+    },
+    {
+      "departement": "17",
+      "nom": "Pharmacie de l'Europe",
+      "url": "https://partners.doctolib.fr/pharmacie/la-rochelle/pharmacie-de-l-europe-la-rochelle",
+      "location": {
+        "longitude": -1.1787991,
+        "latitude": 46.166407,
+        "city": "La Rochelle"
+      },
+      "metadata": {
+        "address": "1 Passage de l'Europe, 17000 La Rochelle",
+        "phone_number": "+33546423200",
+        "business_hours": {
+          "lundi": "08:45-20:00",
+          "mardi": "08:45-20:00",
+          "mercredi": "08:45-20:00",
+          "jeudi": "08:45-20:00",
+          "vendredi": "08:45-20:00",
+          "samedi": "08:45-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "262254[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262254"
+    },
+    {
+      "departement": "17",
+      "nom": "Centres de vaccination Covid 19 - Agglom\u00e9ration de La Rochelle - Vaccination Covid-19 - Ch\u00e2telaillon-Plage",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-165808",
+      "location": {
+        "longitude": -1.079599,
+        "latitude": 46.075776,
+        "city": "Ch\u00e2telaillon-Plage"
+      },
+      "metadata": {
+        "address": "9 Rue des Sulkys, 17340 Ch\u00e2telaillon-Plage",
+        "phone_number": "+33546305717",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243501[165808]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243501"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination COVID - Royan Atlantique",
+      "url": "https://partners.doctolib.fr/centre-de-sante/centre-de-vaccination-covid-royan-atlantique/centre-de-vaccination-covid-royan-atlantique",
+      "location": {
+        "longitude": -1.0024877,
+        "latitude": 45.6199317,
+        "city": "Royan"
+      },
+      "metadata": {
+        "address": "24 Rue Henry Dunant, 17200 Royan",
+        "phone_number": "+33546396439",
+        "business_hours": {
+          "lundi": "09:30-12:15, 14:00-17:15",
+          "mardi": "09:30-12:15, 14:00-17:15",
+          "mercredi": "09:30-12:15, 14:00-17:15",
+          "jeudi": "09:30-12:15, 14:00-17:15",
+          "vendredi": "09:30-12:15, 14:00-17:15",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262232[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262232"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination COVID - Ville Pont l'abb\u00e9 d'arnoult",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pont-l-abbe-d-arnoult/centre-de-vaccination-covid-ville-pont-l-abbe-d-arnoult",
+      "location": {
+        "longitude": -0.8728575,
+        "latitude": 45.8286979,
+        "city": "Pont-l'Abb\u00e9-d'Arnoult"
+      },
+      "metadata": {
+        "address": "54 Rue de Verdun, 17250 Pont-l'Abb\u00e9-d'Arnoult",
+        "phone_number": "+33546931601",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": "09:00-12:00, 14:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243275[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243275"
+    },
+    {
+      "departement": "17",
+      "nom": "Centres de vaccination Covid 19 - Agglom\u00e9ration de La Rochelle - Vaccination Covid-19 - La Rochelle",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-rochelle/centre-de-vaccination-covid-19-ville-de-la-rochelle-la-rochelle?pid=practice-182187",
+      "location": {
+        "longitude": -1.1495258,
+        "latitude": 46.1507341,
+        "city": "La Rochelle"
+      },
+      "metadata": {
+        "address": "Quai Louis Prunier, 17000 La Rochelle",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243501[182187-165304]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243501"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de Vaccination Covid-19 - Ville de Saint Martin de R\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-re/centre-de-vaccination-covid-19-ville-de-saint-martin-de-re-saint-martin-de-re?pid=practice-176599",
+      "location": {
+        "longitude": -1.3559619,
+        "latitude": 46.1933699,
+        "city": "Saint-Martin-de-R\u00e9"
+      },
+      "metadata": {
+        "address": "Avenue Philippsburg, 17410 Saint-Martin-de-R\u00e9",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243147[176599]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243147"
+    },
+    {
+      "departement": "17",
+      "nom": "Centre de vaccination Covid-19 - Saint Jean-d'Ang\u00e9ly",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-jean-d-angely/centre-de-vaccination-covid-19-saint-jean-d-angely",
+      "location": {
+        "longitude": -0.5298532,
+        "latitude": 45.9468459,
+        "city": "Saint-Jean-d'Ang\u00e9ly"
+      },
+      "metadata": {
+        "address": "18 Avenue du Port, 17400 Saint-Jean-d'Ang\u00e9ly",
+        "phone_number": "+33546951111",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242637[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242637"
+    }
+  ]
+}

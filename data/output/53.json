@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.952998+02:00",
+  "centres_disponibles": [],
+  "centres_indisponibles": [
+    {
+      "departement": "53",
+      "nom": "Centre de vaccination Covid-19 de Laval",
+      "url": "https://partners.doctolib.fr/centre-de-sante/laval/centres-de-vaccination-de-la-mayenne",
+      "location": {
+        "longitude": -0.7722044,
+        "latitude": 48.0660721,
+        "city": "Laval"
+      },
+      "metadata": {
+        "address": "Place de Herc\u00e9, 53000 Laval",
+        "phone_number": "+33243535300",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": "08:00-20:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256269[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256269"
+    },
+    {
+      "departement": "53",
+      "nom": "Centres de vaccination COVID-19 de la Mayenne - Villaines-la-Juhel",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mayenne/pole-de-sante-de-mayenne-centre-de-vaccination?pid=practice-180098",
+      "location": {
+        "longitude": -0.2833557,
+        "latitude": 48.3441861,
+        "city": "Villaines-la-Juhel"
+      },
+      "metadata": {
+        "address": "4 rue Pierre Cadot, 53700 Villaines-la-Juhel",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "08:30-13:00, 14:00-18:30",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242222[180098]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242222"
+    },
+    {
+      "departement": "53",
+      "nom": "Centres de vaccination COVID-19 de la Mayenne - Mayenne",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mayenne/pole-de-sante-de-mayenne-centre-de-vaccination?pid=practice-181021",
+      "location": {
+        "longitude": -0.6114054,
+        "latitude": 48.2968871,
+        "city": "Mayenne"
+      },
+      "metadata": {
+        "address": "Rue Volney, 53100 Mayenne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242222[181021]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242222"
+    },
+    {
+      "departement": "53",
+      "nom": "Centres de vaccination COVID-19 de la Mayenne - Meslay-du-Maine",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mayenne/pole-de-sante-de-mayenne-centre-de-vaccination",
+      "location": {
+        "longitude": -0.5528982,
+        "latitude": 47.9518456,
+        "city": "Meslay-du-Maine"
+      },
+      "metadata": {
+        "address": "16 Place de la Poste, 53170 Meslay-du-Maine",
+        "phone_number": "+33243535300",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242222[164911]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242222"
+    },
+    {
+      "departement": "53",
+      "nom": "Centres de vaccination COVID-19 de la Mayenne - Laval",
+      "url": "https://partners.doctolib.fr/maison-de-sante/mayenne/pole-de-sante-de-mayenne-centre-de-vaccination?pid=practice-164879",
+      "location": {
+        "longitude": -0.7722044,
+        "latitude": 48.0660721,
+        "city": "Laval"
+      },
+      "metadata": {
+        "address": "Place de Herc\u00e9, 53000 Laval",
+        "phone_number": "+33243535300",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": "08:00-20:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242222[164879]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242222"
+    }
+  ]
+}

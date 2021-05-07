@@ -1,0 +1,316 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.929200+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID \u2013 Troyes Champagne M\u00e9tropole",
+      "url": "https://partners.doctolib.fr/centre-de-sante/troyes/centre-de-vaccination-covid-troyes-champagne-metropole-ex-lidl?pid=practice-175998",
+      "location": {
+        "longitude": 4.0713005,
+        "latitude": 48.2884871,
+        "city": "Troyes"
+      },
+      "metadata": {
+        "address": "20 Rue des Gayettes, 10000 Troyes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-23T08:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 116,
+      "internal_id": "243483[175998]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243483"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination Covid-19 MSP Bar-sur-Aube",
+      "url": "https://partners.doctolib.fr/maison-de-sante/bar-sur-aube/centre-de-vaccination-msp-bar-sur-aube",
+      "location": {
+        "longitude": 4.7030731,
+        "latitude": 48.2357411,
+        "city": "Bar-sur-Aube"
+      },
+      "metadata": {
+        "address": "15 Avenue du G\u00e9n\u00e9ral Leclerc, 10200 Bar-sur-Aube",
+        "phone_number": "+33325925337",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243313[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243313"
+    },
+    {
+      "departement": "10",
+      "nom": "Dr Constantin Goian",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/villenauxe-la-grande/constantin-goian",
+      "location": {
+        "longitude": 3.55465649999996,
+        "latitude": 48.5875706,
+        "city": "Villenauxe-la-Grande"
+      },
+      "metadata": {
+        "address": "35 Bis Rue du Ch\u00e2teau, 10370 Villenauxe-la-Grande",
+        "phone_number": "+33325213019",
+        "business_hours": {
+          "lundi": "09:00-19:00",
+          "mardi": "09:00-19:00",
+          "mercredi": "09:00-19:00",
+          "jeudi": "09:00-19:00",
+          "vendredi": "09:00-19:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "158741[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d158741"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID \u2013 Troyes Champagne M\u00e9tropole - Troyes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/troyes/centre-de-vaccination-covid-troyes-champagne-metropole-ex-lidl?pid=practice-163751",
+      "location": {
+        "longitude": 4.0688439,
+        "latitude": 48.2789646,
+        "city": "Troyes"
+      },
+      "metadata": {
+        "address": "101 Avenue Anatole France, 10000 Troyes",
+        "phone_number": "+33325497584",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243483[163751]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243483"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID \u2013 Troyes Champagne M\u00e9tropole - Troyes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/troyes/centre-de-vaccination-covid-troyes-champagne-metropole-ex-lidl",
+      "location": {
+        "longitude": 4.0951898,
+        "latitude": 48.3044316,
+        "city": "Troyes"
+      },
+      "metadata": {
+        "address": "Avenue Mar\u00e9chal de Lattre de Tassigny, 10000 Troyes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243483[163757]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243483"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID \u2013 H\u00f4pitaux Champagne Sud",
+      "url": "https://partners.doctolib.fr/hopital-public/troyes/vaccination-covid-19-dans-l-aube",
+      "location": {
+        "longitude": 4.0688439,
+        "latitude": 48.2789646,
+        "city": "Troyes"
+      },
+      "metadata": {
+        "address": "101 Avenue Anatole France, 10000 Troyes",
+        "phone_number": "+33325497584",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241806[163751]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241806"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID-19 - SDIS de l'Aube",
+      "url": "https://partners.doctolib.fr/centre-de-sante/troyes/centre-de-vaccination-covid-19-sdis-de-l-aube",
+      "location": {
+        "longitude": 4.0871627,
+        "latitude": 48.2918151,
+        "city": "Troyes"
+      },
+      "metadata": {
+        "address": "27 Chauss\u00e9e du Vouldy, 10000 Troyes",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256106[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256106"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID - CPTS du Sud-Est Aubois - site MSP de Bar-sur-Seine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bar-sur-seine/centre-de-vaccination-covid-maison-de-sante-du-barsequanais",
+      "location": {
+        "longitude": 4.3731808,
+        "latitude": 48.1199332,
+        "city": "Bar-sur-Seine"
+      },
+      "metadata": {
+        "address": "6b Rue du Stade, 10110 Bar-sur-Seine",
+        "phone_number": "+33674308462",
+        "business_hours": {
+          "lundi": "09:00-12:30",
+          "mardi": "09:00-12:30",
+          "mercredi": "09:00-12:30",
+          "jeudi": "09:00-12:30",
+          "vendredi": "09:00-12:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242864[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242864"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination COVID - EASI (Clinique de Champagne)",
+      "url": "https://partners.doctolib.fr/clinique-privee/troyes/centre-de-vaccination-covid-easi",
+      "location": {
+        "longitude": 4.0532677,
+        "latitude": 48.3067455,
+        "city": "Troyes"
+      },
+      "metadata": {
+        "address": "4 Rue Chaim Soutine, 10000 Troyes",
+        "phone_number": "+33351482293",
+        "business_hours": {
+          "lundi": "08:30-10:30, 12:00-14:00",
+          "mardi": "08:30-10:30, 12:00-14:00",
+          "mercredi": "08:30-10:30, 12:00-14:00",
+          "jeudi": "08:30-10:30, 12:00-14:00",
+          "vendredi": "08:30-10:30, 12:00-14:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242178[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242178"
+    },
+    {
+      "departement": "10",
+      "nom": "Centre de vaccination Romilly-sur-Seine",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/troyes/centre-de-vaccination-romilly-sur-seine",
+      "location": {
+        "longitude": 3.7246104,
+        "latitude": 48.511223,
+        "city": "Romilly-sur-Seine"
+      },
+      "metadata": {
+        "address": "70 Avenue Pierre Brossolette, 10100 Romilly-sur-Seine",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:30",
+          "mardi": "08:30-12:30, 13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": "13:00-17:00",
+          "dimanche": "13:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258142[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258142"
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.934348+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination COVID-19 - Aubigny sur N\u00e8re",
+      "url": "https://partners.doctolib.fr/maison-de-sante/aubigny-sur-nere/centre-de-vaccination-covid-19-aubigny-sur-nere",
+      "location": {
+        "longitude": 2.4472727,
+        "latitude": 47.4850084,
+        "city": "Aubigny-sur-N\u00e8re"
+      },
+      "metadata": {
+        "address": "116 D7, 18700 Aubigny-sur-N\u00e8re",
+        "phone_number": "+33248673598",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-29T10:50:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "243048[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d243048"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid-19 - Saint-Doulchard",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-doulchard/centre-de-vaccination-covid-19-saint-doulchard",
+      "location": {
+        "longitude": 2.3687502,
+        "latitude": 47.0981491,
+        "city": "Saint-Doulchard"
+      },
+      "metadata": {
+        "address": "1 Rue Dr Laennec, 18230 Saint-Doulchard",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-16T16:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "258100[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d258100"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid-19 - Saint-Amand-Montrond - Saint-Amand-Montrond",
+      "url": "https://partners.doctolib.fr/maison-de-sante/saint-amand-montrond/centre-de-vaccination-covid-19-saint-amand-montrond",
+      "location": {
+        "longitude": 2.5291129,
+        "latitude": 46.7245914,
+        "city": "Saint-Amand-Montrond"
+      },
+      "metadata": {
+        "address": "240 Rue des Orpailleurs, 18200 Saint-Amand-Montrond",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "13:30-17:30",
+          "mardi": "13:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "13:30-17:30",
+          "vendredi": "13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243520[164374]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243520"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination COVID-19 d\u00e9l\u00e9gation d\u00e9partementale du SDIS du Cher",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourges/centre-de-vaccination-covid-19-delegation-departementale-du-sdis-du-cher",
+      "location": {
+        "longitude": 2.3568733,
+        "latitude": 47.0827264,
+        "city": "Bourges"
+      },
+      "metadata": {
+        "address": "224 Rue Louis Mallet, 18000 Bourges",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "267433[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d267433"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid-19 de Vierzon",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vierzon/centre-de-vaccination-de-vierzon",
+      "location": {
+        "longitude": 2.059406,
+        "latitude": 47.2246221,
+        "city": "Vierzon"
+      },
+      "metadata": {
+        "address": "16 Rue de la Soci\u00e9t\u00e9 Fran\u00e7aise, 18100 Vierzon",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "10:00-12:00",
+          "mercredi": "10:00-12:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": "10:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242670[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242670"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid-19 - Saint-Amand-Montrond - Saint-Satur",
+      "url": "https://partners.doctolib.fr/maison-de-sante/saint-amand-montrond/centre-de-vaccination-covid-19-saint-amand-montrond?pid=practice-164375",
+      "location": {
+        "longitude": 2.8562943,
+        "latitude": 47.3357192,
+        "city": "Saint-Satur"
+      },
+      "metadata": {
+        "address": "Rue du Pr\u00e9 de Chappes, 18300 Saint-Satur",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "09:00-13:00",
+          "vendredi": null,
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243520[164375]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243520"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid -19- Saint-Satur",
+      "url": "https://partners.doctolib.fr/maison-de-sante/saint-amand-montrond/cpts-sud-du-cher-et-berry-val-de-loire-vaccination",
+      "location": {
+        "longitude": 2.8562943,
+        "latitude": 47.3357192,
+        "city": "Saint-Satur"
+      },
+      "metadata": {
+        "address": "Rue du Pr\u00e9 de Chappes, 18300 Saint-Satur",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": "09:00-13:00",
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": "09:00-13:00",
+          "vendredi": null,
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242439[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242439"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid-19 de Sancoins",
+      "url": "https://partners.doctolib.fr/centre-de-sante/sancoins/centre-de-vaccination-covid-19-de-sancoins",
+      "location": {
+        "longitude": 2.9184772,
+        "latitude": 46.8281016,
+        "city": "Sancoins"
+      },
+      "metadata": {
+        "address": "3 Rue de l'Industrie, 18600 Sancoins",
+        "business_hours": {
+          "lundi": "14:00-18:30",
+          "mardi": "14:00-18:30",
+          "mercredi": "14:00-18:30",
+          "jeudi": "14:00-18:30",
+          "vendredi": "14:00-18:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242633[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242633"
+    },
+    {
+      "departement": "18",
+      "nom": "Centre de vaccination Covid-19 - Chateaumeillant",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateaumeillant/centre-de-vaccination-covid-19-chateaumeillant",
+      "location": {
+        "longitude": 2.1932634,
+        "latitude": 46.5576179,
+        "city": "Ch\u00e2teaumeillant"
+      },
+      "metadata": {
+        "address": "Rue Bazannerie, 18370 Ch\u00e2teaumeillant",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251541[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d251541"
+    },
+    {
+      "departement": "18",
+      "nom": "CPTS Pays de Bourges - Centre de vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bourges/cpts-pays-de-bourge",
+      "location": {
+        "longitude": 2.3865358,
+        "latitude": 47.0826436,
+        "city": "Bourges"
+      },
+      "metadata": {
+        "address": "Rue du Champ de Foire, 18000 Bourges",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242578[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242578"
+    }
+  ]
+}

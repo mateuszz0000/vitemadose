@@ -1,0 +1,464 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.947521+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination du Seignanx",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-martin-de-seignanx/centre-de-vaccination-du-seignanx",
+      "location": {
+        "longitude": -1.3902878,
+        "latitude": 43.5406569,
+        "city": "Saint-Martin-de-Seignanx"
+      },
+      "metadata": {
+        "address": "Rue du Seignanx, 40390 Saint-Martin-de-Seignanx",
+        "phone_number": "+33559599592",
+        "business_hours": {
+          "lundi": "08:30-12:30, 14:00-17:00",
+          "mardi": "08:30-12:30, 14:00-17:00",
+          "mercredi": "08:30-12:30, 14:00-17:00",
+          "jeudi": "08:30-12:30, 14:00-17:00",
+          "vendredi": "08:30-12:30, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-19T15:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 2,
+      "internal_id": "259116[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d259116"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de Vaccination de Mimizan",
+      "url": "https://www.maiia.com/centre-de-vaccination/40200-mimizan/centre-de-vaccination---forum-mimizan",
+      "location": {
+        "longitude": -1.22794,
+        "latitude": 44.2015,
+        "city": "Mimizan"
+      },
+      "metadata": {
+        "address": " Rue du Jardin Public, 40200 Mimizan",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9:00-13:00/14:00-18:00",
+          "mercredi": "9:00-13:00/14:00-18h00",
+          "jeudi": "9:00-13:00/14:00-18:00",
+          "vendredi": "9:00-13:00/14:00-18:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-20T14:00:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 5,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1054"
+    },
+    {
+      "departement": "40",
+      "nom": "CENTRE DE VACCINATION de LABRIT",
+      "url": "https://www.maiia.com/centre-de-vaccination/40420-labrit/centre-de-vaccination-covid-19-de-labrit",
+      "location": {
+        "longitude": -0.543485,
+        "latitude": 44.1039,
+        "city": "Labrit"
+      },
+      "metadata": {
+        "address": " Place de l\u2019Eglise - Salle des f\u00eates, 40420 Labrit",
+        "phone_number": "+33558510939",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "8h30 \u00e0 12h30/  13h30 \u00e0 15h30 ",
+          "mercredi": "8h30 \u00e0 12h30/  13h30 \u00e0 15h30 ",
+          "jeudi": "8h30 \u00e0 12h30/  13h30 \u00e0 15h30 ",
+          "vendredi": "8h30 \u00e0 12h30/  13h30 \u00e0 15h30 ",
+          "samedi": "8h30 \u00e0 12h30/  13h30 \u00e0 15h30 ",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-21T10:10:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 7,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1299"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination Covid-19 de la C\u00f4te Sud des Landes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/capbreton/centre-de-vaccination-covid-19-de-la-cote-sud-des-landes",
+      "location": {
+        "longitude": -1.443914,
+        "latitude": 43.64849,
+        "city": "Capbreton"
+      },
+      "metadata": {
+        "address": "Impasse de la Savane, 40130 Capbreton",
+        "phone_number": "+33558727215",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:30",
+          "mardi": "08:30-12:30, 13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-22T16:42:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 37,
+      "internal_id": "246984[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d246984"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "40",
+      "nom": "Centre de Vaccination - MAISON DE SANTE AMOU",
+      "url": "https://www.maiia.com/centre-de-vaccination/40330-amou/centre-de-vaccination---maison-de-sante-amou",
+      "location": {
+        "longitude": -0.745461,
+        "latitude": 43.592,
+        "city": "Amou"
+      },
+      "metadata": {
+        "address": "24 Avenue de la Digue - Salle De l'Etoile, 40330 Amou",
+        "business_hours": {
+          "lundi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "mardi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "mercredi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "jeudi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "vendredi": " 08:30 - 12:30 / 13:30 - 17:30 ",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1298"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de Vaccination de Dax ville",
+      "url": "https://www.maiia.com/centre-de-vaccination/40100-dax/centre-de-vaccination---bassin-dacquois?centerid=6006a9d63b987b202a40423b",
+      "location": {
+        "longitude": -1.04109,
+        "latitude": 43.6988,
+        "city": "Dax"
+      },
+      "metadata": {
+        "address": "98 Avenue Francis Plant\u00e9, 40100 Dax",
+        "business_hours": {
+          "lundi": "08h30-12h30/13h30-17h30",
+          "mardi": "08h30-12h30/13h30-17h30",
+          "mercredi": "08h30-12h30/13h30-17h30",
+          "jeudi": "08h30-12h30/13h30-17h30",
+          "vendredi": "08h30-12h30/13h30-17h30",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1204"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination covid-19 - Morcenx-la-Nouvelle",
+      "url": "https://partners.doctolib.fr/centre-de-sante/morcenx-la-nouvelle/centre-de-vaccination-covid-19-morcenx-la-nouvelle",
+      "location": {
+        "longitude": -0.9117519,
+        "latitude": 44.0302249,
+        "city": "Morcenx-la-Nouvelle"
+      },
+      "metadata": {
+        "address": "32 Boulevard Gallieni, 40110 Morcenx-la-Nouvelle",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255770[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255770"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre Vaccination COVID - Ville de Biscarrosse",
+      "url": "https://partners.doctolib.fr/centre-de-sante/biscarrosse/centre-vaccination-covid-ville-de-biscarrosse",
+      "location": {
+        "longitude": -1.1823626,
+        "latitude": 44.3872858,
+        "city": "Biscarrosse"
+      },
+      "metadata": {
+        "address": "1500 Avenue Pierre Georges Lat\u00e9co\u00e8re, 40600 Biscarrosse",
+        "phone_number": "+33558827064",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244297[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244297"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination Covid-19 - Tartas [Annexe Morcenx la Nouvelle]",
+      "url": "https://partners.doctolib.fr/centre-de-sante/tartas/centre-de-vaccination-covid-19-tartas-annexe-morcenx-la-nouvelle",
+      "location": {
+        "longitude": -0.9117519,
+        "latitude": 44.0302249,
+        "city": "Morcenx-la-Nouvelle"
+      },
+      "metadata": {
+        "address": "32 Boulevard Gallieni, 40110 Morcenx-la-Nouvelle",
+        "phone_number": "+33762657047",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "262299[179373]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262299"
+    },
+    {
+      "departement": "40",
+      "nom": "Pharmacie du Trinquet",
+      "url": "https://partners.doctolib.fr/pharmacie/soorts-hossegor/pharmacie-soorts",
+      "location": {
+        "longitude": -1.395226,
+        "latitude": 43.6638044,
+        "city": "Soorts-Hossegor"
+      },
+      "metadata": {
+        "address": "214 Avenue du Centre, 40150 Soorts-Hossegor",
+        "phone_number": "+33558435039",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:15-19:30",
+          "mardi": "09:00-12:30, 14:15-19:30",
+          "mercredi": "09:00-12:30, 14:15-19:30",
+          "jeudi": "09:00-12:30, 14:15-19:30",
+          "vendredi": "09:00-12:30, 14:15-19:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "247838[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d247838"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination Covid- 19 du Centre Hospitalier de Dax",
+      "url": "https://partners.doctolib.fr/hopital-public/dax/centre-de-vaccination-reserve-aux-professionnels-de-sante-ch-de-dax-en-preparation",
+      "location": {
+        "longitude": -1.0526894,
+        "latitude": 43.7067983,
+        "city": "Dax"
+      },
+      "metadata": {
+        "address": "Rue Saint-Eutrope, 40100 Dax",
+        "phone_number": "+33558352499",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "08:30-17:30",
+          "mercredi": "08:30-17:30",
+          "jeudi": "08:30-17:30",
+          "vendredi": "08:30-17:30",
+          "samedi": "08:30-17:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240773[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240773"
+    },
+    {
+      "departement": "40",
+      "nom": "CH de Saint Sever - Centre de vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/st-sever/ch-de-saint-sever-reserve-aux-professionnels-de-sante",
+      "location": {
+        "longitude": -0.5713958,
+        "latitude": 43.7571275,
+        "city": "ST SEVER"
+      },
+      "metadata": {
+        "address": "3 RUE DE LA GUILLERIE, 40500 ST SEVER",
+        "phone_number": "+33558764545",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241215[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241215"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination de Soustons",
+      "url": "https://partners.doctolib.fr/centre-de-sante/soustons/centre-de-vaccination-de-soustons",
+      "location": {
+        "longitude": -1.3312281,
+        "latitude": 43.7550777,
+        "city": "Soustons"
+      },
+      "metadata": {
+        "address": "Avenue de Labouyrie, 40140 Soustons",
+        "phone_number": "+33558414479",
+        "business_hours": {
+          "lundi": "09:00-12:30, 13:30-17:00",
+          "mardi": "09:00-12:30, 13:30-17:00",
+          "mercredi": "09:00-12:30, 13:30-17:00",
+          "jeudi": "09:00-12:30, 13:30-17:00",
+          "vendredi": "09:00-12:30, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "259730[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d259730"
+    },
+    {
+      "departement": "40",
+      "nom": "CH de Mont de Marsan - Centre de vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/mont-de-marsan/ch-de-mont-de-marsan-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": -0.4992254,
+        "latitude": 43.8960953,
+        "city": "Mont-de-Marsan"
+      },
+      "metadata": {
+        "address": "328 Rue de l'Auberg\u00e9 Landaise, 40000 Mont-de-Marsan",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240970[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240970"
+    },
+    {
+      "departement": "40",
+      "nom": "Centre de vaccination d'Aire sur l'Adour",
+      "url": "https://www.maiia.com/centre-de-vaccination/40800-aire-sur-l-adour/centre-de-vaccination---maison-de-sante-de-l-adour?centerid=5ffec752a400683faf1c220c",
+      "location": {
+        "longitude": -0.2611,
+        "latitude": 43.7005,
+        "city": "Aire-sur-l'Adour"
+      },
+      "metadata": {
+        "address": "4 Rue Ren\u00e9 M\u00e9ricam, 40800 Aire-sur-l'Adour",
+        "phone_number": "+33771247763",
+        "business_hours": {
+          "lundi": "08:30-12:30/14h00-18h00",
+          "mardi": "08:30-12:30/14h00-18h00",
+          "mercredi": "08:30-12:30/14h00-18h00",
+          "jeudi": "08:30-12:30/14h00-18h00",
+          "vendredi": "08:30-12:30/14h00-18h00",
+          "samedi": "8h30-12h30",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "987"
+    }
+  ]
+}

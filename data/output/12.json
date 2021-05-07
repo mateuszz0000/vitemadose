@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.930029+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "12",
+      "nom": "Centre de vaccination COVID H\u00f4pital - Ville Rodez",
+      "url": "https://partners.doctolib.fr/hopital-public/rodez/centre-de-vaccination-covid-hopital-ville-rodez",
+      "location": {
+        "longitude": 2.5989511,
+        "latitude": 44.3645371,
+        "city": "Onet-le-Ch\u00e2teau"
+      },
+      "metadata": {
+        "address": "34 Boulevard des Capucines 12850, 12000 Onet-le-Ch\u00e2teau",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-01T10:40:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 690,
+      "internal_id": "241822[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241822"
+    },
+    {
+      "departement": "12",
+      "nom": "Centre de vaccination Covid-19 Millau",
+      "url": "https://partners.doctolib.fr/hopital-public/millau/centre-de-vaccination-millau",
+      "location": {
+        "longitude": 3.0719274,
+        "latitude": 44.1109118,
+        "city": "Millau"
+      },
+      "metadata": {
+        "address": "Avenue Charles de Gaulle, 12100 Millau",
+        "phone_number": "+33809541919",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-06T12:15:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 37,
+      "internal_id": "241785[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241785"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "12",
+      "nom": "Centre de vaccination Covid Villefranche-de-Rouergue",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villefranche-de-rouergue/centre-de-vaccination-covid-villefranche-de-rouergue",
+      "location": {
+        "longitude": 2.0257329,
+        "latitude": 44.357858,
+        "city": "Villefranche-de-Rouergue"
+      },
+      "metadata": {
+        "address": "Chemin de 13 Pierres, 12200 Villefranche-de-Rouergue",
+        "phone_number": "+33809541919",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241869[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241869"
+    },
+    {
+      "departement": "12",
+      "nom": "Centre de vaccination Covid - CH Decazeville",
+      "url": "https://partners.doctolib.fr/hopital-public/decazeville/centre-de-vaccination-covid-ch-decazeville",
+      "location": {
+        "longitude": 2.251839,
+        "latitude": 44.5695056,
+        "city": "Decazeville"
+      },
+      "metadata": {
+        "address": "60 Avenue Prosper Alfaric, 12300 Decazeville",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "13:45-17:00",
+          "mardi": "08:45-12:00, 13:45-17:00",
+          "mercredi": "08:45-12:00, 13:45-17:00",
+          "jeudi": "08:45-12:00, 13:45-17:00",
+          "vendredi": "08:45-12:00, 13:45-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243152[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243152"
+    },
+    {
+      "departement": "12",
+      "nom": "Centre de vaccination COVID - CHI Espalion",
+      "url": "https://partners.doctolib.fr/hopital-public/espalion/centre-de-vaccination-covid-chi-espalion",
+      "location": {
+        "longitude": 2.7627742,
+        "latitude": 44.526144,
+        "city": "Espalion"
+      },
+      "metadata": {
+        "address": "Rue Soeur Marie Caton, 12500 Espalion",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243161[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243161"
+    }
+  ]
+}

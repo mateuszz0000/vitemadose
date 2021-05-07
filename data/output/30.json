@@ -1,0 +1,373 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.940120+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "30",
+      "nom": "CHU N\u00eemes - Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/nimes/chu-nimes-vaccination-covid-19",
+      "location": {
+        "longitude": 4.3262478,
+        "latitude": 43.8238328,
+        "city": "N\u00eemes"
+      },
+      "metadata": {
+        "address": "Place du Professeur Robert Debr\u00e9, 30900 N\u00eemes",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:30-17:15",
+          "mardi": "08:30-17:15",
+          "mercredi": "08:30-17:15",
+          "jeudi": "08:30-17:15",
+          "vendredi": "08:30-17:15",
+          "samedi": "08:30-17:15",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-01T16:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 24,
+      "internal_id": "241964[163873]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d241964"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "30",
+      "nom": "Pharmacie Des Aires",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-des-aires-sommieres",
+      "location": {
+        "longitude": 4.0875267,
+        "latitude": 43.7825887,
+        "city": "sommieres"
+      },
+      "metadata": {
+        "address": "845 route de Salinelles, 30250 sommieres",
+        "phone_number": "+33466777065",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "09129543"
+    },
+    {
+      "departement": "30",
+      "nom": "Pharmacie Agn\u00e8s Praden",
+      "url": "https://partners.doctolib.fr/pharmacie/ales/pharmacie-agnes-praden-ales",
+      "location": {
+        "longitude": 4.0920212,
+        "latitude": 44.139724,
+        "city": "Al\u00e8s"
+      },
+      "metadata": {
+        "address": "198 Avenue des Fr\u00e8res Lumi\u00e8re, 30100 Al\u00e8s",
+        "phone_number": "+33466302260",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-20:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "261470[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261470"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination Covid-19 - Al\u00e8s",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ales/centre-de-vaccination-covid-19-ales",
+      "location": {
+        "longitude": 4.0886106,
+        "latitude": 44.1190595,
+        "city": "Al\u00e8s"
+      },
+      "metadata": {
+        "address": "177 Chemin des Sports, 30100 Al\u00e8s",
+        "phone_number": "+33809541919",
+        "business_hours": {
+          "lundi": "09:00-12:15, 14:00-17:15",
+          "mardi": "09:00-12:15, 14:00-17:15",
+          "mercredi": "09:00-12:15, 14:00-17:15",
+          "jeudi": "09:00-12:15, 14:00-17:15",
+          "vendredi": "09:00-12:15, 14:00-17:15",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244706[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244706"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination COVID-19 - Ville de Quissac",
+      "url": "https://partners.doctolib.fr/centre-de-sante/quissac/centre-de-vaccination-covid-19-ville-de-quissac",
+      "location": {
+        "longitude": 4.0004607,
+        "latitude": 43.9093118,
+        "city": "Quissac"
+      },
+      "metadata": {
+        "address": "19 Avenue du Onze Novembre, 30260 Quissac",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "13:00-17:00",
+          "mardi": "13:00-17:00",
+          "mercredi": "13:00-17:00",
+          "jeudi": "13:00-17:00",
+          "vendredi": "13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264364[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264364"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination COVID-19 - Salle polyvalente Uzes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/uzes/centre-de-vaccination-covid-cpts-uzes",
+      "location": {
+        "longitude": 4.4218089,
+        "latitude": 44.0123794,
+        "city": "Uz\u00e8s"
+      },
+      "metadata": {
+        "address": "Place de l'\u00c9v\u00each\u00e9, 30700 Uz\u00e8s",
+        "phone_number": "+33809541919",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-16:30",
+          "mardi": "09:00-12:00, 13:30-16:30",
+          "mercredi": "09:00-12:00, 13:30-16:30",
+          "jeudi": "09:00-12:00, 13:30-16:30",
+          "vendredi": "09:00-12:00, 13:30-16:30",
+          "samedi": "09:00-12:00, 13:30-16:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243236[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243236"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination Covid-19 de Vauvert - Petite Camargue",
+      "url": "https://partners.doctolib.fr/centre-de-sante/vauvert/centre-de-vaccination-de-vauvert-petite-camargue",
+      "location": {
+        "longitude": 4.278834,
+        "latitude": 43.696693,
+        "city": "Vauvert"
+      },
+      "metadata": {
+        "address": "Rue Louise D\u00e9sir, 30600 Vauvert",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "08:30-17:30",
+          "mercredi": "13:30-17:30",
+          "jeudi": "08:30-17:30",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245203[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245203"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination Covid-19 - Grand public - Bagnols sur C\u00e8ze",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bagnols-sur-ceze/centre-de-vaccination-covid-19-grand-public-bagnols-sur-ceze",
+      "location": {
+        "longitude": 4.6205641,
+        "latitude": 44.1592697,
+        "city": "Bagnols-sur-C\u00e8ze"
+      },
+      "metadata": {
+        "address": "Place Flora Tristan, 30200 Bagnols-sur-C\u00e8ze",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "08:00-22:00",
+          "mardi": "08:00-22:00",
+          "mercredi": "08:00-22:00",
+          "jeudi": "08:00-22:00",
+          "vendredi": "08:00-22:00",
+          "samedi": "08:00-22:00",
+          "dimanche": "08:00-22:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243170[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243170"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de Vaccination Covid-19 - Ville Les Angles",
+      "url": "https://partners.doctolib.fr/centre-de-sante/les-angles/centre-de-vaccination-covid-19-ville-les-angles",
+      "location": {
+        "longitude": 4.7676215,
+        "latitude": 43.9600173,
+        "city": "Les Angles"
+      },
+      "metadata": {
+        "address": "10 Boulevard des Carri\u00e8res, 30133 Les Angles",
+        "phone_number": "+33809541919",
+        "business_hours": {
+          "lundi": "08:15-12:00, 13:15-16:30",
+          "mardi": "08:15-12:00, 13:15-16:30",
+          "mercredi": "08:15-12:00, 13:15-16:30",
+          "jeudi": "08:15-12:00, 13:15-16:30",
+          "vendredi": "08:15-12:00, 13:15-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244835[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244835"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination - Pont-Saint-Esprit",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pont-saint-esprit/centre-de-vaccination-pont-saint-esprit",
+      "location": {
+        "longitude": 4.6471442,
+        "latitude": 44.2547607,
+        "city": "Pont-Saint-Esprit"
+      },
+      "metadata": {
+        "address": "70 Avenue Gaston Doumergue, 30130 Pont-Saint-Esprit",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "258776[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258776"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination COVID-19 - Aigues-Mortes Terre de Camargue",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aigues-mortes/centre-de-vaccination-covid-aigues-mortes-terre-de-camargue",
+      "location": {
+        "longitude": 4.1887838,
+        "latitude": 43.5781376,
+        "city": "Aigues-Mortes"
+      },
+      "metadata": {
+        "address": "Rue des Marchands, 30220 Aigues-Mortes",
+        "phone_number": "+33809541919",
+        "business_hours": {
+          "lundi": "13:30-16:30",
+          "mardi": "13:30-16:30",
+          "mercredi": "13:30-16:30",
+          "jeudi": "13:30-16:30",
+          "vendredi": "13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243818[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243818"
+    },
+    {
+      "departement": "30",
+      "nom": "Centre de vaccination - N\u00eemes costi\u00e8res",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nimes/centre-de-vaccination-ville-de-nimes",
+      "location": {
+        "longitude": 4.3592673,
+        "latitude": 43.8165288,
+        "city": "N\u00eemes"
+      },
+      "metadata": {
+        "address": "123 Avenue de la Bouvine, 30900 N\u00eemes",
+        "phone_number": "+33800541919",
+        "business_hours": {
+          "lundi": "09:00-18:00",
+          "mardi": "09:00-18:00",
+          "mercredi": "09:00-18:00",
+          "jeudi": "09:00-18:00",
+          "vendredi": "09:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245424[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245424"
+    }
+  ]
+}

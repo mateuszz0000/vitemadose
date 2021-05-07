@@ -1,0 +1,501 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.972111+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "77",
+      "nom": "Centre de vaccination du GHSIF Melun",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france/centre-covid?specialty=496",
+      "location": {
+        "longitude": 2.67334,
+        "latitude": 48.5396,
+        "city": "Melun"
+      },
+      "metadata": {
+        "address": "8 Rue de Vaux, 77000 Melun",
+        "phone_number": "+33181742700",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09h00-17h00",
+          "dimanche": "ouvert"
+        }
+      },
+      "prochain_rdv": "2021-04-22T15:45:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 51,
+      "internal_id": null,
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "246"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "77",
+      "nom": "Lagny Centre de vaccination du Totem",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/lagny-sur-marne-77400/cpts-liens-sante-77?motive=81620&category=-1&cabinet=16552&specialty=47",
+      "location": {
+        "longitude": 2.70773,
+        "latitude": 48.8673,
+        "city": "Lagny-sur-Marne"
+      },
+      "metadata": {
+        "address": "SALLE POLYVALENTE TOTEM Avenue ANDRE MALRAUX, 77400 Lagny-sur-Marne",
+        "phone_number": "+33800077400",
+        "business_hours": {
+          "lundi": "9:00-12:00/14:00-17:00",
+          "mardi": "9:00-12:00/14:00-17:00",
+          "mercredi": "9:00-12:00/14:00-17:00",
+          "jeudi": "9:00-12:00/14:00-17:00",
+          "vendredi": "9:00-12:00/14:00-17:00",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "296"
+    },
+    {
+      "departement": "77",
+      "nom": "Ville de Meaux",
+      "url": "https://www.maiia.com/centre-de-vaccination/77100-meaux/centre-de-vaccination-du-covid-19-du-pays-de-meaux",
+      "location": {
+        "longitude": 2.89992,
+        "latitude": 48.9435,
+        "city": "Meaux"
+      },
+      "metadata": {
+        "address": "71 Avenue Henri Dunant, 77100 Meaux",
+        "phone_number": "+33160099884",
+        "business_hours": {
+          "lundi": "13:00-18:00",
+          "mardi": "13:00-18:00",
+          "mercredi": "13:00-18:00",
+          "jeudi": "13:00-18:00",
+          "vendredi": "13:00-18:00",
+          "samedi": "ouvert",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "421"
+    },
+    {
+      "departement": "77",
+      "nom": "Centres de vaccination GHIF Melun- site de Savigny le temple",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/savigny-le-temple-77176/centre-de-vaccination-covid-ghsif-site-de-savigny-le-temple",
+      "location": {
+        "longitude": 2.58289,
+        "latitude": 48.5955,
+        "city": "Savigny-le-Temple"
+      },
+      "metadata": {
+        "address": "3 Place du 19 Mars 1962, 77176 Savigny-le-Temple",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2254"
+    },
+    {
+      "departement": "77",
+      "nom": "centre de vaccination GHSIF MELUN - site de Combs la Ville",
+      "url": "https://vaccination-covid.keldoc.com/centre-hospitalier/melun-cedex-77011/groupe-hospitalier-sud-ile-de-france?preview=&cabinet=24574&specialty=496",
+      "location": {
+        "longitude": 2.55789,
+        "latitude": 48.6658,
+        "city": "Combs-la-Ville"
+      },
+      "metadata": {
+        "address": "6 Place de l\u2019An 2000, 77380 Combs-la-Ville",
+        "business_hours": {
+          "lundi": "9h-17h",
+          "mardi": "9h-17h",
+          "mercredi": "9h-17h",
+          "jeudi": "9h-17h",
+          "vendredi": "9h-17h",
+          "samedi": "9h-17h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2255"
+    },
+    {
+      "departement": "77",
+      "nom": "Centre de Vaccination Covid-19 - Ville de Chelles",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chelles/centre-de-vaccination-ville-de-chelles",
+      "location": {
+        "longitude": 2.59450768471774,
+        "latitude": 48.8778632315647,
+        "city": "Chelles"
+      },
+      "metadata": {
+        "address": "Place des Martyrs de Ch\u00e2teaubriant, 77500 Chelles",
+        "phone_number": "+33164728535",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242403[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242403"
+    },
+    {
+      "departement": "77",
+      "nom": "Centre de Vaccination Covid-19 - Pontault-Combault - Salle des f\u00eates Jacques-Brel",
+      "url": "https://partners.doctolib.fr/centre-de-sante/pontault-combault/centre-de-vaccination-mairie-de-pontault-combault",
+      "location": {
+        "longitude": 2.6128252,
+        "latitude": 48.7962649,
+        "city": "Pontault-Combault"
+      },
+      "metadata": {
+        "address": "42 Rue du Plateau, 77340 Pontault-Combault",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-17:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242176[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242176"
+    },
+    {
+      "departement": "77",
+      "nom": "Pharmacie du Faubourg",
+      "url": "https://partners.doctolib.fr/pharmacie/la-ferte-sous-jouarre/pharmacie-du-faubourg",
+      "location": {
+        "longitude": 3.1325947,
+        "latitude": 48.9483147,
+        "city": "La Fert\u00e9-sous-Jouarre"
+      },
+      "metadata": {
+        "address": "15 Rue du Faubourg, 77260 La Fert\u00e9-sous-Jouarre",
+        "phone_number": "+33160220043",
+        "business_hours": {
+          "lundi": "09:00-12:15, 14:30-20:00",
+          "mardi": "09:00-12:15, 14:30-20:00",
+          "mercredi": "09:00-12:15, 14:30-20:00",
+          "jeudi": "09:00-12:15, 14:30-20:00",
+          "vendredi": "09:00-12:15, 14:30-20:00",
+          "samedi": "09:00-12:15, 14:30-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "258373[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d258373"
+    },
+    {
+      "departement": "77",
+      "nom": "Pharmacies de Combs",
+      "url": "https://partners.doctolib.fr/pharmacie/combs-la-ville/pharmacies-de-combs",
+      "location": {
+        "longitude": 2.558305,
+        "latitude": 48.6670647,
+        "city": "Combs-la-Ville"
+      },
+      "metadata": {
+        "address": "10 Rue de Verdun, 77380 Combs-la-Ville",
+        "phone_number": "+33164887887",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "255848[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255848"
+    },
+    {
+      "departement": "77",
+      "nom": "Centre vaccination Covid-19 - Pays de Nemours",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nemours/centre-vaccination-covid-19-msp-pays-de-nemours",
+      "location": {
+        "longitude": 2.6973835,
+        "latitude": 48.2821967,
+        "city": "Nemours"
+      },
+      "metadata": {
+        "address": "135 Route de Moret, 77140 Nemours",
+        "phone_number": "+33164787071",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": "09:00-12:00, 14:00-17:00",
+          "dimanche": "09:00-12:00, 14:00-17:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243103[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243103"
+    },
+    {
+      "departement": "77",
+      "nom": "Vaccination Covid-19 - Ville de Fontainebleau",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/fontainebleau/vaccination-covid-19-ville-de-fontainebleau",
+      "location": {
+        "longitude": 2.7033551,
+        "latitude": 48.414754,
+        "city": "Fontainebleau"
+      },
+      "metadata": {
+        "address": "3 Rue Jean Becquerel, 77300 Fontainebleau",
+        "phone_number": "+33177038180",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "248339[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d248339"
+    },
+    {
+      "departement": "77",
+      "nom": "Pharmacie de Pontcarr\u00e9",
+      "url": "https://partners.doctolib.fr/pharmacie/pontcarre/pharmacie-de-pontcarre",
+      "location": {
+        "longitude": 2.7069598,
+        "latitude": 48.7959436,
+        "city": "Pontcarr\u00e9"
+      },
+      "metadata": {
+        "address": "85 Bis Grande Rue, 77135 Pontcarr\u00e9",
+        "phone_number": "+33164661385",
+        "business_hours": {
+          "lundi": "09:00-20:00",
+          "mardi": "09:00-20:00",
+          "mercredi": "09:00-20:00",
+          "jeudi": "09:00-20:00",
+          "vendredi": "09:00-20:00",
+          "samedi": "09:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": "262516[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d262516"
+    },
+    {
+      "departement": "77",
+      "nom": "Provins - Centre de vaccinations Covid-19",
+      "url": "https://partners.doctolib.fr/hopital-public/provins/ch-de-provins-centre-de-vaccinations-covid-19",
+      "location": {
+        "longitude": 3.3063152,
+        "latitude": 48.5604794,
+        "city": "Provins"
+      },
+      "metadata": {
+        "address": "10 Rue du G\u00e9n\u00e9ral Delort, 77160 Provins",
+        "phone_number": "+33164604024",
+        "business_hours": {
+          "lundi": "09:00-16:30",
+          "mardi": "09:00-16:30",
+          "mercredi": "09:00-16:30",
+          "jeudi": "09:00-16:30",
+          "vendredi": "09:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241616[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241616"
+    },
+    {
+      "departement": "77",
+      "nom": "Centre de vaccination COVID-19 de Coulommiers",
+      "url": "https://partners.doctolib.fr/centre-de-sante/coulommiers/centre-de-vaccination-covid-19-de-coulommiers",
+      "location": {
+        "longitude": 3.0748084,
+        "latitude": 48.8130331,
+        "city": "Coulommiers"
+      },
+      "metadata": {
+        "address": "77 Rue du G\u00e9n\u00e9ral Leclerc, 77120 Coulommiers",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243085[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243085"
+    },
+    {
+      "departement": "77",
+      "nom": "Centre de vaccination COVID-19 - Saint-Fargeau Ponthierry",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-fargeau-ponthierry/centre-de-vaccination-saint-fargeau-ponthierry",
+      "location": {
+        "longitude": 2.5282488,
+        "latitude": 48.5352157,
+        "city": "Saint-Fargeau-Ponthierry"
+      },
+      "metadata": {
+        "address": "185 Avenue de Fontainebleau, 77310 Saint-Fargeau-Ponthierry",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": "09:00-13:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242704[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242704"
+    },
+    {
+      "departement": "77",
+      "nom": "Centre de Vaccination Covid de Montereau Fault Yonne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montereau-fault-yonne/centre-de-vaccination-covid-de-montereau-fault-yonne-reserve-personnes-plus-de-75ans",
+      "location": {
+        "longitude": 2.9543765,
+        "latitude": 48.3860392,
+        "city": "Montereau-Fault-Yonne"
+      },
+      "metadata": {
+        "address": "Place du Calvaire, 77130 Montereau-Fault-Yonne",
+        "phone_number": "+33182340025",
+        "business_hours": {
+          "lundi": "14:00-17:00",
+          "mardi": "14:00-17:00",
+          "mercredi": "14:00-17:00",
+          "jeudi": "14:00-17:00",
+          "vendredi": "14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242175[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242175"
+    }
+  ]
+}

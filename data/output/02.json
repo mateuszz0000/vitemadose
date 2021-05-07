@@ -1,0 +1,549 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.924347+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 \u00e9ph\u00e9m\u00e8re - Sapeurs Pompiers de l'Aisne - Rozoy-sur-Serre",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aisne/centre-de-vaccination-covid-19-caserne-de-pompiers-de-soissons-sdis02?pid=practice-182824",
+      "location": {
+        "longitude": 4.1327604,
+        "latitude": 49.7095191,
+        "city": "Rozoy-sur-Serre"
+      },
+      "metadata": {
+        "address": "Rue Jean Mermoz, 02360 Rozoy-sur-Serre",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-18T09:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 76,
+      "internal_id": "264530[182824]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d264530"
+    },
+    {
+      "departement": "02",
+      "nom": "Dr V\u00e9ronique Judet",
+      "url": "https://partners.doctolib.fr/medecin-generaliste/saint-quentin/veronique-judet",
+      "location": {
+        "longitude": 3.2696691,
+        "latitude": 49.8630973,
+        "city": "Saint-Quentin"
+      },
+      "metadata": {
+        "address": "98B Rue Henriette Cabot, 02100 Saint-Quentin",
+        "phone_number": "+33323648184",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-18:00",
+          "mardi": "09:00-12:00, 14:00-18:00",
+          "mercredi": "09:00-12:00, 14:00-18:00",
+          "jeudi": "09:00-12:00, 14:00-18:00",
+          "vendredi": "09:00-12:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-23T14:54:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 28,
+      "internal_id": "189628[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d189628"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de Vaccination Covid-19 - Ville de Ch\u00e2teau-Thierry",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateau-thierry/centre-de-vaccination-covid-19-ville-de-chateau-thierry",
+      "location": {
+        "longitude": 3.3982357,
+        "latitude": 49.043659,
+        "city": "Ch\u00e2teau-Thierry"
+      },
+      "metadata": {
+        "address": "Avenue Jules Lefebvre, 02400 Ch\u00e2teau-Thierry",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T11:18:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 21,
+      "internal_id": "263692[]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d263692"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 \u00e9ph\u00e9m\u00e8re - Sapeurs Pompiers de l'Aisne - Itancourt",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aisne/centre-de-vaccination-covid-19-caserne-de-pompiers-de-soissons-sdis02?pid=practice-182864",
+      "location": {
+        "longitude": 3.3458982,
+        "latitude": 49.8068892,
+        "city": "Itancourt"
+      },
+      "metadata": {
+        "address": "Rue de la Mairie, 02240 Itancourt",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-25T09:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 43,
+      "internal_id": "264530[182864]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d264530"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "02",
+      "nom": "Centre de Vaccination Covid-19- Ville d'Hirson (salle Aumale)",
+      "url": "https://partners.doctolib.fr/cabinet-medical/hirson/centre-de-vaccination-ch-de-hirson-reserve-aux-personnes-eligibles",
+      "location": {
+        "longitude": 4.0832356,
+        "latitude": 49.924219,
+        "city": "Hirson"
+      },
+      "metadata": {
+        "address": "Rue des \u00c9coles, 02500 Hirson",
+        "phone_number": "+33323587530",
+        "business_hours": {
+          "lundi": "08:00-12:15, 13:30-18:00",
+          "mardi": "08:00-12:15, 13:30-18:00",
+          "mercredi": "08:00-12:15, 13:30-18:00",
+          "jeudi": "08:00-12:15, 13:30-18:00",
+          "vendredi": "08:00-12:15, 13:30-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242045[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242045"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 \u00e9ph\u00e9m\u00e8re - Sapeurs Pompiers de l'Aisne - Neuilly-Saint-Front",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aisne/centre-de-vaccination-covid-19-caserne-de-pompiers-de-soissons-sdis02?pid=practice-182793",
+      "location": {
+        "longitude": 3.262488,
+        "latitude": 49.170584,
+        "city": "Neuilly-Saint-Front"
+      },
+      "metadata": {
+        "address": "Impasse Poron, 02470 Neuilly-Saint-Front",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264530[182793]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264530"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 Saint-Quentin",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-quentin/centre-de-vaccination-covid-19-saint-quentin",
+      "location": {
+        "longitude": 3.2942459,
+        "latitude": 49.849371,
+        "city": "Saint-Quentin"
+      },
+      "metadata": {
+        "address": "Avenue de Remicourt, 02100 Saint-Quentin",
+        "phone_number": "+33323636863",
+        "business_hours": {
+          "lundi": "09:00-11:30, 13:30-16:30",
+          "mardi": "09:00-11:30, 13:30-16:30",
+          "mercredi": "09:00-11:30, 13:30-16:30",
+          "jeudi": "09:00-11:30, 13:30-16:30",
+          "vendredi": "09:00-11:30, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242672[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242672"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 - Ville de Villers-Cotter\u00eats",
+      "url": "https://partners.doctolib.fr/centre-de-sante/villers-cotterets/centre-de-vaccination-covid-19-ville-de-villers-cotterets",
+      "location": {
+        "longitude": 3.0977061,
+        "latitude": 49.2603656,
+        "city": "Villers-Cotter\u00eats"
+      },
+      "metadata": {
+        "address": "2 Rue d'Artagnan, 02600 Villers-Cotter\u00eats",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-18:00",
+          "mardi": "09:00-12:00, 14:00-18:00",
+          "mercredi": "09:00-12:00, 14:00-18:00",
+          "jeudi": "09:00-12:00, 14:00-18:00",
+          "vendredi": "09:00-12:00, 14:00-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "251675[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d251675"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 \u00e9ph\u00e9m\u00e8re - Sapeurs Pompiers de l'Aisne - Braine",
+      "url": "https://partners.doctolib.fr/centre-de-sante/aisne/centre-de-vaccination-covid-19-caserne-de-pompiers-de-soissons-sdis02?pid=practice-182861",
+      "location": {
+        "longitude": 3.5440904,
+        "latitude": 49.3470997,
+        "city": "Braine"
+      },
+      "metadata": {
+        "address": "Route de Vieil Arcy, 02220 Braine",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264530[182861]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264530"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination COVID-19 - MSP de la Fa\u00efencerie",
+      "url": "https://partners.doctolib.fr/maison-de-sante/sinceny/centre-vaccinale-covid-msp-de-la-faiencerie",
+      "location": {
+        "longitude": 3.2375345,
+        "latitude": 49.5952754,
+        "city": "Sinceny"
+      },
+      "metadata": {
+        "address": "1b Rue des Fa\u00efences, 02300 Sinceny",
+        "phone_number": "+33374721178",
+        "business_hours": {
+          "lundi": "08:00-20:00",
+          "mardi": "08:00-20:00",
+          "mercredi": "08:00-20:00",
+          "jeudi": "08:00-20:00",
+          "vendredi": "08:00-20:00",
+          "samedi": "08:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242133[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242133"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 - CH de Chauny",
+      "url": "https://partners.doctolib.fr/hopital-public/chauny/centre-de-vaccination-covid-19-ch-de-chauny",
+      "location": {
+        "longitude": 3.23529580000002,
+        "latitude": 49.6267435,
+        "city": "Chauny"
+      },
+      "metadata": {
+        "address": "94 Rue Anciens Combattants d'AFN, 02300 Chauny",
+        "phone_number": "+33323385500",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244645[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244645"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 Commune de Tergnier - Tergnier",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/tergnier/centre-de-vaccination-covid19-centre-de-vie-jacques-desalangre",
+      "location": {
+        "longitude": 3.2979781,
+        "latitude": 49.6533621,
+        "city": "Tergnier"
+      },
+      "metadata": {
+        "address": "Rue Pierre Mechain, 02700 Tergnier",
+        "phone_number": "+33323571127",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": null,
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": "09:00-13:00, 14:00-19:00",
+          "dimanche": "09:00-13:00, 14:00-19:00"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243755[165731]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243755"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 Commune de Tergnier - Tergnier",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/tergnier/centre-de-vaccination-covid19-centre-de-vie-jacques-desalangre?pid=practice-179321",
+      "location": {
+        "longitude": 3.2800479,
+        "latitude": 49.6376095,
+        "city": "Tergnier"
+      },
+      "metadata": {
+        "address": "Boulevard du 32E Reg d'Infanterie, 02700 Tergnier",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:00",
+          "mercredi": "13:30-16:30",
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243755[179321]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243755"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 - CH de Saint-Quentin",
+      "url": "https://partners.doctolib.fr/hopital-public/saint-quentin/centre-de-vaccination-covid-19-ch-de-saint-quentin",
+      "location": {
+        "longitude": 3.2713328,
+        "latitude": 49.8586432,
+        "city": "Saint-Quentin"
+      },
+      "metadata": {
+        "address": "1 Avenue Michel de l'Hospital, 02100 Saint-Quentin",
+        "phone_number": "+33392043471",
+        "business_hours": {
+          "lundi": "08:30-13:00, 14:00-19:00",
+          "mardi": "08:30-12:00, 13:30-16:30",
+          "mercredi": "08:30-12:00, 13:30-16:30",
+          "jeudi": "08:30-12:00, 13:30-16:30",
+          "vendredi": "08:30-12:00, 13:30-16:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244508[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244508"
+    },
+    {
+      "departement": "02",
+      "nom": "Pharmacie Ponthieux",
+      "url": "https://app.ordoclic.fr/app/pharmacie/pharmacie-ponthieux-chauny",
+      "location": {
+        "longitude": 3.218973,
+        "latitude": 49.6147741,
+        "city": "chauny"
+      },
+      "metadata": {
+        "address": "10 rue de la r\u00e9publique, 02300 Chauny",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Ordoclic",
+      "type": "drugstore",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "e009c904"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination Covid-19 - Groupe Elsan",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-saulve/centre-de-vaccination-covid-19-groupe-elsan?pid=practice-162479",
+      "location": {
+        "longitude": 3.3089825,
+        "latitude": 49.8596526,
+        "city": null
+      },
+      "metadata": {
+        "address": "1 BOULEVARD DU DOCTEUR SCHWEITZER, 2109 ST QUENTIN",
+        "phone_number": "+33323645351",
+        "business_hours": {
+          "lundi": "10:00-17:00",
+          "mardi": "10:00-17:00",
+          "mercredi": "10:00-17:00",
+          "jeudi": "10:00-17:00",
+          "vendredi": "10:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241235[162479]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241235"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination - MSP de Saint Erme",
+      "url": "https://www.maiia.com/centre-de-vaccination/02820-saint-erme-outre-et-ramecourt/centre-de-vaccination-saint-erme",
+      "location": {
+        "longitude": 3.85641,
+        "latitude": 49.529,
+        "city": "Saint-Erme-Outre-et-Ramecourt"
+      },
+      "metadata": {
+        "address": "5 Route de Liesse, 02820 Saint-Erme-Outre-et-Ramecourt",
+        "phone_number": "+33686974679",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1145"
+    },
+    {
+      "departement": "02",
+      "nom": "Centre de vaccination - MSP de F\u00e8re en tardenois",
+      "url": "https://www.maiia.com/centre-de-vaccination/02130-fere-en-tardenois/centre-de-vaccination-pole-de-sante-de-la-goutte-d-or?centerid=5ffef3c1b1a1aa1cc204ef5b",
+      "location": {
+        "longitude": 3.51668,
+        "latitude": 49.1967,
+        "city": "F\u00e8re-en-Tardenois"
+      },
+      "metadata": {
+        "address": "14 Rue de la Goutte d'Or, 02130 F\u00e8re-en-Tardenois",
+        "business_hours": {
+          "lundi": "",
+          "mardi": "",
+          "mercredi": "",
+          "jeudi": "",
+          "vendredi": "",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1143"
+    }
+  ]
+}

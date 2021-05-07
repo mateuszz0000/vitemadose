@@ -1,0 +1,468 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.944828+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "35",
+      "nom": "RETIERS-Salle poly",
+      "url": "https://www.maiia.com/centre-de-vaccination/35240-retiers/centre-de-vaccination-territorial-de-retiers-",
+      "location": {
+        "longitude": -1.37812,
+        "latitude": 47.9125,
+        "city": "Retiers"
+      },
+      "metadata": {
+        "address": "2 Rue Victor Hugo, 35240 Retiers",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "9h-19h",
+          "mardi": "9h-19h",
+          "mercredi": "9h-19h",
+          "jeudi": "9h-19h",
+          "vendredi": "9h-19h",
+          "samedi": "9h-19h",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-20T14:30:00.000000Z",
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 6,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1737"
+    },
+    {
+      "departement": "35",
+      "nom": "BAIN DE BGNE-La Croix Rouge",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/bain-de-bretagne-35470/salle-des-fetes-de-bain-de-bretagne/centre-de-vaccination-de-la-salle-des-fetes-de-bain-de-bretagne",
+      "location": {
+        "longitude": -1.68564,
+        "latitude": 47.831,
+        "city": "Bain-de-Bretagne"
+      },
+      "metadata": {
+        "address": "75 La Croix Rouge, 35470 Bain-de-Bretagne",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "9h-12h / 14h-17h",
+          "mercredi": "9h-12h / 14h-17h",
+          "jeudi": "9h-12h / 14h-17h",
+          "vendredi": "9h-12h / 14h-17h",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T09:15:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 197,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1439"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "35",
+      "nom": "GH Rance Emeraude - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/saint-malo-et-dinan/gh-rance-emeraude-vaccination-covid",
+      "location": {
+        "longitude": -2.0088861,
+        "latitude": 48.6374165,
+        "city": "Saint-Malo"
+      },
+      "metadata": {
+        "address": "1 Rue de la Marne, 35400 Saint-Malo",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:30, 13:30-16:45",
+          "mercredi": "09:00-12:30, 13:30-16:45",
+          "jeudi": "09:00-12:30, 13:30-16:45",
+          "vendredi": "09:00-12:30, 13:30-16:45",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241037[163095]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241037"
+    },
+    {
+      "departement": "35",
+      "nom": "Vaccination COVID-19 - CH REDON",
+      "url": "https://partners.doctolib.fr/hopital-public/redon/vaccination-covid-19-ch-redon",
+      "location": {
+        "longitude": -2.0917159,
+        "latitude": 47.6506194,
+        "city": "Redon"
+      },
+      "metadata": {
+        "address": "Rue Lucien Poulard, 35600 Redon",
+        "business_hours": {
+          "lundi": "08:30-12:30, 13:30-17:30",
+          "mardi": "08:30-12:30, 13:30-17:30",
+          "mercredi": "08:30-12:30, 13:30-17:30",
+          "jeudi": "08:30-12:30, 13:30-17:30",
+          "vendredi": "08:30-12:30, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241740[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241740"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination covid-19 - SOS M\u00e9decins Rennes",
+      "url": "https://partners.doctolib.fr/centre-de-sante/rennes/centre-de-vaccination-covid-19-sos-medecins-rennes",
+      "location": {
+        "longitude": -1.7090216,
+        "latitude": 48.1039832,
+        "city": "Rennes"
+      },
+      "metadata": {
+        "address": "106 Rue Eug\u00e8ne Pottier, 35000 Rennes",
+        "phone_number": "+33257223535",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "general-practitioner",
+      "appointment_count": 0,
+      "internal_id": "243496[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243496"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccinations Sapeurs-Pompiers 35 - Stade Robert Poirier",
+      "url": "https://partners.doctolib.fr/centre-de-sante/ile-et-vilaine/centre-de-vaccination-covid-19-vaccimobile-35-ars-communes-ile-et-vilaine",
+      "location": {
+        "longitude": -1.7007971,
+        "latitude": 48.1177896,
+        "city": "Rennes"
+      },
+      "metadata": {
+        "address": "6 Avenue du Professeur L\u00e9on Bernard, 35000 Rennes",
+        "business_hours": {
+          "lundi": "08:00-18:00",
+          "mardi": "08:00-18:00",
+          "mercredi": "08:00-18:00",
+          "jeudi": "08:00-18:00",
+          "vendredi": "08:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "252809[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d252809"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination - Parc expo Bruz",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bruz/centre-de-vaccination-parc-expo-bruz",
+      "location": {
+        "longitude": -1.733661,
+        "latitude": 48.057678,
+        "city": "Bruz"
+      },
+      "metadata": {
+        "address": "La Haie Gautrais, 35170 Bruz",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "255685[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d255685"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination Covid-19 de Liffr\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-sante/liffre/centre-de-vaccination-covid-19-de-liffre",
+      "location": {
+        "longitude": -1.5068587,
+        "latitude": 48.2126763,
+        "city": "Liffr\u00e9"
+      },
+      "metadata": {
+        "address": "9 Rue des \u00c9coles, 35340 Liffr\u00e9",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "09:00-13:00, 13:30-17:30",
+          "mardi": "09:00-13:00, 13:30-17:30",
+          "mercredi": "09:00-13:00, 13:30-17:30",
+          "jeudi": "09:00-13:00, 13:30-17:30",
+          "vendredi": "09:00-13:00, 13:30-17:30",
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "248737[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d248737"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination COVID-19 de Foug\u00e8res",
+      "url": "https://partners.doctolib.fr/centre-de-sante/fougeres/centre-de-vaccination-de-fougeres",
+      "location": {
+        "longitude": -1.1725823,
+        "latitude": 48.3357835,
+        "city": "La Selle-en-Luitr\u00e9"
+      },
+      "metadata": {
+        "address": "1 Rue Louis Lumi\u00e8re, 35133 La Selle-en-Luitr\u00e9",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": "09:00-13:00, 14:00-18:00",
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241899[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241899"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination COVID 19 de Vitr\u00e9",
+      "url": "https://partners.doctolib.fr/hopital-public/vitre/ch-de-vitre-centre-de-vaccination-covid-19",
+      "location": {
+        "longitude": -1.1940449,
+        "latitude": 48.1071796,
+        "city": "Vitr\u00e9"
+      },
+      "metadata": {
+        "address": "Chemin du Feil, 35500 Vitr\u00e9",
+        "phone_number": "+33223555453",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241927[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241927"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination Covid-19 - Rennes-Libert\u00e9",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/rennes/centre-de-vaccination-covid-19-rennes-liberte",
+      "location": {
+        "longitude": -1.6763143,
+        "latitude": 48.1052971,
+        "city": "Rennes"
+      },
+      "metadata": {
+        "address": "Cours des Alli\u00e9s, 35000 Rennes",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242679[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242679"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination Covid-19 - Chantepie",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chantepie/centre-de-vaccination-covid-19-chantepie",
+      "location": {
+        "longitude": -1.6152794,
+        "latitude": 48.0922984,
+        "city": "Chantepie"
+      },
+      "metadata": {
+        "address": "All\u00e9e Saint Marcel, 35135 Chantepie",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "265186[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d265186"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination de Saint Gr\u00e9goire - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-gregoire/centre-de-vaccination-de-saint-gregoire",
+      "location": {
+        "longitude": -1.697093,
+        "latitude": 48.15442,
+        "city": "Saint-Gr\u00e9goire"
+      },
+      "metadata": {
+        "address": "1 Avenue d'Alphasis, 35760 Saint-Gr\u00e9goire",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "09:00-12:30, 13:30-17:30",
+          "mardi": "09:00-12:30, 13:30-17:30",
+          "mercredi": "09:00-12:30, 13:30-17:30",
+          "jeudi": "09:00-12:30, 13:30-17:30",
+          "vendredi": "09:00-12:30, 13:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242521[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242521"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination COVID-19 de Broc\u00e9liande",
+      "url": "https://partners.doctolib.fr/centre-de-sante/montfort-sur-meu/centre-de-vaccination-covid-19-de-broceliande",
+      "location": {
+        "longitude": -1.9644586,
+        "latitude": 48.1381919,
+        "city": "Montfort-sur-Meu"
+      },
+      "metadata": {
+        "address": "1 Route d'Iffendic, 35160 Montfort-sur-Meu",
+        "phone_number": "+33805690821",
+        "business_hours": {
+          "lundi": "09:00-12:30, 14:00-18:00",
+          "mardi": "09:00-12:30, 14:00-18:00",
+          "mercredi": "09:00-12:30, 14:00-18:00",
+          "jeudi": "09:00-12:30, 14:00-18:00",
+          "vendredi": "09:00-12:30, 14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244874[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244874"
+    },
+    {
+      "departement": "35",
+      "nom": "Centre de vaccination COVID - Centre de vaccination du Naye - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-malo/centre-de-vaccination-covid-centre-de-vaccination-du-naye",
+      "location": {
+        "longitude": -2.0197543,
+        "latitude": 48.6416928,
+        "city": "Saint-Malo"
+      },
+      "metadata": {
+        "address": "1 Rue Georges Clemenceau, 35400 Saint-Malo",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-12:00, 14:30-17:30",
+          "mercredi": "09:00-12:00, 14:30-17:30",
+          "jeudi": "09:00-12:00, 14:30-17:30",
+          "vendredi": "09:00-12:00, 14:30-17:30",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243315[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243315"
+    }
+  ]
+}

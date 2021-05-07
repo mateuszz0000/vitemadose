@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.938715+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination Covid-19 du Sud 28",
+      "url": "https://partners.doctolib.fr/centre-de-sante/chateaudun/centre-de-vaccination-du-sud-28",
+      "location": {
+        "longitude": 1.3309719,
+        "latitude": 48.0670413,
+        "city": "Ch\u00e2teaudun"
+      },
+      "metadata": {
+        "address": "Impasse des Cordeliers, 28200 Ch\u00e2teaudun",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-18:00",
+          "mardi": null,
+          "mercredi": "09:00-13:00, 14:00-18:00",
+          "jeudi": "09:00-13:00, 14:00-18:00",
+          "vendredi": "09:00-13:00, 14:00-18:00",
+          "samedi": "09:00-13:00, 14:00-18:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-19T14:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 160,
+      "internal_id": "242170[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d242170"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination COVID - Dreux-Vernouillet",
+      "url": "https://partners.doctolib.fr/centre-de-sante/dreux/centre-de-vaccination-covid-dreux-vernouillet-dreux",
+      "location": {
+        "longitude": 1.3575398,
+        "latitude": 48.7327218,
+        "city": "Dreux"
+      },
+      "metadata": {
+        "address": "1 Impasse de la Commune, 28100 Dreux",
+        "phone_number": "+33218485151",
+        "business_hours": {
+          "lundi": "08:30-12:00, 13:30-17:00",
+          "mardi": "08:30-12:00, 13:30-17:00",
+          "mercredi": "08:30-12:00, 13:30-17:00",
+          "jeudi": "08:30-12:00, 13:30-17:00",
+          "vendredi": "08:30-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243045[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243045"
+    },
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination COVID 19 de Chartres m\u00e9tropole",
+      "url": "https://partners.doctolib.fr/centre-examens-de-sante/chartres/centre-de-vaccination-covid-19-de-chartres-metropole",
+      "location": {
+        "longitude": 1.512505,
+        "latitude": 48.4537125,
+        "city": "Chartres"
+      },
+      "metadata": {
+        "address": "Rue du M\u00e9decin G\u00e9n\u00e9ral Beyne, 28000 Chartres",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:00-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241910[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241910"
+    },
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination COVID - Centre de La Loupe",
+      "url": "https://partners.doctolib.fr/centre-de-sante/la-loupe/centre-de-vaccination-covid-centre-de-la-loupe",
+      "location": {
+        "longitude": 1.014772,
+        "latitude": 48.4708799,
+        "city": "La Loupe"
+      },
+      "metadata": {
+        "address": "1 Place Vauban, 28240 La Loupe",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": "14:00-18:00",
+          "jeudi": "14:00-18:00",
+          "vendredi": "14:00-18:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242952[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242952"
+    },
+    {
+      "departement": "28",
+      "nom": "Centre de Vaccination Covid-19 - Voves",
+      "url": "https://partners.doctolib.fr/centre-de-sante/les-villages-voveens/centre-de-vaccination-covid-19-voves",
+      "location": {
+        "longitude": 1.6293773,
+        "latitude": 48.2690273,
+        "city": "Les Villages-Vov\u00e9ens"
+      },
+      "metadata": {
+        "address": "4 Rue Saint-Lubin, 28150 Les Villages-Vov\u00e9ens",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "264040[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d264040"
+    },
+    {
+      "departement": "28",
+      "nom": "Centre de vaccination Covid-19 - Nogent-le-Rotrou",
+      "url": "https://partners.doctolib.fr/centre-de-sante/nogent-le-rotrou/centre-de-vaccination-covid-19-nogent-le-rotrou",
+      "location": {
+        "longitude": 0.7953793,
+        "latitude": 48.3208799,
+        "city": "Nogent-le-Rotrou"
+      },
+      "metadata": {
+        "address": "35 Rue du Perche, 28400 Nogent-le-Rotrou",
+        "phone_number": "+33805021400",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": "14:00-17:30",
+          "jeudi": "14:00-17:30",
+          "vendredi": "14:00-16:00",
+          "samedi": "08:30-12:30",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243405[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243405"
+    }
+  ]
+}

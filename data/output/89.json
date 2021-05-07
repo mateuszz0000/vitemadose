@@ -1,0 +1,291 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.979393+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "89",
+      "nom": "Centre de Vaccination Covid-19 de l'Avallonais",
+      "url": "https://partners.doctolib.fr/hopital-public/avallon/centre-de-vaccination-covid-19-de-l-avallonais",
+      "location": {
+        "longitude": 3.9068552,
+        "latitude": 47.4931327,
+        "city": "Avallon"
+      },
+      "metadata": {
+        "address": "1 Route de Paris, 89200 Avallon",
+        "phone_number": "+33386346712",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-19T15:30:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 29,
+      "internal_id": "243055[]",
+      "vaccine_type": [
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d243055"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination- Les Champs Blancs",
+      "url": "https://vaccination-covid.keldoc.com/cabinet-medical/joigny-89300/centre-de-vaccination-les-champs-blanc",
+      "location": {
+        "longitude": 3.4256,
+        "latitude": 47.9762,
+        "city": "Joigny"
+      },
+      "metadata": {
+        "address": "10 Avenue d'Am\u00e9lia, 89300 Joigny",
+        "phone_number": "+33800725089",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "ferm\u00e9",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "ferm\u00e9",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": "2021-04-27T15:25:00.000000+0200",
+      "plateforme": "Keldoc",
+      "type": "vaccination-center",
+      "appointment_count": 1,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "605"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination Covid-19 - Auxerre Expo",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/auxerre/centre-de-vaccination-covid-19-auxerre",
+      "location": {
+        "longitude": 3.593858,
+        "latitude": 47.7878929,
+        "city": "Auxerre"
+      },
+      "metadata": {
+        "address": "Avenue des Plaines de l'Yonne, 89000 Auxerre",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-14T12:25:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 27,
+      "internal_id": "256139[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d256139"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination Covid-19 - Bl\u00e9neau",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/bleneau/centre-de-vaccination-covid-19-bleneau",
+      "location": {
+        "longitude": 2.9490508,
+        "latitude": 47.6996689,
+        "city": "Bl\u00e9neau"
+      },
+      "metadata": {
+        "address": "14 Place Chataigner, 89220 Bl\u00e9neau",
+        "phone_number": "+33386749161",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-05-15T12:55:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 8,
+      "internal_id": "261834[]",
+      "vaccine_type": [
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d261834"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination du CH de Sens",
+      "url": "https://vaccination-covid.keldoc.com/infectiologue/sens-89100/vaccination-covid-19-2?agenda=51183&motive=81385&category=-1&cabinet=16565",
+      "location": {
+        "longitude": 3.29471,
+        "latitude": 48.1923,
+        "city": "Sens"
+      },
+      "metadata": {
+        "address": "58 Rue Ren\u00e9 Binet, 89100 Sens",
+        "phone_number": "+33186650105",
+        "business_hours": {
+          "lundi": "08:00-19:00",
+          "mardi": "08:00-19:00",
+          "mercredi": "08:00-19:00",
+          "jeudi": "08:00-19:00",
+          "vendredi": "08:00-19:00",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": null,
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "524"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre vaccinal de l\u2019auxerrois - Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/auxerre/centre-vaccinal-de-l-auxerrois?pid=practice-164233",
+      "location": {
+        "longitude": 3.564786,
+        "latitude": 47.8121349,
+        "city": "Auxerre"
+      },
+      "metadata": {
+        "address": "5 Avenue de la Fontaine Sainte-Marguerite, 89000 Auxerre",
+        "phone_number": "+33386486588",
+        "business_hours": {
+          "lundi": "08:30-12:30",
+          "mardi": "08:30-12:30",
+          "mercredi": "08:30-12:30",
+          "jeudi": "08:30-12:30",
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242282[164233]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242282"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination Covid-19 - Espace Sant\u00e9 Simone Veil - Saint Cl\u00e9ment",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saint-clement/centre-de-vaccination-covid-19-espace-sante-simone-veil-saint-clement",
+      "location": {
+        "longitude": 3.2786171,
+        "latitude": 48.2162827,
+        "city": "Saint-Cl\u00e9ment"
+      },
+      "metadata": {
+        "address": "36 Rue de Paris, 89100 Saint-Cl\u00e9ment",
+        "phone_number": "+33890643202",
+        "business_hours": {
+          "lundi": "09:00-16:00",
+          "mardi": "09:00-16:00",
+          "mercredi": "09:00-16:00",
+          "jeudi": "09:00-16:00",
+          "vendredi": "09:00-16:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "261150[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d261150"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination Covid-19 - CH Tonnerre",
+      "url": "https://partners.doctolib.fr/hopital-public/tonnerre/centre-de-vaccination-covid-ch-tonnerre",
+      "location": {
+        "longitude": 3.980947,
+        "latitude": 47.854022,
+        "city": "Tonnerre"
+      },
+      "metadata": {
+        "address": "Chemin des Jumeriaux, 89700 Tonnerre",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242266[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242266"
+    },
+    {
+      "departement": "89",
+      "nom": "Centre de vaccination COVID-19 - Toucy",
+      "url": "https://partners.doctolib.fr/centre-de-sante/toucy/centre-de-vaccination-toucy",
+      "location": {
+        "longitude": 3.294519,
+        "latitude": 47.735607,
+        "city": "Toucy"
+      },
+      "metadata": {
+        "address": "Rue Paul Defrance, 89130 Toucy",
+        "phone_number": "+33386442159",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:00",
+          "mardi": "09:00-12:00, 13:00-17:00",
+          "mercredi": "09:00-12:00, 13:00-17:00",
+          "jeudi": "09:00-12:00, 13:00-17:00",
+          "vendredi": "09:00-12:00, 13:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242412[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242412"
+    }
+  ]
+}

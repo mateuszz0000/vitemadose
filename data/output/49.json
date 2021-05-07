@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.951394+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "49",
+      "nom": "Pharmacie De La Gare",
+      "url": "https://mapharma.net/49100-5?c=201&l=1",
+      "location": {
+        "longitude": -0.557994,
+        "latitude": 47.464515,
+        "city": "ANGERS"
+      },
+      "metadata": {
+        "address": "5 ESPLANADE DE LA GARE, 49100 ANGERS",
+        "business_hours": null
+      },
+      "prochain_rdv": "2021-04-22T16:00:00",
+      "plateforme": "Mapharma",
+      "type": "drugstore",
+      "appointment_count": 1,
+      "internal_id": "2f343931",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "2f343931"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de vaccination Covid de Seiches-sur-le-Loir",
+      "url": "https://partners.doctolib.fr/etablissement-de-prevention/seiches-sur-le-loir/centre-de-vaccination-covid-de-seiches-sur-le-loir",
+      "location": {
+        "longitude": -0.3566348,
+        "latitude": 47.5752302,
+        "city": "Seiches-sur-le-Loir"
+      },
+      "metadata": {
+        "address": "8 Rue Henri R\u00e9gnier, 49140 Seiches-sur-le-Loir",
+        "phone_number": "+33252332005",
+        "business_hours": {
+          "lundi": "08:00-13:00, 14:00-19:00",
+          "mardi": "08:00-13:00, 14:00-19:00",
+          "mercredi": "08:00-13:00, 14:00-19:00",
+          "jeudi": "08:00-13:00, 14:00-19:00",
+          "vendredi": "08:00-13:00, 14:00-19:00",
+          "samedi": "08:00-13:00, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-24T15:10:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 880,
+      "internal_id": "264723[]",
+      "vaccine_type": [
+        "Moderna"
+      ],
+      "erreur": null,
+      "gid": "d264723"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de vaccination COVID-19 - Angers Parc des Expositions",
+      "url": "https://partners.doctolib.fr/centre-de-sante/angers/centre-de-vaccination-covid-19-angers-parc-des-expositions",
+      "location": {
+        "longitude": -0.492828,
+        "latitude": 47.497673,
+        "city": "Verri\u00e8res-en-Anjou"
+      },
+      "metadata": {
+        "address": "Rond-point du Parc des Expositions, 49480 Verri\u00e8res-en-Anjou",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-29T12:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 743,
+      "internal_id": "264050[]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d264050"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "49",
+      "nom": "Centre de vaccination Covid-19 - Ville de Cholet",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/cholet/centre-de-vaccination-covid-19-ville-de-cholet",
+      "location": {
+        "longitude": -0.8969172,
+        "latitude": 47.0576899,
+        "city": "Cholet"
+      },
+      "metadata": {
+        "address": "2 Avenue Marcel Prat, 49300 Cholet",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "243051[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d243051"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de vaccination - Centre Culturel Ren\u00e9 d'Anjou",
+      "url": "https://partners.doctolib.fr/centre-de-sante/bauge-en-anjou/centre-de-vaccination-bauge-en-anjou",
+      "location": {
+        "longitude": -0.1001908,
+        "latitude": 47.5412133,
+        "city": "Baug\u00e9 en Anjou"
+      },
+      "metadata": {
+        "address": "Ruelle de l'Orgerie, 49150 Baug\u00e9 en Anjou",
+        "phone_number": "+33973314975",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": "09:00-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242296[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242296"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre Vaccination COVID 19 des Mauges (49)",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/le-pin-en-mauges/centre-vaccination-covid-19des-mauges-49",
+      "location": {
+        "longitude": -0.8982124,
+        "latitude": 47.2528501,
+        "city": "Le Pin-en-Mauges"
+      },
+      "metadata": {
+        "address": "Avenue du Chemin Vert, 49110 Le Pin-en-Mauges",
+        "phone_number": "+33241717705",
+        "business_hours": {
+          "lundi": "09:00-12:00, 14:00-17:00",
+          "mardi": "09:00-12:00, 14:00-17:00",
+          "mercredi": "09:00-12:00, 14:00-17:00",
+          "jeudi": "09:00-12:00, 14:00-17:00",
+          "vendredi": "09:00-12:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242688[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242688"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de vaccination covid-19 - Segr\u00e9-en-Anjou-Bleu",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/segre-en-anjou-bleu/centre-de-vaccination-covid-19-segre-en-anjou-bleu",
+      "location": {
+        "longitude": -0.8862071,
+        "latitude": 47.6874748,
+        "city": "Segr\u00e9-en-Anjou Bleu"
+      },
+      "metadata": {
+        "address": "Route de Pouanc\u00e9, 49500 Segr\u00e9-en-Anjou Bleu",
+        "phone_number": "+33241612129",
+        "business_hours": {
+          "lundi": "09:00-12:00, 13:30-17:00",
+          "mardi": "09:00-12:00, 13:30-17:00",
+          "mercredi": "09:00-12:00, 13:30-17:00",
+          "jeudi": "09:00-12:00, 13:30-17:00",
+          "vendredi": "09:00-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242985[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242985"
+    },
+    {
+      "departement": "49",
+      "nom": "Centre de vaccination Covid-19 - Ville de Saumur",
+      "url": "https://partners.doctolib.fr/centre-de-sante/saumur/centre-de-vaccination-covid-19-ville-de-saumur",
+      "location": {
+        "longitude": -0.094039,
+        "latitude": 47.267295,
+        "city": "Saumur"
+      },
+      "metadata": {
+        "address": "Avenue du Breil, 49400 Saumur",
+        "business_hours": {
+          "lundi": "08:30-12:00, 13:30-17:00",
+          "mardi": "08:30-12:00, 13:30-17:00",
+          "mercredi": "08:30-12:00, 13:30-17:00",
+          "jeudi": "08:30-12:00, 13:30-17:00",
+          "vendredi": "08:30-12:00, 13:30-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242320[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242320"
+    }
+  ]
+}

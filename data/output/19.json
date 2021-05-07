@@ -1,0 +1,464 @@
+{
+  "version": 1,
+  "last_updated": "2021-04-16T18:46:18.934805+02:00",
+  "centres_disponibles": [
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination Covid-19 de Tulle",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/tulle/centre-de-vaccination-covid-de-tulle",
+      "location": {
+        "longitude": 1.7862921,
+        "latitude": 45.2838245,
+        "city": "Tulle"
+      },
+      "metadata": {
+        "address": "Avenue du Lieutenant Colonel Faro, 19000 Tulle",
+        "phone_number": "+33800190019",
+        "business_hours": {
+          "lundi": "10:00-16:00",
+          "mardi": null,
+          "mercredi": "10:00-16:00",
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": "10:00-16:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-19T11:05:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 242,
+      "internal_id": "242939[164927]",
+      "vaccine_type": [
+        "AstraZeneca"
+      ],
+      "erreur": null,
+      "gid": "d242939"
+    },
+    {
+      "departement": "19",
+      "nom": "[Limousin] Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-163729",
+      "location": {
+        "longitude": 1.5475482,
+        "latitude": 45.1670203,
+        "city": "Brive-la-Gaillarde"
+      },
+      "metadata": {
+        "address": "Avenue du Pr\u00e9sident John Kennedy, 19100 Brive-la-Gaillarde",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": "2021-04-19T13:00:00.000+02:00",
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 72,
+      "internal_id": "240406[163729]",
+      "vaccine_type": [
+        "Pfizer-BioNTech"
+      ],
+      "erreur": null,
+      "gid": "d240406"
+    }
+  ],
+  "centres_indisponibles": [
+    {
+      "departement": "19",
+      "nom": "[Limousin] Vaccination COVID-19 - Bort-les-Orgues",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162949",
+      "location": {
+        "longitude": 2.4968951,
+        "latitude": 45.3928502,
+        "city": "Bort-les-Orgues"
+      },
+      "metadata": {
+        "address": "190 Rue Gustave Parre, 19110 Bort-les-Orgues",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162949]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre Medico Chirurgical Les C\u00e8dres - Vaccination Covid-19",
+      "url": "https://partners.doctolib.fr/clinique-privee/brive-la-gaillarde/centre-medico-chirurgical-les-cedres-vaccination-covid-19",
+      "location": {
+        "longitude": 1.5001772,
+        "latitude": 45.1609615,
+        "city": "Brive-la-Gaillarde"
+      },
+      "metadata": {
+        "address": "Impasse des Cedres, 19100 Brive-la-Gaillarde",
+        "phone_number": "+33826300888",
+        "business_hours": null
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "241647[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d241647"
+    },
+    {
+      "departement": "19",
+      "nom": "[Limousin] Vaccination COVID-19 - Ussel",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162958",
+      "location": {
+        "longitude": 2.3133131,
+        "latitude": 45.5433712,
+        "city": "Ussel"
+      },
+      "metadata": {
+        "address": "2 Avenue du Dr Roullet, 19200 Ussel",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162958]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination Covid-19 - Argentat-sur-Dordogne",
+      "url": "https://partners.doctolib.fr/centre-de-sante/argentat-sur-dordogne/centre-de-vaccination-covid-19-argentat-sur-dordogne",
+      "location": {
+        "longitude": 1.9342766,
+        "latitude": 45.0949566,
+        "city": "Argentat-sur-Dordogne"
+      },
+      "metadata": {
+        "address": "Place Joseph Faure, 19400 Argentat-sur-Dordogne",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "253517[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d253517"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de Vaccination Covid-19 de Meymac",
+      "url": "https://partners.doctolib.fr/centre-de-sante/meymac/centre-de-vaccination-covid-19-de-meymac",
+      "location": {
+        "longitude": 2.152035,
+        "latitude": 45.5341255,
+        "city": "Meymac"
+      },
+      "metadata": {
+        "address": "Avenue du Gaud, 19250 Meymac",
+        "business_hours": {
+          "lundi": null,
+          "mardi": "09:00-13:00, 14:00-17:00",
+          "mercredi": null,
+          "jeudi": "09:00-13:00, 14:00-17:00",
+          "vendredi": "09:00-13:00, 14:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244024[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244024"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre hospitalier du Pays d'Eygurande - Vaccination COVID-19",
+      "url": "https://partners.doctolib.fr/hopital-public/monestier-merlines/centre-hospitalier-du-pays-d-eygurande-monestier-merlines",
+      "location": {
+        "longitude": 2.512209,
+        "latitude": 45.640248,
+        "city": "Monestier-Merlines"
+      },
+      "metadata": {
+        "address": "La Cellette, 19340 Monestier-Merlines",
+        "phone_number": "+33555943207",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "245904[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d245904"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination d'Objat",
+      "url": "https://partners.doctolib.fr/centre-de-sante/objat/centre-de-vaccination-d-objat",
+      "location": {
+        "longitude": 1.4085637,
+        "latitude": 45.2633678,
+        "city": "Objat"
+      },
+      "metadata": {
+        "address": "Rue de l'Ancien Temple, 19130 Objat",
+        "phone_number": "+33608070492",
+        "business_hours": {
+          "lundi": "09:00-12:00",
+          "mardi": "09:00-12:00",
+          "mercredi": "09:00-12:00",
+          "jeudi": "09:00-12:00",
+          "vendredi": "09:00-12:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "256912[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d256912"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination Covid-19 - Beynat",
+      "url": "https://partners.doctolib.fr/centre-de-sante/beynat/centre-de-vaccination-covid-19-beynat",
+      "location": {
+        "longitude": 1.72449979809001,
+        "latitude": 45.1227017746943,
+        "city": "Beynat"
+      },
+      "metadata": {
+        "address": "144 rue des Lucioles, 19190 Beynat",
+        "phone_number": "+33800190019",
+        "business_hours": {
+          "lundi": "09:00-17:00",
+          "mardi": "09:00-17:00",
+          "mercredi": "09:00-17:00",
+          "jeudi": "09:00-17:00",
+          "vendredi": "09:00-17:00",
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "244972[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d244972"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination Covid-19 de Tulle",
+      "url": "https://partners.doctolib.fr/centre-depistage-covid/tulle/centre-de-vaccination-covid-de-tulle?pid=practice-164832",
+      "location": {
+        "longitude": 1.54762329995615,
+        "latitude": 45.167262335721,
+        "city": "Brive-la-Gaillarde"
+      },
+      "metadata": {
+        "address": "Avenue Jacques et Bernadette Chirac, 19100 Brive-la-Gaillarde",
+        "phone_number": "+33800190019",
+        "business_hours": {
+          "lundi": "10:00-16:00",
+          "mardi": "10:00-16:00",
+          "mercredi": "10:00-16:00",
+          "jeudi": "10:00-16:00",
+          "vendredi": "10:00-16:00",
+          "samedi": "10:00-16:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "242939[164832]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d242939"
+    },
+    {
+      "departement": "19",
+      "nom": "[Limousin] Vaccination COVID-19 - Tulle",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-162982",
+      "location": {
+        "longitude": 1.7703787,
+        "latitude": 45.2704007,
+        "city": "Tulle"
+      },
+      "metadata": {
+        "address": "3 Place Maschat, 19000 Tulle",
+        "phone_number": "+33555087520",
+        "business_hours": {
+          "lundi": "07:30-20:00",
+          "mardi": "07:30-20:00",
+          "mercredi": "07:30-20:00",
+          "jeudi": "07:30-20:00",
+          "vendredi": "07:30-20:00",
+          "samedi": "07:30-12:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[162982]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "19",
+      "nom": "[Limousin] Vaccination COVID-19 - Ussel",
+      "url": "https://partners.doctolib.fr/centre-de-vaccinations-internationales/limousin/vaccination-covid-19-professionnels-de-sante?pid=practice-181771",
+      "location": {
+        "longitude": 2.3089319,
+        "latitude": 45.5433728,
+        "city": "Ussel"
+      },
+      "metadata": {
+        "address": "Rue du G\u00e9n\u00e9ral Antony Prouzergue, 19200 Ussel",
+        "business_hours": {
+          "lundi": "09:00-13:00, 14:00-19:00",
+          "mardi": "09:00-13:00, 14:00-19:00",
+          "mercredi": "09:00-13:00, 14:00-19:00",
+          "jeudi": "09:00-13:00, 14:00-19:00",
+          "vendredi": "09:00-13:00, 14:00-19:00",
+          "samedi": "09:00-13:00, 14:00-19:00",
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "240406[181771]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d240406"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de Vaccination d'Uzerche",
+      "url": "https://partners.doctolib.fr/centre-de-sante/uzerche/centre-de-vaccination-d-uzerche",
+      "location": {
+        "longitude": 1.5651879,
+        "latitude": 45.4157792,
+        "city": "Uzerche"
+      },
+      "metadata": {
+        "address": "57 Avenue du Stade, 19140 Uzerche",
+        "business_hours": {
+          "lundi": null,
+          "mardi": null,
+          "mercredi": null,
+          "jeudi": null,
+          "vendredi": null,
+          "samedi": null,
+          "dimanche": null
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Doctolib",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": "254998[]",
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "d254998"
+    },
+    {
+      "departement": "19",
+      "nom": "Centre de vaccination - Beaulieu sur Dordogne",
+      "url": "https://www.maiia.com/centre-de-vaccination/19120-beaulieu-sur-dordogne/-centre-de-vaccination-de-beaulieu-sur-dordogne",
+      "location": {
+        "longitude": 1.83952,
+        "latitude": 44.9788,
+        "city": "Beaulieu-sur-Dordogne"
+      },
+      "metadata": {
+        "address": "8 Bd Saint Rodolphe de Turenne, 19120 Beaulieu-sur-Dordogne",
+        "phone_number": "+33760714827",
+        "business_hours": {
+          "lundi": "ferm\u00e9",
+          "mardi": "14:00-17:00",
+          "mercredi": "ferm\u00e9",
+          "jeudi": "09:00-17:00",
+          "vendredi": "ferm\u00e9",
+          "samedi": "ferm\u00e9",
+          "dimanche": "ferm\u00e9"
+        }
+      },
+      "prochain_rdv": null,
+      "plateforme": "Maiia",
+      "type": "vaccination-center",
+      "appointment_count": 0,
+      "internal_id": null,
+      "vaccine_type": null,
+      "erreur": null,
+      "gid": "1994"
+    }
+  ]
+}
